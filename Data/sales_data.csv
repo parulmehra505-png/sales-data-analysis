@@ -1,0 +1,2935 @@
+order_id,date,product,category,region,quantity,unit_price,revenue
+1000,2024-01-01,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+1001,2024-01-01,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+1002,2024-01-01,Desk Lamp,Office,West,2,24.99,49.98
+1003,2024-01-01,Office Chair,Office,West,2,149.99,299.98
+1004,2024-01-01,Desk Lamp,Office,West,1,24.99,24.99
+1005,2024-01-01,Backpack,Lifestyle,West,5,45.99,229.95
+1006,2024-01-02,USB-C Hub,Electronics,East,4,29.99,119.96
+1007,2024-01-02,Laptop Stand,Office,East,1,34.99,34.99
+1008,2024-01-02,Desk Lamp,Office,East,3,24.99,74.97
+1009,2024-01-03,Laptop Stand,Office,East,4,34.99,139.96
+1010,2024-01-03,Notebook Set,Stationery,North,4,8.99,35.96
+1011,2024-01-03,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+1012,2024-01-03,Wireless Mouse,Electronics,South,4,19.99,79.96
+1013,2024-01-03,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+1014,2024-01-03,Office Chair,Office,West,2,149.99,299.98
+1015,2024-01-04,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+1016,2024-01-04,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1017,2024-01-04,Backpack,Lifestyle,West,1,45.99,45.99
+1018,2024-01-04,Water Bottle,Lifestyle,East,5,15.99,79.95
+1019,2024-01-04,Wireless Mouse,Electronics,East,1,19.99,19.99
+1020,2024-01-04,Water Bottle,Lifestyle,West,1,15.99,15.99
+1021,2024-01-04,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+1022,2024-01-04,Wireless Mouse,Electronics,East,3,19.99,59.97
+1023,2024-01-04,Wireless Mouse,Electronics,North,3,19.99,59.97
+1024,2024-01-05,USB-C Hub,Electronics,East,5,29.99,149.95
+1025,2024-01-05,USB-C Hub,Electronics,North,1,29.99,29.99
+1026,2024-01-05,Backpack,Lifestyle,North,3,45.99,137.97
+1027,2024-01-05,Backpack,Lifestyle,West,2,45.99,91.98
+1028,2024-01-05,USB-C Hub,Electronics,West,1,29.99,29.99
+1029,2024-01-05,Laptop Stand,Office,East,5,34.99,174.95
+1030,2024-01-05,Notebook Set,Stationery,East,5,8.99,44.95
+1031,2024-01-05,Laptop Stand,Office,West,5,34.99,174.95
+1032,2024-01-05,Notebook Set,Stationery,East,3,8.99,26.97
+1033,2024-01-05,Office Chair,Office,South,4,149.99,599.96
+1034,2024-01-05,Backpack,Lifestyle,South,5,45.99,229.95
+1035,2024-01-06,Water Bottle,Lifestyle,South,3,15.99,47.97
+1036,2024-01-06,Water Bottle,Lifestyle,North,4,15.99,63.96
+1037,2024-01-06,Water Bottle,Lifestyle,East,3,15.99,47.97
+1038,2024-01-06,Office Chair,Office,North,3,149.99,449.97
+1039,2024-01-06,Desk Lamp,Office,East,1,24.99,24.99
+1040,2024-01-06,Backpack,Lifestyle,West,4,45.99,183.96
+1041,2024-01-06,Office Chair,Office,West,1,149.99,149.99
+1042,2024-01-06,Wireless Mouse,Electronics,South,1,19.99,19.99
+1043,2024-01-06,Laptop Stand,Office,South,4,34.99,139.96
+1044,2024-01-07,Notebook Set,Stationery,West,5,8.99,44.95
+1045,2024-01-07,Wireless Mouse,Electronics,East,1,19.99,19.99
+1046,2024-01-07,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1047,2024-01-07,Backpack,Lifestyle,East,4,45.99,183.96
+1048,2024-01-07,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+1049,2024-01-07,Office Chair,Office,West,5,149.99,749.95
+1050,2024-01-08,Notebook Set,Stationery,North,4,8.99,35.96
+1051,2024-01-08,Wireless Mouse,Electronics,West,2,19.99,39.98
+1052,2024-01-08,Wireless Mouse,Electronics,West,3,19.99,59.97
+1053,2024-01-08,Water Bottle,Lifestyle,South,1,15.99,15.99
+1054,2024-01-08,Notebook Set,Stationery,East,2,8.99,17.98
+1055,2024-01-08,Notebook Set,Stationery,West,4,8.99,35.96
+1056,2024-01-08,Backpack,Lifestyle,West,1,45.99,45.99
+1057,2024-01-08,Wireless Mouse,Electronics,North,2,19.99,39.98
+1058,2024-01-08,Desk Lamp,Office,West,5,24.99,124.95
+1059,2024-01-08,Notebook Set,Stationery,North,1,8.99,8.99
+1060,2024-01-08,USB-C Hub,Electronics,West,3,29.99,89.97
+1061,2024-01-08,USB-C Hub,Electronics,West,4,29.99,119.96
+1062,2024-01-09,Laptop Stand,Office,South,1,34.99,34.99
+1063,2024-01-09,Desk Lamp,Office,West,4,24.99,99.96
+1064,2024-01-09,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+1065,2024-01-09,Wireless Mouse,Electronics,East,4,19.99,79.96
+1066,2024-01-09,USB-C Hub,Electronics,East,5,29.99,149.95
+1067,2024-01-09,Office Chair,Office,East,3,149.99,449.97
+1068,2024-01-09,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+1069,2024-01-09,Wireless Mouse,Electronics,East,4,19.99,79.96
+1070,2024-01-09,Wireless Mouse,Electronics,West,5,19.99,99.95
+1071,2024-01-09,USB-C Hub,Electronics,East,4,29.99,119.96
+1072,2024-01-09,Wireless Mouse,Electronics,West,1,19.99,19.99
+1073,2024-01-09,Desk Lamp,Office,West,3,24.99,74.97
+1074,2024-01-09,Water Bottle,Lifestyle,West,5,15.99,79.95
+1075,2024-01-09,Wireless Mouse,Electronics,East,5,19.99,99.95
+1076,2024-01-09,USB-C Hub,Electronics,North,4,29.99,119.96
+1077,2024-01-10,Backpack,Lifestyle,East,2,45.99,91.98
+1078,2024-01-10,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+1079,2024-01-10,Office Chair,Office,East,2,149.99,299.98
+1080,2024-01-10,Backpack,Lifestyle,South,2,45.99,91.98
+1081,2024-01-10,Wireless Mouse,Electronics,North,1,19.99,19.99
+1082,2024-01-11,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1083,2024-01-11,Backpack,Lifestyle,South,5,45.99,229.95
+1084,2024-01-11,Backpack,Lifestyle,South,2,45.99,91.98
+1085,2024-01-11,Wireless Mouse,Electronics,South,4,19.99,79.96
+1086,2024-01-11,Office Chair,Office,West,3,149.99,449.97
+1087,2024-01-11,Desk Lamp,Office,West,1,24.99,24.99
+1088,2024-01-11,Desk Lamp,Office,West,4,24.99,99.96
+1089,2024-01-11,Desk Lamp,Office,South,4,24.99,99.96
+1090,2024-01-11,Laptop Stand,Office,East,3,34.99,104.97
+1091,2024-01-11,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+1092,2024-01-11,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+1093,2024-01-11,USB-C Hub,Electronics,West,1,29.99,29.99
+1094,2024-01-11,USB-C Hub,Electronics,South,4,29.99,119.96
+1095,2024-01-11,Notebook Set,Stationery,North,2,8.99,17.98
+1096,2024-01-11,Backpack,Lifestyle,South,5,45.99,229.95
+1097,2024-01-12,Notebook Set,Stationery,South,5,8.99,44.95
+1098,2024-01-12,Notebook Set,Stationery,West,3,8.99,26.97
+1099,2024-01-12,Backpack,Lifestyle,North,3,45.99,137.97
+1100,2024-01-12,Office Chair,Office,North,1,149.99,149.99
+1101,2024-01-12,Desk Lamp,Office,South,1,24.99,24.99
+1102,2024-01-12,Laptop Stand,Office,West,5,34.99,174.95
+1103,2024-01-12,Backpack,Lifestyle,West,2,45.99,91.98
+1104,2024-01-12,Desk Lamp,Office,North,4,24.99,99.96
+1105,2024-01-12,Desk Lamp,Office,South,2,24.99,49.98
+1106,2024-01-13,USB-C Hub,Electronics,West,2,29.99,59.98
+1107,2024-01-13,Wireless Mouse,Electronics,North,5,19.99,99.95
+1108,2024-01-13,Laptop Stand,Office,North,2,34.99,69.98
+1109,2024-01-14,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+1110,2024-01-14,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+1111,2024-01-14,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+1112,2024-01-14,Wireless Mouse,Electronics,West,2,19.99,39.98
+1113,2024-01-14,Backpack,Lifestyle,South,2,45.99,91.98
+1114,2024-01-14,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1115,2024-01-14,Notebook Set,Stationery,South,4,8.99,35.96
+1116,2024-01-14,Desk Lamp,Office,North,2,24.99,49.98
+1117,2024-01-14,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+1118,2024-01-15,Notebook Set,Stationery,East,1,8.99,8.99
+1119,2024-01-15,Water Bottle,Lifestyle,North,1,15.99,15.99
+1120,2024-01-15,Laptop Stand,Office,South,1,34.99,34.99
+1121,2024-01-15,USB-C Hub,Electronics,West,1,29.99,29.99
+1122,2024-01-15,Water Bottle,Lifestyle,West,3,15.99,47.97
+1123,2024-01-15,Water Bottle,Lifestyle,South,4,15.99,63.96
+1124,2024-01-15,Laptop Stand,Office,South,3,34.99,104.97
+1125,2024-01-15,Desk Lamp,Office,East,5,24.99,124.95
+1126,2024-01-15,Water Bottle,Lifestyle,East,4,15.99,63.96
+1127,2024-01-15,Desk Lamp,Office,North,4,24.99,99.96
+1128,2024-01-15,Notebook Set,Stationery,East,1,8.99,8.99
+1129,2024-01-15,Desk Lamp,Office,South,2,24.99,49.98
+1130,2024-01-16,Backpack,Lifestyle,West,2,45.99,91.98
+1131,2024-01-16,Wireless Mouse,Electronics,South,5,19.99,99.95
+1132,2024-01-16,Notebook Set,Stationery,West,5,8.99,44.95
+1133,2024-01-16,Backpack,Lifestyle,South,1,45.99,45.99
+1134,2024-01-16,Backpack,Lifestyle,North,2,45.99,91.98
+1135,2024-01-16,Desk Lamp,Office,West,3,24.99,74.97
+1136,2024-01-17,USB-C Hub,Electronics,North,5,29.99,149.95
+1137,2024-01-17,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+1138,2024-01-17,Backpack,Lifestyle,West,4,45.99,183.96
+1139,2024-01-17,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+1140,2024-01-17,Water Bottle,Lifestyle,East,1,15.99,15.99
+1141,2024-01-17,Water Bottle,Lifestyle,North,4,15.99,63.96
+1142,2024-01-17,Water Bottle,Lifestyle,South,1,15.99,15.99
+1143,2024-01-17,Desk Lamp,Office,West,2,24.99,49.98
+1144,2024-01-17,Desk Lamp,Office,East,5,24.99,124.95
+1145,2024-01-17,Desk Lamp,Office,East,4,24.99,99.96
+1146,2024-01-17,USB-C Hub,Electronics,North,4,29.99,119.96
+1147,2024-01-17,Mechanical Keyboard,Electronics,North,1,59.99,59.99
+1148,2024-01-18,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+1149,2024-01-18,Laptop Stand,Office,West,2,34.99,69.98
+1150,2024-01-18,Backpack,Lifestyle,South,4,45.99,183.96
+1151,2024-01-18,Desk Lamp,Office,West,1,24.99,24.99
+1152,2024-01-18,Office Chair,Office,North,1,149.99,149.99
+1153,2024-01-18,Wireless Mouse,Electronics,West,5,19.99,99.95
+1154,2024-01-18,USB-C Hub,Electronics,South,5,29.99,149.95
+1155,2024-01-18,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+1156,2024-01-18,Desk Lamp,Office,South,1,24.99,24.99
+1157,2024-01-18,Backpack,Lifestyle,East,2,45.99,91.98
+1158,2024-01-19,Wireless Mouse,Electronics,North,3,19.99,59.97
+1159,2024-01-19,Backpack,Lifestyle,South,1,45.99,45.99
+1160,2024-01-19,Wireless Mouse,Electronics,North,5,19.99,99.95
+1161,2024-01-20,Office Chair,Office,North,4,149.99,599.96
+1162,2024-01-20,Desk Lamp,Office,South,5,24.99,124.95
+1163,2024-01-20,USB-C Hub,Electronics,East,5,29.99,149.95
+1164,2024-01-21,Wireless Mouse,Electronics,West,1,19.99,19.99
+1165,2024-01-21,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+1166,2024-01-21,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+1167,2024-01-21,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+1168,2024-01-21,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+1169,2024-01-21,Office Chair,Office,North,4,149.99,599.96
+1170,2024-01-21,Water Bottle,Lifestyle,West,1,15.99,15.99
+1171,2024-01-22,Wireless Mouse,Electronics,South,4,19.99,79.96
+1172,2024-01-22,Notebook Set,Stationery,East,2,8.99,17.98
+1173,2024-01-22,Wireless Mouse,Electronics,North,5,19.99,99.95
+1174,2024-01-22,Laptop Stand,Office,West,2,34.99,69.98
+1175,2024-01-22,Wireless Mouse,Electronics,North,2,19.99,39.98
+1176,2024-01-22,Laptop Stand,Office,South,5,34.99,174.95
+1177,2024-01-22,Office Chair,Office,South,5,149.99,749.95
+1178,2024-01-22,USB-C Hub,Electronics,East,1,29.99,29.99
+1179,2024-01-22,Notebook Set,Stationery,South,3,8.99,26.97
+1180,2024-01-22,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+1181,2024-01-22,Laptop Stand,Office,East,1,34.99,34.99
+1182,2024-01-22,USB-C Hub,Electronics,North,3,29.99,89.97
+1183,2024-01-22,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+1184,2024-01-23,Desk Lamp,Office,West,1,24.99,24.99
+1185,2024-01-23,Backpack,Lifestyle,North,2,45.99,91.98
+1186,2024-01-23,Backpack,Lifestyle,East,5,45.99,229.95
+1187,2024-01-23,Water Bottle,Lifestyle,North,2,15.99,31.98
+1188,2024-01-23,Water Bottle,Lifestyle,East,3,15.99,47.97
+1189,2024-01-24,USB-C Hub,Electronics,West,5,29.99,149.95
+1190,2024-01-24,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+1191,2024-01-24,Notebook Set,Stationery,North,2,8.99,17.98
+1192,2024-01-25,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+1193,2024-01-25,USB-C Hub,Electronics,East,3,29.99,89.97
+1194,2024-01-25,Water Bottle,Lifestyle,West,5,15.99,79.95
+1195,2024-01-25,Backpack,Lifestyle,North,1,45.99,45.99
+1196,2024-01-25,Notebook Set,Stationery,South,2,8.99,17.98
+1197,2024-01-25,Water Bottle,Lifestyle,North,1,15.99,15.99
+1198,2024-01-26,Water Bottle,Lifestyle,South,5,15.99,79.95
+1199,2024-01-26,Laptop Stand,Office,West,2,34.99,69.98
+1200,2024-01-26,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+1201,2024-01-26,Office Chair,Office,North,5,149.99,749.95
+1202,2024-01-26,Wireless Mouse,Electronics,South,5,19.99,99.95
+1203,2024-01-26,Desk Lamp,Office,South,4,24.99,99.96
+1204,2024-01-26,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+1205,2024-01-26,USB-C Hub,Electronics,East,3,29.99,89.97
+1206,2024-01-26,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+1207,2024-01-27,Office Chair,Office,South,1,149.99,149.99
+1208,2024-01-27,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+1209,2024-01-27,Water Bottle,Lifestyle,East,2,15.99,31.98
+1210,2024-01-27,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+1211,2024-01-28,Office Chair,Office,South,5,149.99,749.95
+1212,2024-01-28,Laptop Stand,Office,East,5,34.99,174.95
+1213,2024-01-28,USB-C Hub,Electronics,South,1,29.99,29.99
+1214,2024-01-28,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+1215,2024-01-28,Notebook Set,Stationery,West,2,8.99,17.98
+1216,2024-01-28,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1217,2024-01-28,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+1218,2024-01-29,Water Bottle,Lifestyle,East,3,15.99,47.97
+1219,2024-01-30,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+1220,2024-01-30,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+1221,2024-01-30,Desk Lamp,Office,South,4,24.99,99.96
+1222,2024-01-30,USB-C Hub,Electronics,North,5,29.99,149.95
+1223,2024-01-30,Desk Lamp,Office,East,3,24.99,74.97
+1224,2024-01-30,Backpack,Lifestyle,North,4,45.99,183.96
+1225,2024-01-30,Backpack,Lifestyle,South,1,45.99,45.99
+1226,2024-01-30,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+1227,2024-01-30,Office Chair,Office,East,1,149.99,149.99
+1228,2024-01-30,Wireless Mouse,Electronics,North,1,19.99,19.99
+1229,2024-01-31,Wireless Mouse,Electronics,South,4,19.99,79.96
+1230,2024-01-31,Notebook Set,Stationery,West,3,8.99,26.97
+1231,2024-01-31,Office Chair,Office,North,1,149.99,149.99
+1232,2024-01-31,Desk Lamp,Office,East,3,24.99,74.97
+1233,2024-01-31,Wireless Mouse,Electronics,South,4,19.99,79.96
+1234,2024-01-31,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+1235,2024-01-31,Backpack,Lifestyle,South,1,45.99,45.99
+1236,2024-01-31,Office Chair,Office,East,5,149.99,749.95
+1237,2024-01-31,Laptop Stand,Office,West,5,34.99,174.95
+1238,2024-02-01,USB-C Hub,Electronics,West,3,29.99,89.97
+1239,2024-02-01,Laptop Stand,Office,East,2,34.99,69.98
+1240,2024-02-01,Desk Lamp,Office,East,4,24.99,99.96
+1241,2024-02-01,Backpack,Lifestyle,South,2,45.99,91.98
+1242,2024-02-01,Backpack,Lifestyle,West,5,45.99,229.95
+1243,2024-02-01,Mechanical Keyboard,Electronics,North,1,59.99,59.99
+1244,2024-02-02,Backpack,Lifestyle,South,1,45.99,45.99
+1245,2024-02-02,USB-C Hub,Electronics,South,5,29.99,149.95
+1246,2024-02-02,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+1247,2024-02-02,Notebook Set,Stationery,South,1,8.99,8.99
+1248,2024-02-02,Desk Lamp,Office,South,5,24.99,124.95
+1249,2024-02-02,Laptop Stand,Office,North,1,34.99,34.99
+1250,2024-02-02,Office Chair,Office,West,3,149.99,449.97
+1251,2024-02-02,Desk Lamp,Office,North,1,24.99,24.99
+1252,2024-02-03,Water Bottle,Lifestyle,East,3,15.99,47.97
+1253,2024-02-03,Laptop Stand,Office,South,1,34.99,34.99
+1254,2024-02-04,USB-C Hub,Electronics,East,1,29.99,29.99
+1255,2024-02-04,Laptop Stand,Office,West,5,34.99,174.95
+1256,2024-02-04,Wireless Mouse,Electronics,North,1,19.99,19.99
+1257,2024-02-04,Office Chair,Office,West,2,149.99,299.98
+1258,2024-02-04,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+1259,2024-02-04,Notebook Set,Stationery,West,1,8.99,8.99
+1260,2024-02-05,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+1261,2024-02-05,Wireless Mouse,Electronics,North,5,19.99,99.95
+1262,2024-02-05,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+1263,2024-02-05,Wireless Mouse,Electronics,East,3,19.99,59.97
+1264,2024-02-05,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+1265,2024-02-05,Wireless Mouse,Electronics,South,2,19.99,39.98
+1266,2024-02-05,Office Chair,Office,East,3,149.99,449.97
+1267,2024-02-05,Laptop Stand,Office,West,1,34.99,34.99
+1268,2024-02-06,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1269,2024-02-06,Wireless Mouse,Electronics,East,1,19.99,19.99
+1270,2024-02-06,USB-C Hub,Electronics,East,3,29.99,89.97
+1271,2024-02-06,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+1272,2024-02-06,Desk Lamp,Office,East,3,24.99,74.97
+1273,2024-02-06,Wireless Mouse,Electronics,East,4,19.99,79.96
+1274,2024-02-06,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+1275,2024-02-07,Notebook Set,Stationery,East,1,8.99,8.99
+1276,2024-02-07,Desk Lamp,Office,West,3,24.99,74.97
+1277,2024-02-07,USB-C Hub,Electronics,North,4,29.99,119.96
+1278,2024-02-07,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+1279,2024-02-07,Desk Lamp,Office,East,4,24.99,99.96
+1280,2024-02-07,Backpack,Lifestyle,East,2,45.99,91.98
+1281,2024-02-07,Notebook Set,Stationery,West,4,8.99,35.96
+1282,2024-02-07,Desk Lamp,Office,South,5,24.99,124.95
+1283,2024-02-07,Water Bottle,Lifestyle,North,2,15.99,31.98
+1284,2024-02-08,Water Bottle,Lifestyle,North,2,15.99,31.98
+1285,2024-02-08,Water Bottle,Lifestyle,South,1,15.99,15.99
+1286,2024-02-08,Office Chair,Office,South,3,149.99,449.97
+1287,2024-02-08,Laptop Stand,Office,South,2,34.99,69.98
+1288,2024-02-08,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+1289,2024-02-08,Office Chair,Office,West,2,149.99,299.98
+1290,2024-02-08,Desk Lamp,Office,West,2,24.99,49.98
+1291,2024-02-08,Water Bottle,Lifestyle,North,2,15.99,31.98
+1292,2024-02-08,Desk Lamp,Office,South,1,24.99,24.99
+1293,2024-02-09,Water Bottle,Lifestyle,West,3,15.99,47.97
+1294,2024-02-09,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+1295,2024-02-09,Water Bottle,Lifestyle,East,5,15.99,79.95
+1296,2024-02-10,Desk Lamp,Office,East,4,24.99,99.96
+1297,2024-02-10,Backpack,Lifestyle,North,5,45.99,229.95
+1298,2024-02-10,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+1299,2024-02-10,Laptop Stand,Office,East,1,34.99,34.99
+1300,2024-02-10,Notebook Set,Stationery,South,3,8.99,26.97
+1301,2024-02-10,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1302,2024-02-10,Wireless Mouse,Electronics,West,2,19.99,39.98
+1303,2024-02-11,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+1304,2024-02-11,Water Bottle,Lifestyle,North,1,15.99,15.99
+1305,2024-02-11,Water Bottle,Lifestyle,East,5,15.99,79.95
+1306,2024-02-11,Gel Pens (Pack),Stationery,North,2,6.49,12.98
+1307,2024-02-11,Notebook Set,Stationery,East,3,8.99,26.97
+1308,2024-02-11,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1309,2024-02-12,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+1310,2024-02-12,Desk Lamp,Office,East,1,24.99,24.99
+1311,2024-02-12,Desk Lamp,Office,South,1,24.99,24.99
+1312,2024-02-12,Water Bottle,Lifestyle,East,4,15.99,63.96
+1313,2024-02-12,Backpack,Lifestyle,North,1,45.99,45.99
+1314,2024-02-12,Backpack,Lifestyle,West,2,45.99,91.98
+1315,2024-02-12,Notebook Set,Stationery,East,1,8.99,8.99
+1316,2024-02-12,Backpack,Lifestyle,South,5,45.99,229.95
+1317,2024-02-13,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+1318,2024-02-13,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1319,2024-02-13,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+1320,2024-02-13,Notebook Set,Stationery,East,4,8.99,35.96
+1321,2024-02-13,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+1322,2024-02-13,Office Chair,Office,North,1,149.99,149.99
+1323,2024-02-13,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+1324,2024-02-13,Backpack,Lifestyle,South,4,45.99,183.96
+1325,2024-02-13,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+1326,2024-02-13,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+1327,2024-02-13,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+1328,2024-02-13,Notebook Set,Stationery,North,4,8.99,35.96
+1329,2024-02-14,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+1330,2024-02-14,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+1331,2024-02-14,Wireless Mouse,Electronics,South,5,19.99,99.95
+1332,2024-02-14,Water Bottle,Lifestyle,North,1,15.99,15.99
+1333,2024-02-14,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+1334,2024-02-14,Backpack,Lifestyle,North,5,45.99,229.95
+1335,2024-02-14,Desk Lamp,Office,West,3,24.99,74.97
+1336,2024-02-14,Office Chair,Office,South,3,149.99,449.97
+1337,2024-02-14,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+1338,2024-02-14,Laptop Stand,Office,East,4,34.99,139.96
+1339,2024-02-14,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+1340,2024-02-15,USB-C Hub,Electronics,North,5,29.99,149.95
+1341,2024-02-15,Office Chair,Office,North,1,149.99,149.99
+1342,2024-02-15,USB-C Hub,Electronics,South,4,29.99,119.96
+1343,2024-02-15,Wireless Mouse,Electronics,East,5,19.99,99.95
+1344,2024-02-15,Backpack,Lifestyle,South,3,45.99,137.97
+1345,2024-02-15,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+1346,2024-02-16,Water Bottle,Lifestyle,North,3,15.99,47.97
+1347,2024-02-16,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+1348,2024-02-16,Water Bottle,Lifestyle,North,1,15.99,15.99
+1349,2024-02-16,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+1350,2024-02-16,Office Chair,Office,North,3,149.99,449.97
+1351,2024-02-16,Backpack,Lifestyle,South,2,45.99,91.98
+1352,2024-02-16,Desk Lamp,Office,West,4,24.99,99.96
+1353,2024-02-16,Desk Lamp,Office,North,5,24.99,124.95
+1354,2024-02-16,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1355,2024-02-17,Water Bottle,Lifestyle,East,5,15.99,79.95
+1356,2024-02-17,Water Bottle,Lifestyle,South,5,15.99,79.95
+1357,2024-02-17,Laptop Stand,Office,South,3,34.99,104.97
+1358,2024-02-17,Notebook Set,Stationery,East,5,8.99,44.95
+1359,2024-02-17,Backpack,Lifestyle,East,1,45.99,45.99
+1360,2024-02-17,Notebook Set,Stationery,South,2,8.99,17.98
+1361,2024-02-17,Desk Lamp,Office,West,2,24.99,49.98
+1362,2024-02-17,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+1363,2024-02-17,Notebook Set,Stationery,West,2,8.99,17.98
+1364,2024-02-18,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+1365,2024-02-18,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+1366,2024-02-18,Office Chair,Office,South,3,149.99,449.97
+1367,2024-02-19,Office Chair,Office,West,4,149.99,599.96
+1368,2024-02-19,Laptop Stand,Office,West,2,34.99,69.98
+1369,2024-02-19,Wireless Mouse,Electronics,South,4,19.99,79.96
+1370,2024-02-19,Wireless Mouse,Electronics,South,2,19.99,39.98
+1371,2024-02-19,Wireless Mouse,Electronics,West,2,19.99,39.98
+1372,2024-02-20,Wireless Mouse,Electronics,East,3,19.99,59.97
+1373,2024-02-20,Backpack,Lifestyle,South,2,45.99,91.98
+1374,2024-02-20,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1375,2024-02-20,Wireless Mouse,Electronics,North,3,19.99,59.97
+1376,2024-02-20,Water Bottle,Lifestyle,North,5,15.99,79.95
+1377,2024-02-20,Laptop Stand,Office,East,2,34.99,69.98
+1378,2024-02-20,Laptop Stand,Office,East,3,34.99,104.97
+1379,2024-02-21,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+1380,2024-02-21,Wireless Mouse,Electronics,West,1,19.99,19.99
+1381,2024-02-21,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+1382,2024-02-21,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+1383,2024-02-21,Water Bottle,Lifestyle,North,1,15.99,15.99
+1384,2024-02-21,Desk Lamp,Office,South,3,24.99,74.97
+1385,2024-02-21,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+1386,2024-02-21,USB-C Hub,Electronics,West,5,29.99,149.95
+1387,2024-02-21,Desk Lamp,Office,South,4,24.99,99.96
+1388,2024-02-21,USB-C Hub,Electronics,South,4,29.99,119.96
+1389,2024-02-21,Water Bottle,Lifestyle,South,1,15.99,15.99
+1390,2024-02-22,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+1391,2024-02-22,Wireless Mouse,Electronics,South,5,19.99,99.95
+1392,2024-02-22,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1393,2024-02-22,Water Bottle,Lifestyle,West,1,15.99,15.99
+1394,2024-02-22,Office Chair,Office,West,1,149.99,149.99
+1395,2024-02-22,Office Chair,Office,West,3,149.99,449.97
+1396,2024-02-23,Office Chair,Office,West,4,149.99,599.96
+1397,2024-02-23,Wireless Mouse,Electronics,West,2,19.99,39.98
+1398,2024-02-23,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+1399,2024-02-24,Laptop Stand,Office,South,2,34.99,69.98
+1400,2024-02-24,Notebook Set,Stationery,South,2,8.99,17.98
+1401,2024-02-24,Notebook Set,Stationery,South,2,8.99,17.98
+1402,2024-02-25,Office Chair,Office,South,1,149.99,149.99
+1403,2024-02-25,Water Bottle,Lifestyle,South,1,15.99,15.99
+1404,2024-02-25,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+1405,2024-02-25,Laptop Stand,Office,East,3,34.99,104.97
+1406,2024-02-25,Notebook Set,Stationery,West,3,8.99,26.97
+1407,2024-02-26,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+1408,2024-02-26,Water Bottle,Lifestyle,East,5,15.99,79.95
+1409,2024-02-26,Backpack,Lifestyle,East,3,45.99,137.97
+1410,2024-02-26,Laptop Stand,Office,West,5,34.99,174.95
+1411,2024-02-26,Notebook Set,Stationery,East,5,8.99,44.95
+1412,2024-02-26,USB-C Hub,Electronics,South,4,29.99,119.96
+1413,2024-02-27,USB-C Hub,Electronics,North,3,29.99,89.97
+1414,2024-02-27,Office Chair,Office,East,1,149.99,149.99
+1415,2024-02-27,Wireless Mouse,Electronics,East,5,19.99,99.95
+1416,2024-02-27,Backpack,Lifestyle,West,5,45.99,229.95
+1417,2024-02-27,Laptop Stand,Office,West,5,34.99,174.95
+1418,2024-02-28,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+1419,2024-02-28,Notebook Set,Stationery,East,2,8.99,17.98
+1420,2024-02-28,USB-C Hub,Electronics,South,2,29.99,59.98
+1421,2024-02-28,USB-C Hub,Electronics,South,5,29.99,149.95
+1422,2024-02-28,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+1423,2024-02-28,Wireless Mouse,Electronics,South,3,19.99,59.97
+1424,2024-02-28,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+1425,2024-02-28,Notebook Set,Stationery,West,2,8.99,17.98
+1426,2024-02-29,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+1427,2024-02-29,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+1428,2024-02-29,Water Bottle,Lifestyle,West,1,15.99,15.99
+1429,2024-02-29,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1430,2024-02-29,Desk Lamp,Office,West,1,24.99,24.99
+1431,2024-03-01,Desk Lamp,Office,West,4,24.99,99.96
+1432,2024-03-01,Wireless Mouse,Electronics,West,1,19.99,19.99
+1433,2024-03-01,Office Chair,Office,West,4,149.99,599.96
+1434,2024-03-01,Water Bottle,Lifestyle,North,3,15.99,47.97
+1435,2024-03-01,Desk Lamp,Office,North,4,24.99,99.96
+1436,2024-03-01,Wireless Mouse,Electronics,West,1,19.99,19.99
+1437,2024-03-01,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+1438,2024-03-01,Office Chair,Office,East,4,149.99,599.96
+1439,2024-03-01,Laptop Stand,Office,South,2,34.99,69.98
+1440,2024-03-02,Notebook Set,Stationery,South,3,8.99,26.97
+1441,2024-03-02,Desk Lamp,Office,East,5,24.99,124.95
+1442,2024-03-02,Desk Lamp,Office,North,1,24.99,24.99
+1443,2024-03-03,Water Bottle,Lifestyle,North,2,15.99,31.98
+1444,2024-03-03,Water Bottle,Lifestyle,South,3,15.99,47.97
+1445,2024-03-03,Notebook Set,Stationery,South,4,8.99,35.96
+1446,2024-03-03,Laptop Stand,Office,West,5,34.99,174.95
+1447,2024-03-03,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+1448,2024-03-04,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+1449,2024-03-04,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+1450,2024-03-04,Laptop Stand,Office,North,1,34.99,34.99
+1451,2024-03-04,USB-C Hub,Electronics,West,5,29.99,149.95
+1452,2024-03-04,Desk Lamp,Office,South,1,24.99,24.99
+1453,2024-03-04,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+1454,2024-03-04,Office Chair,Office,North,1,149.99,149.99
+1455,2024-03-04,Water Bottle,Lifestyle,West,1,15.99,15.99
+1456,2024-03-04,Water Bottle,Lifestyle,North,5,15.99,79.95
+1457,2024-03-04,Water Bottle,Lifestyle,West,3,15.99,47.97
+1458,2024-03-04,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+1459,2024-03-04,Laptop Stand,Office,South,3,34.99,104.97
+1460,2024-03-05,Wireless Mouse,Electronics,West,1,19.99,19.99
+1461,2024-03-05,Wireless Mouse,Electronics,West,3,19.99,59.97
+1462,2024-03-05,Office Chair,Office,East,2,149.99,299.98
+1463,2024-03-05,USB-C Hub,Electronics,South,2,29.99,59.98
+1464,2024-03-05,Water Bottle,Lifestyle,North,3,15.99,47.97
+1465,2024-03-05,Backpack,Lifestyle,South,2,45.99,91.98
+1466,2024-03-05,Desk Lamp,Office,South,5,24.99,124.95
+1467,2024-03-05,Water Bottle,Lifestyle,North,4,15.99,63.96
+1468,2024-03-05,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+1469,2024-03-05,Laptop Stand,Office,West,3,34.99,104.97
+1470,2024-03-05,Notebook Set,Stationery,West,2,8.99,17.98
+1471,2024-03-05,Desk Lamp,Office,East,3,24.99,74.97
+1472,2024-03-06,Laptop Stand,Office,West,5,34.99,174.95
+1473,2024-03-06,USB-C Hub,Electronics,West,2,29.99,59.98
+1474,2024-03-06,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+1475,2024-03-06,Laptop Stand,Office,North,2,34.99,69.98
+1476,2024-03-06,Notebook Set,Stationery,South,4,8.99,35.96
+1477,2024-03-06,Notebook Set,Stationery,East,5,8.99,44.95
+1478,2024-03-06,Notebook Set,Stationery,South,1,8.99,8.99
+1479,2024-03-07,Notebook Set,Stationery,South,5,8.99,44.95
+1480,2024-03-07,Water Bottle,Lifestyle,North,2,15.99,31.98
+1481,2024-03-07,Backpack,Lifestyle,North,2,45.99,91.98
+1482,2024-03-07,Backpack,Lifestyle,South,1,45.99,45.99
+1483,2024-03-07,Desk Lamp,Office,South,4,24.99,99.96
+1484,2024-03-07,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+1485,2024-03-07,Notebook Set,Stationery,North,2,8.99,17.98
+1486,2024-03-08,Wireless Mouse,Electronics,East,5,19.99,99.95
+1487,2024-03-08,USB-C Hub,Electronics,East,4,29.99,119.96
+1488,2024-03-08,Backpack,Lifestyle,South,1,45.99,45.99
+1489,2024-03-08,Water Bottle,Lifestyle,South,1,15.99,15.99
+1490,2024-03-08,USB-C Hub,Electronics,South,5,29.99,149.95
+1491,2024-03-08,USB-C Hub,Electronics,South,2,29.99,59.98
+1492,2024-03-08,Notebook Set,Stationery,North,1,8.99,8.99
+1493,2024-03-09,USB-C Hub,Electronics,South,4,29.99,119.96
+1494,2024-03-10,Office Chair,Office,East,1,149.99,149.99
+1495,2024-03-10,Laptop Stand,Office,North,5,34.99,174.95
+1496,2024-03-10,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+1497,2024-03-10,Desk Lamp,Office,East,2,24.99,49.98
+1498,2024-03-10,Office Chair,Office,North,4,149.99,599.96
+1499,2024-03-10,Backpack,Lifestyle,South,3,45.99,137.97
+1500,2024-03-10,Office Chair,Office,East,2,149.99,299.98
+1501,2024-03-11,Backpack,Lifestyle,East,1,45.99,45.99
+1502,2024-03-11,Wireless Mouse,Electronics,West,4,19.99,79.96
+1503,2024-03-11,Laptop Stand,Office,West,3,34.99,104.97
+1504,2024-03-11,Notebook Set,Stationery,East,4,8.99,35.96
+1505,2024-03-11,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+1506,2024-03-11,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+1507,2024-03-11,Water Bottle,Lifestyle,West,5,15.99,79.95
+1508,2024-03-11,Office Chair,Office,West,2,149.99,299.98
+1509,2024-03-11,Notebook Set,Stationery,North,1,8.99,8.99
+1510,2024-03-11,Office Chair,Office,South,4,149.99,599.96
+1511,2024-03-12,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1512,2024-03-12,Water Bottle,Lifestyle,East,1,15.99,15.99
+1513,2024-03-12,USB-C Hub,Electronics,South,4,29.99,119.96
+1514,2024-03-12,Notebook Set,Stationery,West,2,8.99,17.98
+1515,2024-03-13,Office Chair,Office,West,3,149.99,449.97
+1516,2024-03-13,Notebook Set,Stationery,South,4,8.99,35.96
+1517,2024-03-13,Water Bottle,Lifestyle,East,5,15.99,79.95
+1518,2024-03-13,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+1519,2024-03-13,USB-C Hub,Electronics,South,2,29.99,59.98
+1520,2024-03-13,Laptop Stand,Office,West,2,34.99,69.98
+1521,2024-03-13,Backpack,Lifestyle,South,1,45.99,45.99
+1522,2024-03-13,Water Bottle,Lifestyle,South,5,15.99,79.95
+1523,2024-03-13,Wireless Mouse,Electronics,East,4,19.99,79.96
+1524,2024-03-13,Wireless Mouse,Electronics,West,5,19.99,99.95
+1525,2024-03-13,USB-C Hub,Electronics,North,3,29.99,89.97
+1526,2024-03-14,Laptop Stand,Office,North,2,34.99,69.98
+1527,2024-03-14,Office Chair,Office,East,5,149.99,749.95
+1528,2024-03-14,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+1529,2024-03-14,USB-C Hub,Electronics,North,3,29.99,89.97
+1530,2024-03-14,USB-C Hub,Electronics,South,2,29.99,59.98
+1531,2024-03-14,Water Bottle,Lifestyle,South,2,15.99,31.98
+1532,2024-03-15,USB-C Hub,Electronics,North,4,29.99,119.96
+1533,2024-03-15,Laptop Stand,Office,East,4,34.99,139.96
+1534,2024-03-15,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+1535,2024-03-15,Notebook Set,Stationery,West,4,8.99,35.96
+1536,2024-03-15,Laptop Stand,Office,West,4,34.99,139.96
+1537,2024-03-15,Office Chair,Office,East,2,149.99,299.98
+1538,2024-03-16,Office Chair,Office,South,5,149.99,749.95
+1539,2024-03-16,Notebook Set,Stationery,South,2,8.99,17.98
+1540,2024-03-16,Desk Lamp,Office,South,5,24.99,124.95
+1541,2024-03-16,Notebook Set,Stationery,West,2,8.99,17.98
+1542,2024-03-16,Notebook Set,Stationery,North,5,8.99,44.95
+1543,2024-03-16,Desk Lamp,Office,South,2,24.99,49.98
+1544,2024-03-17,Laptop Stand,Office,East,1,34.99,34.99
+1545,2024-03-17,Wireless Mouse,Electronics,East,4,19.99,79.96
+1546,2024-03-18,Water Bottle,Lifestyle,West,5,15.99,79.95
+1547,2024-03-18,Office Chair,Office,North,2,149.99,299.98
+1548,2024-03-18,Backpack,Lifestyle,North,5,45.99,229.95
+1549,2024-03-18,Water Bottle,Lifestyle,West,1,15.99,15.99
+1550,2024-03-18,Water Bottle,Lifestyle,North,1,15.99,15.99
+1551,2024-03-18,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+1552,2024-03-18,Wireless Mouse,Electronics,South,2,19.99,39.98
+1553,2024-03-19,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+1554,2024-03-19,Desk Lamp,Office,North,4,24.99,99.96
+1555,2024-03-19,Notebook Set,Stationery,West,5,8.99,44.95
+1556,2024-03-19,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+1557,2024-03-19,Wireless Mouse,Electronics,East,5,19.99,99.95
+1558,2024-03-19,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+1559,2024-03-19,Wireless Mouse,Electronics,West,5,19.99,99.95
+1560,2024-03-19,Desk Lamp,Office,East,2,24.99,49.98
+1561,2024-03-20,Office Chair,Office,South,2,149.99,299.98
+1562,2024-03-20,Wireless Mouse,Electronics,North,1,19.99,19.99
+1563,2024-03-20,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+1564,2024-03-20,Wireless Mouse,Electronics,South,4,19.99,79.96
+1565,2024-03-20,Laptop Stand,Office,North,1,34.99,34.99
+1566,2024-03-20,Water Bottle,Lifestyle,East,2,15.99,31.98
+1567,2024-03-21,Wireless Mouse,Electronics,East,2,19.99,39.98
+1568,2024-03-21,Water Bottle,Lifestyle,West,1,15.99,15.99
+1569,2024-03-21,Backpack,Lifestyle,South,1,45.99,45.99
+1570,2024-03-21,Office Chair,Office,South,4,149.99,599.96
+1571,2024-03-21,Laptop Stand,Office,West,5,34.99,174.95
+1572,2024-03-21,USB-C Hub,Electronics,West,1,29.99,29.99
+1573,2024-03-21,Desk Lamp,Office,South,3,24.99,74.97
+1574,2024-03-21,Notebook Set,Stationery,West,1,8.99,8.99
+1575,2024-03-21,Water Bottle,Lifestyle,North,2,15.99,31.98
+1576,2024-03-21,Desk Lamp,Office,West,4,24.99,99.96
+1577,2024-03-22,Laptop Stand,Office,South,3,34.99,104.97
+1578,2024-03-22,USB-C Hub,Electronics,North,4,29.99,119.96
+1579,2024-03-22,Office Chair,Office,North,3,149.99,449.97
+1580,2024-03-22,Wireless Mouse,Electronics,East,3,19.99,59.97
+1581,2024-03-22,Office Chair,Office,East,3,149.99,449.97
+1582,2024-03-22,Notebook Set,Stationery,East,4,8.99,35.96
+1583,2024-03-23,USB-C Hub,Electronics,South,2,29.99,59.98
+1584,2024-03-23,Water Bottle,Lifestyle,North,2,15.99,31.98
+1585,2024-03-23,Notebook Set,Stationery,East,3,8.99,26.97
+1586,2024-03-23,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+1587,2024-03-23,Water Bottle,Lifestyle,West,4,15.99,63.96
+1588,2024-03-23,Office Chair,Office,South,2,149.99,299.98
+1589,2024-03-23,Backpack,Lifestyle,North,4,45.99,183.96
+1590,2024-03-24,Laptop Stand,Office,West,3,34.99,104.97
+1591,2024-03-24,USB-C Hub,Electronics,North,3,29.99,89.97
+1592,2024-03-25,Notebook Set,Stationery,South,5,8.99,44.95
+1593,2024-03-25,Office Chair,Office,West,4,149.99,599.96
+1594,2024-03-25,Water Bottle,Lifestyle,West,5,15.99,79.95
+1595,2024-03-25,Wireless Mouse,Electronics,North,4,19.99,79.96
+1596,2024-03-25,USB-C Hub,Electronics,West,5,29.99,149.95
+1597,2024-03-25,Backpack,Lifestyle,West,4,45.99,183.96
+1598,2024-03-25,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+1599,2024-03-26,Backpack,Lifestyle,East,5,45.99,229.95
+1600,2024-03-26,Laptop Stand,Office,West,3,34.99,104.97
+1601,2024-03-26,Laptop Stand,Office,East,1,34.99,34.99
+1602,2024-03-26,Wireless Mouse,Electronics,East,2,19.99,39.98
+1603,2024-03-26,Laptop Stand,Office,East,1,34.99,34.99
+1604,2024-03-27,Laptop Stand,Office,South,5,34.99,174.95
+1605,2024-03-27,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1606,2024-03-27,Wireless Mouse,Electronics,South,5,19.99,99.95
+1607,2024-03-27,Wireless Mouse,Electronics,North,3,19.99,59.97
+1608,2024-03-27,USB-C Hub,Electronics,East,5,29.99,149.95
+1609,2024-03-27,Backpack,Lifestyle,South,3,45.99,137.97
+1610,2024-03-27,Backpack,Lifestyle,North,3,45.99,137.97
+1611,2024-03-27,Desk Lamp,Office,North,4,24.99,99.96
+1612,2024-03-27,Desk Lamp,Office,West,2,24.99,49.98
+1613,2024-03-27,Desk Lamp,Office,South,4,24.99,99.96
+1614,2024-03-27,Backpack,Lifestyle,South,4,45.99,183.96
+1615,2024-03-27,Notebook Set,Stationery,East,2,8.99,17.98
+1616,2024-03-27,Wireless Mouse,Electronics,West,1,19.99,19.99
+1617,2024-03-28,Backpack,Lifestyle,East,4,45.99,183.96
+1618,2024-03-28,USB-C Hub,Electronics,South,4,29.99,119.96
+1619,2024-03-28,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+1620,2024-03-28,Office Chair,Office,North,2,149.99,299.98
+1621,2024-03-28,Office Chair,Office,North,4,149.99,599.96
+1622,2024-03-28,Laptop Stand,Office,West,3,34.99,104.97
+1623,2024-03-28,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+1624,2024-03-29,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+1625,2024-03-29,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+1626,2024-03-29,Backpack,Lifestyle,West,4,45.99,183.96
+1627,2024-03-29,Water Bottle,Lifestyle,South,5,15.99,79.95
+1628,2024-03-29,Desk Lamp,Office,North,2,24.99,49.98
+1629,2024-03-30,Water Bottle,Lifestyle,South,1,15.99,15.99
+1630,2024-03-30,Desk Lamp,Office,East,4,24.99,99.96
+1631,2024-03-30,Backpack,Lifestyle,East,1,45.99,45.99
+1632,2024-03-30,Office Chair,Office,North,1,149.99,149.99
+1633,2024-03-30,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+1634,2024-03-30,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+1635,2024-03-31,Office Chair,Office,South,1,149.99,149.99
+1636,2024-03-31,Backpack,Lifestyle,West,2,45.99,91.98
+1637,2024-03-31,USB-C Hub,Electronics,East,5,29.99,149.95
+1638,2024-03-31,Office Chair,Office,West,4,149.99,599.96
+1639,2024-03-31,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+1640,2024-03-31,Backpack,Lifestyle,West,3,45.99,137.97
+1641,2024-03-31,USB-C Hub,Electronics,West,1,29.99,29.99
+1642,2024-04-01,Office Chair,Office,West,4,149.99,599.96
+1643,2024-04-01,Water Bottle,Lifestyle,West,2,15.99,31.98
+1644,2024-04-01,Backpack,Lifestyle,East,1,45.99,45.99
+1645,2024-04-01,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+1646,2024-04-01,USB-C Hub,Electronics,North,4,29.99,119.96
+1647,2024-04-01,Backpack,Lifestyle,East,4,45.99,183.96
+1648,2024-04-02,Laptop Stand,Office,North,5,34.99,174.95
+1649,2024-04-02,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+1650,2024-04-02,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+1651,2024-04-02,Laptop Stand,Office,South,4,34.99,139.96
+1652,2024-04-02,Notebook Set,Stationery,North,3,8.99,26.97
+1653,2024-04-02,USB-C Hub,Electronics,South,3,29.99,89.97
+1654,2024-04-02,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+1655,2024-04-02,Wireless Mouse,Electronics,West,5,19.99,99.95
+1656,2024-04-02,Desk Lamp,Office,South,4,24.99,99.96
+1657,2024-04-03,Notebook Set,Stationery,North,3,8.99,26.97
+1658,2024-04-03,Water Bottle,Lifestyle,North,3,15.99,47.97
+1659,2024-04-03,Laptop Stand,Office,West,1,34.99,34.99
+1660,2024-04-03,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+1661,2024-04-03,Desk Lamp,Office,North,3,24.99,74.97
+1662,2024-04-03,Water Bottle,Lifestyle,South,4,15.99,63.96
+1663,2024-04-03,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+1664,2024-04-03,Water Bottle,Lifestyle,South,3,15.99,47.97
+1665,2024-04-03,Water Bottle,Lifestyle,West,5,15.99,79.95
+1666,2024-04-03,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+1667,2024-04-03,Backpack,Lifestyle,West,5,45.99,229.95
+1668,2024-04-03,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+1669,2024-04-04,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+1670,2024-04-04,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+1671,2024-04-04,Notebook Set,Stationery,West,1,8.99,8.99
+1672,2024-04-04,Wireless Mouse,Electronics,West,3,19.99,59.97
+1673,2024-04-04,Backpack,Lifestyle,East,1,45.99,45.99
+1674,2024-04-04,Office Chair,Office,East,5,149.99,749.95
+1675,2024-04-04,Water Bottle,Lifestyle,North,5,15.99,79.95
+1676,2024-04-04,Laptop Stand,Office,West,4,34.99,139.96
+1677,2024-04-04,Wireless Mouse,Electronics,East,1,19.99,19.99
+1678,2024-04-04,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1679,2024-04-04,Office Chair,Office,East,3,149.99,449.97
+1680,2024-04-04,Notebook Set,Stationery,East,3,8.99,26.97
+1681,2024-04-05,Wireless Mouse,Electronics,West,1,19.99,19.99
+1682,2024-04-05,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+1683,2024-04-05,Notebook Set,Stationery,East,1,8.99,8.99
+1684,2024-04-05,USB-C Hub,Electronics,South,3,29.99,89.97
+1685,2024-04-05,USB-C Hub,Electronics,West,1,29.99,29.99
+1686,2024-04-05,Laptop Stand,Office,East,5,34.99,174.95
+1687,2024-04-05,Water Bottle,Lifestyle,West,3,15.99,47.97
+1688,2024-04-06,Water Bottle,Lifestyle,West,1,15.99,15.99
+1689,2024-04-06,Laptop Stand,Office,South,1,34.99,34.99
+1690,2024-04-06,Desk Lamp,Office,North,3,24.99,74.97
+1691,2024-04-06,Water Bottle,Lifestyle,East,4,15.99,63.96
+1692,2024-04-06,Laptop Stand,Office,West,4,34.99,139.96
+1693,2024-04-06,Mechanical Keyboard,Electronics,North,1,59.99,59.99
+1694,2024-04-07,Wireless Mouse,Electronics,East,4,19.99,79.96
+1695,2024-04-07,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+1696,2024-04-07,Desk Lamp,Office,West,5,24.99,124.95
+1697,2024-04-08,Office Chair,Office,South,4,149.99,599.96
+1698,2024-04-08,Water Bottle,Lifestyle,South,3,15.99,47.97
+1699,2024-04-08,Laptop Stand,Office,South,5,34.99,174.95
+1700,2024-04-08,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+1701,2024-04-08,Office Chair,Office,North,4,149.99,599.96
+1702,2024-04-08,USB-C Hub,Electronics,East,4,29.99,119.96
+1703,2024-04-08,Notebook Set,Stationery,West,4,8.99,35.96
+1704,2024-04-08,Laptop Stand,Office,North,4,34.99,139.96
+1705,2024-04-08,USB-C Hub,Electronics,South,4,29.99,119.96
+1706,2024-04-08,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+1707,2024-04-09,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+1708,2024-04-09,Backpack,Lifestyle,North,1,45.99,45.99
+1709,2024-04-09,Wireless Mouse,Electronics,West,3,19.99,59.97
+1710,2024-04-09,USB-C Hub,Electronics,West,5,29.99,149.95
+1711,2024-04-09,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+1712,2024-04-09,Office Chair,Office,South,1,149.99,149.99
+1713,2024-04-09,Wireless Mouse,Electronics,West,3,19.99,59.97
+1714,2024-04-10,Water Bottle,Lifestyle,West,1,15.99,15.99
+1715,2024-04-10,Desk Lamp,Office,East,3,24.99,74.97
+1716,2024-04-10,Notebook Set,Stationery,East,1,8.99,8.99
+1717,2024-04-10,USB-C Hub,Electronics,North,3,29.99,89.97
+1718,2024-04-10,Wireless Mouse,Electronics,East,4,19.99,79.96
+1719,2024-04-10,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+1720,2024-04-10,Wireless Mouse,Electronics,South,5,19.99,99.95
+1721,2024-04-10,Notebook Set,Stationery,South,4,8.99,35.96
+1722,2024-04-11,Laptop Stand,Office,South,2,34.99,69.98
+1723,2024-04-11,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+1724,2024-04-11,Wireless Mouse,Electronics,South,4,19.99,79.96
+1725,2024-04-11,Desk Lamp,Office,East,3,24.99,74.97
+1726,2024-04-11,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+1727,2024-04-12,Backpack,Lifestyle,East,2,45.99,91.98
+1728,2024-04-12,Office Chair,Office,North,1,149.99,149.99
+1729,2024-04-12,Notebook Set,Stationery,East,4,8.99,35.96
+1730,2024-04-12,Laptop Stand,Office,North,3,34.99,104.97
+1731,2024-04-12,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+1732,2024-04-12,USB-C Hub,Electronics,North,2,29.99,59.98
+1733,2024-04-13,Desk Lamp,Office,South,5,24.99,124.95
+1734,2024-04-13,Wireless Mouse,Electronics,East,1,19.99,19.99
+1735,2024-04-13,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+1736,2024-04-13,Desk Lamp,Office,South,3,24.99,74.97
+1737,2024-04-14,USB-C Hub,Electronics,West,3,29.99,89.97
+1738,2024-04-14,Water Bottle,Lifestyle,West,3,15.99,47.97
+1739,2024-04-14,Backpack,Lifestyle,North,3,45.99,137.97
+1740,2024-04-14,Office Chair,Office,West,4,149.99,599.96
+1741,2024-04-14,Wireless Mouse,Electronics,West,2,19.99,39.98
+1742,2024-04-15,USB-C Hub,Electronics,East,3,29.99,89.97
+1743,2024-04-15,Wireless Mouse,Electronics,South,1,19.99,19.99
+1744,2024-04-15,Desk Lamp,Office,West,2,24.99,49.98
+1745,2024-04-15,Laptop Stand,Office,South,4,34.99,139.96
+1746,2024-04-15,Wireless Mouse,Electronics,North,4,19.99,79.96
+1747,2024-04-15,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+1748,2024-04-15,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+1749,2024-04-16,Backpack,Lifestyle,South,3,45.99,137.97
+1750,2024-04-16,Office Chair,Office,North,3,149.99,449.97
+1751,2024-04-16,Desk Lamp,Office,North,2,24.99,49.98
+1752,2024-04-16,Backpack,Lifestyle,North,5,45.99,229.95
+1753,2024-04-17,Wireless Mouse,Electronics,South,5,19.99,99.95
+1754,2024-04-17,Office Chair,Office,East,5,149.99,749.95
+1755,2024-04-17,Notebook Set,Stationery,East,3,8.99,26.97
+1756,2024-04-17,Backpack,Lifestyle,West,2,45.99,91.98
+1757,2024-04-17,USB-C Hub,Electronics,North,2,29.99,59.98
+1758,2024-04-17,Desk Lamp,Office,North,4,24.99,99.96
+1759,2024-04-17,Notebook Set,Stationery,East,4,8.99,35.96
+1760,2024-04-17,Wireless Mouse,Electronics,East,4,19.99,79.96
+1761,2024-04-17,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+1762,2024-04-17,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+1763,2024-04-17,USB-C Hub,Electronics,North,5,29.99,149.95
+1764,2024-04-17,USB-C Hub,Electronics,South,4,29.99,119.96
+1765,2024-04-18,Laptop Stand,Office,East,3,34.99,104.97
+1766,2024-04-18,Desk Lamp,Office,East,2,24.99,49.98
+1767,2024-04-18,Office Chair,Office,East,5,149.99,749.95
+1768,2024-04-18,Office Chair,Office,South,5,149.99,749.95
+1769,2024-04-18,Notebook Set,Stationery,North,4,8.99,35.96
+1770,2024-04-18,Wireless Mouse,Electronics,North,4,19.99,79.96
+1771,2024-04-19,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+1772,2024-04-19,Water Bottle,Lifestyle,South,3,15.99,47.97
+1773,2024-04-19,Wireless Mouse,Electronics,North,3,19.99,59.97
+1774,2024-04-19,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+1775,2024-04-19,Laptop Stand,Office,East,5,34.99,174.95
+1776,2024-04-19,Water Bottle,Lifestyle,North,4,15.99,63.96
+1777,2024-04-19,Wireless Mouse,Electronics,North,1,19.99,19.99
+1778,2024-04-19,Wireless Mouse,Electronics,East,3,19.99,59.97
+1779,2024-04-19,Office Chair,Office,East,3,149.99,449.97
+1780,2024-04-19,Desk Lamp,Office,East,5,24.99,124.95
+1781,2024-04-20,Office Chair,Office,East,3,149.99,449.97
+1782,2024-04-20,Office Chair,Office,South,2,149.99,299.98
+1783,2024-04-20,Desk Lamp,Office,South,4,24.99,99.96
+1784,2024-04-21,Notebook Set,Stationery,North,3,8.99,26.97
+1785,2024-04-21,Laptop Stand,Office,North,1,34.99,34.99
+1786,2024-04-21,Wireless Mouse,Electronics,North,5,19.99,99.95
+1787,2024-04-21,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+1788,2024-04-21,Water Bottle,Lifestyle,West,1,15.99,15.99
+1789,2024-04-21,USB-C Hub,Electronics,East,2,29.99,59.98
+1790,2024-04-21,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+1791,2024-04-22,USB-C Hub,Electronics,North,4,29.99,119.96
+1792,2024-04-22,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+1793,2024-04-22,USB-C Hub,Electronics,South,3,29.99,89.97
+1794,2024-04-22,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+1795,2024-04-23,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+1796,2024-04-23,Notebook Set,Stationery,East,5,8.99,44.95
+1797,2024-04-23,Wireless Mouse,Electronics,North,1,19.99,19.99
+1798,2024-04-23,Desk Lamp,Office,North,5,24.99,124.95
+1799,2024-04-23,USB-C Hub,Electronics,East,5,29.99,149.95
+1800,2024-04-23,Water Bottle,Lifestyle,South,1,15.99,15.99
+1801,2024-04-23,Wireless Mouse,Electronics,South,2,19.99,39.98
+1802,2024-04-23,Laptop Stand,Office,West,4,34.99,139.96
+1803,2024-04-23,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+1804,2024-04-24,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+1805,2024-04-24,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1806,2024-04-24,Wireless Mouse,Electronics,East,1,19.99,19.99
+1807,2024-04-24,Wireless Mouse,Electronics,North,2,19.99,39.98
+1808,2024-04-24,Backpack,Lifestyle,West,2,45.99,91.98
+1809,2024-04-24,Office Chair,Office,East,1,149.99,149.99
+1810,2024-04-24,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+1811,2024-04-25,Water Bottle,Lifestyle,East,1,15.99,15.99
+1812,2024-04-25,USB-C Hub,Electronics,East,1,29.99,29.99
+1813,2024-04-25,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+1814,2024-04-26,Notebook Set,Stationery,North,5,8.99,44.95
+1815,2024-04-26,Desk Lamp,Office,West,1,24.99,24.99
+1816,2024-04-26,Wireless Mouse,Electronics,East,4,19.99,79.96
+1817,2024-04-26,Water Bottle,Lifestyle,North,1,15.99,15.99
+1818,2024-04-26,Laptop Stand,Office,East,3,34.99,104.97
+1819,2024-04-26,Desk Lamp,Office,North,2,24.99,49.98
+1820,2024-04-26,Desk Lamp,Office,West,4,24.99,99.96
+1821,2024-04-26,Water Bottle,Lifestyle,East,3,15.99,47.97
+1822,2024-04-26,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+1823,2024-04-26,Water Bottle,Lifestyle,East,4,15.99,63.96
+1824,2024-04-26,Water Bottle,Lifestyle,South,5,15.99,79.95
+1825,2024-04-26,Desk Lamp,Office,West,5,24.99,124.95
+1826,2024-04-27,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+1827,2024-04-27,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+1828,2024-04-27,USB-C Hub,Electronics,South,4,29.99,119.96
+1829,2024-04-27,Desk Lamp,Office,West,4,24.99,99.96
+1830,2024-04-27,Office Chair,Office,West,1,149.99,149.99
+1831,2024-04-27,Desk Lamp,Office,East,4,24.99,99.96
+1832,2024-04-28,Backpack,Lifestyle,West,5,45.99,229.95
+1833,2024-04-28,Desk Lamp,Office,South,2,24.99,49.98
+1834,2024-04-29,Water Bottle,Lifestyle,South,4,15.99,63.96
+1835,2024-04-29,Backpack,Lifestyle,West,1,45.99,45.99
+1836,2024-04-29,Notebook Set,Stationery,West,4,8.99,35.96
+1837,2024-04-29,Wireless Mouse,Electronics,South,4,19.99,79.96
+1838,2024-04-29,Office Chair,Office,South,5,149.99,749.95
+1839,2024-04-29,Water Bottle,Lifestyle,North,2,15.99,31.98
+1840,2024-04-29,Office Chair,Office,North,5,149.99,749.95
+1841,2024-04-29,Wireless Mouse,Electronics,East,2,19.99,39.98
+1842,2024-04-29,Laptop Stand,Office,South,1,34.99,34.99
+1843,2024-04-30,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+1844,2024-04-30,Water Bottle,Lifestyle,South,5,15.99,79.95
+1845,2024-04-30,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+1846,2024-04-30,Notebook Set,Stationery,South,4,8.99,35.96
+1847,2024-04-30,Laptop Stand,Office,West,2,34.99,69.98
+1848,2024-04-30,Water Bottle,Lifestyle,West,5,15.99,79.95
+1849,2024-04-30,Laptop Stand,Office,East,2,34.99,69.98
+1850,2024-04-30,Office Chair,Office,North,1,149.99,149.99
+1851,2024-04-30,Backpack,Lifestyle,East,4,45.99,183.96
+1852,2024-04-30,Backpack,Lifestyle,South,1,45.99,45.99
+1853,2024-04-30,Water Bottle,Lifestyle,East,2,15.99,31.98
+1854,2024-05-01,Water Bottle,Lifestyle,South,1,15.99,15.99
+1855,2024-05-01,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+1856,2024-05-01,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1857,2024-05-01,Laptop Stand,Office,East,1,34.99,34.99
+1858,2024-05-01,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+1859,2024-05-01,Office Chair,Office,South,3,149.99,449.97
+1860,2024-05-01,Backpack,Lifestyle,South,5,45.99,229.95
+1861,2024-05-01,Desk Lamp,Office,South,2,24.99,49.98
+1862,2024-05-01,Backpack,Lifestyle,East,5,45.99,229.95
+1863,2024-05-02,Wireless Mouse,Electronics,West,1,19.99,19.99
+1864,2024-05-02,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+1865,2024-05-02,Office Chair,Office,West,1,149.99,149.99
+1866,2024-05-02,Laptop Stand,Office,West,3,34.99,104.97
+1867,2024-05-03,USB-C Hub,Electronics,East,5,29.99,149.95
+1868,2024-05-03,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+1869,2024-05-03,Desk Lamp,Office,South,2,24.99,49.98
+1870,2024-05-03,Notebook Set,Stationery,South,5,8.99,44.95
+1871,2024-05-03,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+1872,2024-05-03,Wireless Mouse,Electronics,East,3,19.99,59.97
+1873,2024-05-03,Wireless Mouse,Electronics,West,3,19.99,59.97
+1874,2024-05-03,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+1875,2024-05-03,Office Chair,Office,North,4,149.99,599.96
+1876,2024-05-03,Desk Lamp,Office,West,2,24.99,49.98
+1877,2024-05-04,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+1878,2024-05-04,Desk Lamp,Office,North,3,24.99,74.97
+1879,2024-05-04,USB-C Hub,Electronics,North,4,29.99,119.96
+1880,2024-05-04,Backpack,Lifestyle,North,4,45.99,183.96
+1881,2024-05-04,Office Chair,Office,South,3,149.99,449.97
+1882,2024-05-05,Desk Lamp,Office,East,3,24.99,74.97
+1883,2024-05-05,Wireless Mouse,Electronics,South,3,19.99,59.97
+1884,2024-05-05,Wireless Mouse,Electronics,North,2,19.99,39.98
+1885,2024-05-05,Laptop Stand,Office,West,5,34.99,174.95
+1886,2024-05-06,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+1887,2024-05-06,Laptop Stand,Office,West,5,34.99,174.95
+1888,2024-05-06,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+1889,2024-05-06,USB-C Hub,Electronics,South,4,29.99,119.96
+1890,2024-05-06,USB-C Hub,Electronics,North,3,29.99,89.97
+1891,2024-05-06,Notebook Set,Stationery,West,2,8.99,17.98
+1892,2024-05-06,Desk Lamp,Office,South,5,24.99,124.95
+1893,2024-05-06,Laptop Stand,Office,West,2,34.99,69.98
+1894,2024-05-06,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+1895,2024-05-06,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+1896,2024-05-06,USB-C Hub,Electronics,South,4,29.99,119.96
+1897,2024-05-07,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1898,2024-05-07,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+1899,2024-05-07,USB-C Hub,Electronics,North,2,29.99,59.98
+1900,2024-05-07,Wireless Mouse,Electronics,West,5,19.99,99.95
+1901,2024-05-07,Laptop Stand,Office,North,5,34.99,174.95
+1902,2024-05-07,Desk Lamp,Office,North,1,24.99,24.99
+1903,2024-05-07,Water Bottle,Lifestyle,South,4,15.99,63.96
+1904,2024-05-08,Laptop Stand,Office,West,3,34.99,104.97
+1905,2024-05-08,USB-C Hub,Electronics,West,4,29.99,119.96
+1906,2024-05-08,Office Chair,Office,East,3,149.99,449.97
+1907,2024-05-08,Laptop Stand,Office,North,1,34.99,34.99
+1908,2024-05-09,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+1909,2024-05-09,Desk Lamp,Office,West,1,24.99,24.99
+1910,2024-05-09,Notebook Set,Stationery,South,2,8.99,17.98
+1911,2024-05-09,Mechanical Keyboard,Electronics,North,1,59.99,59.99
+1912,2024-05-09,Backpack,Lifestyle,North,1,45.99,45.99
+1913,2024-05-09,Laptop Stand,Office,East,4,34.99,139.96
+1914,2024-05-09,Water Bottle,Lifestyle,North,3,15.99,47.97
+1915,2024-05-09,Desk Lamp,Office,North,1,24.99,24.99
+1916,2024-05-09,Water Bottle,Lifestyle,West,3,15.99,47.97
+1917,2024-05-10,Backpack,Lifestyle,South,5,45.99,229.95
+1918,2024-05-10,Water Bottle,Lifestyle,South,1,15.99,15.99
+1919,2024-05-10,Water Bottle,Lifestyle,North,5,15.99,79.95
+1920,2024-05-10,Office Chair,Office,West,4,149.99,599.96
+1921,2024-05-10,Desk Lamp,Office,North,3,24.99,74.97
+1922,2024-05-10,Wireless Mouse,Electronics,West,4,19.99,79.96
+1923,2024-05-11,USB-C Hub,Electronics,West,3,29.99,89.97
+1924,2024-05-11,USB-C Hub,Electronics,North,2,29.99,59.98
+1925,2024-05-11,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+1926,2024-05-11,Laptop Stand,Office,North,3,34.99,104.97
+1927,2024-05-11,USB-C Hub,Electronics,North,1,29.99,29.99
+1928,2024-05-11,Wireless Mouse,Electronics,North,3,19.99,59.97
+1929,2024-05-11,Wireless Mouse,Electronics,East,5,19.99,99.95
+1930,2024-05-12,Water Bottle,Lifestyle,East,4,15.99,63.96
+1931,2024-05-12,Laptop Stand,Office,East,4,34.99,139.96
+1932,2024-05-12,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1933,2024-05-12,Desk Lamp,Office,South,3,24.99,74.97
+1934,2024-05-12,Notebook Set,Stationery,East,3,8.99,26.97
+1935,2024-05-12,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+1936,2024-05-13,Desk Lamp,Office,West,3,24.99,74.97
+1937,2024-05-13,Wireless Mouse,Electronics,North,1,19.99,19.99
+1938,2024-05-13,Water Bottle,Lifestyle,South,4,15.99,63.96
+1939,2024-05-14,Notebook Set,Stationery,North,4,8.99,35.96
+1940,2024-05-14,Laptop Stand,Office,West,3,34.99,104.97
+1941,2024-05-14,Office Chair,Office,West,5,149.99,749.95
+1942,2024-05-14,Laptop Stand,Office,West,5,34.99,174.95
+1943,2024-05-14,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+1944,2024-05-14,Water Bottle,Lifestyle,South,2,15.99,31.98
+1945,2024-05-15,Notebook Set,Stationery,East,3,8.99,26.97
+1946,2024-05-15,Backpack,Lifestyle,North,2,45.99,91.98
+1947,2024-05-15,USB-C Hub,Electronics,West,2,29.99,59.98
+1948,2024-05-15,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+1949,2024-05-15,Office Chair,Office,East,2,149.99,299.98
+1950,2024-05-15,Notebook Set,Stationery,North,3,8.99,26.97
+1951,2024-05-15,Office Chair,Office,East,4,149.99,599.96
+1952,2024-05-15,Water Bottle,Lifestyle,West,4,15.99,63.96
+1953,2024-05-16,Laptop Stand,Office,West,3,34.99,104.97
+1954,2024-05-16,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+1955,2024-05-16,Wireless Mouse,Electronics,South,3,19.99,59.97
+1956,2024-05-16,Water Bottle,Lifestyle,North,2,15.99,31.98
+1957,2024-05-16,Office Chair,Office,West,3,149.99,449.97
+1958,2024-05-16,Desk Lamp,Office,West,3,24.99,74.97
+1959,2024-05-16,Office Chair,Office,South,4,149.99,599.96
+1960,2024-05-16,Water Bottle,Lifestyle,West,5,15.99,79.95
+1961,2024-05-16,Wireless Mouse,Electronics,North,1,19.99,19.99
+1962,2024-05-17,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+1963,2024-05-17,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+1964,2024-05-17,Desk Lamp,Office,West,1,24.99,24.99
+1965,2024-05-17,Laptop Stand,Office,East,5,34.99,174.95
+1966,2024-05-17,Water Bottle,Lifestyle,South,3,15.99,47.97
+1967,2024-05-17,USB-C Hub,Electronics,North,4,29.99,119.96
+1968,2024-05-17,Water Bottle,Lifestyle,South,1,15.99,15.99
+1969,2024-05-17,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+1970,2024-05-17,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+1971,2024-05-18,Water Bottle,Lifestyle,East,5,15.99,79.95
+1972,2024-05-18,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1973,2024-05-18,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+1974,2024-05-19,Backpack,Lifestyle,East,1,45.99,45.99
+1975,2024-05-19,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+1976,2024-05-19,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+1977,2024-05-19,Backpack,Lifestyle,North,1,45.99,45.99
+1978,2024-05-19,Office Chair,Office,North,3,149.99,449.97
+1979,2024-05-19,Notebook Set,Stationery,West,1,8.99,8.99
+1980,2024-05-19,Wireless Mouse,Electronics,North,5,19.99,99.95
+1981,2024-05-19,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+1982,2024-05-19,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+1983,2024-05-20,Backpack,Lifestyle,North,1,45.99,45.99
+1984,2024-05-20,Laptop Stand,Office,East,5,34.99,174.95
+1985,2024-05-20,Office Chair,Office,West,4,149.99,599.96
+1986,2024-05-20,Wireless Mouse,Electronics,South,3,19.99,59.97
+1987,2024-05-20,Office Chair,Office,North,2,149.99,299.98
+1988,2024-05-20,Wireless Mouse,Electronics,West,5,19.99,99.95
+1989,2024-05-20,Desk Lamp,Office,South,1,24.99,24.99
+1990,2024-05-20,Desk Lamp,Office,East,2,24.99,49.98
+1991,2024-05-21,Water Bottle,Lifestyle,North,5,15.99,79.95
+1992,2024-05-21,Backpack,Lifestyle,West,4,45.99,183.96
+1993,2024-05-21,Water Bottle,Lifestyle,East,5,15.99,79.95
+1994,2024-05-21,Notebook Set,Stationery,West,5,8.99,44.95
+1995,2024-05-21,Backpack,Lifestyle,South,1,45.99,45.99
+1996,2024-05-21,Backpack,Lifestyle,North,1,45.99,45.99
+1997,2024-05-21,Desk Lamp,Office,North,5,24.99,124.95
+1998,2024-05-22,Water Bottle,Lifestyle,East,5,15.99,79.95
+1999,2024-05-22,Desk Lamp,Office,West,5,24.99,124.95
+2000,2024-05-22,Laptop Stand,Office,North,5,34.99,174.95
+2001,2024-05-22,Notebook Set,Stationery,South,5,8.99,44.95
+2002,2024-05-22,Desk Lamp,Office,South,4,24.99,99.96
+2003,2024-05-22,Office Chair,Office,South,1,149.99,149.99
+2004,2024-05-22,Wireless Mouse,Electronics,West,3,19.99,59.97
+2005,2024-05-22,Backpack,Lifestyle,South,3,45.99,137.97
+2006,2024-05-22,Backpack,Lifestyle,East,2,45.99,91.98
+2007,2024-05-23,Office Chair,Office,South,3,149.99,449.97
+2008,2024-05-23,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+2009,2024-05-23,Water Bottle,Lifestyle,South,1,15.99,15.99
+2010,2024-05-23,Wireless Mouse,Electronics,East,3,19.99,59.97
+2011,2024-05-23,Backpack,Lifestyle,North,2,45.99,91.98
+2012,2024-05-24,Desk Lamp,Office,North,5,24.99,124.95
+2013,2024-05-24,Notebook Set,Stationery,North,2,8.99,17.98
+2014,2024-05-24,Notebook Set,Stationery,North,5,8.99,44.95
+2015,2024-05-24,Backpack,Lifestyle,East,1,45.99,45.99
+2016,2024-05-24,Notebook Set,Stationery,North,2,8.99,17.98
+2017,2024-05-24,Notebook Set,Stationery,North,5,8.99,44.95
+2018,2024-05-25,USB-C Hub,Electronics,North,5,29.99,149.95
+2019,2024-05-25,Backpack,Lifestyle,West,4,45.99,183.96
+2020,2024-05-26,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2021,2024-05-27,Water Bottle,Lifestyle,East,2,15.99,31.98
+2022,2024-05-27,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+2023,2024-05-27,Water Bottle,Lifestyle,East,4,15.99,63.96
+2024,2024-05-27,Laptop Stand,Office,North,1,34.99,34.99
+2025,2024-05-27,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2026,2024-05-27,Office Chair,Office,West,4,149.99,599.96
+2027,2024-05-27,Backpack,Lifestyle,East,5,45.99,229.95
+2028,2024-05-27,USB-C Hub,Electronics,South,3,29.99,89.97
+2029,2024-05-27,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2030,2024-05-27,Laptop Stand,Office,West,3,34.99,104.97
+2031,2024-05-28,Wireless Mouse,Electronics,West,1,19.99,19.99
+2032,2024-05-28,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+2033,2024-05-28,Water Bottle,Lifestyle,West,4,15.99,63.96
+2034,2024-05-28,Water Bottle,Lifestyle,South,2,15.99,31.98
+2035,2024-05-28,Desk Lamp,Office,South,5,24.99,124.95
+2036,2024-05-29,Wireless Mouse,Electronics,North,3,19.99,59.97
+2037,2024-05-29,Backpack,Lifestyle,South,4,45.99,183.96
+2038,2024-05-29,Desk Lamp,Office,South,5,24.99,124.95
+2039,2024-05-29,Backpack,Lifestyle,South,4,45.99,183.96
+2040,2024-05-29,Office Chair,Office,North,3,149.99,449.97
+2041,2024-05-29,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+2042,2024-05-29,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+2043,2024-05-29,Wireless Mouse,Electronics,South,2,19.99,39.98
+2044,2024-05-29,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+2045,2024-05-30,Backpack,Lifestyle,East,5,45.99,229.95
+2046,2024-05-30,Laptop Stand,Office,East,2,34.99,69.98
+2047,2024-05-30,Desk Lamp,Office,West,4,24.99,99.96
+2048,2024-05-30,Notebook Set,Stationery,South,4,8.99,35.96
+2049,2024-05-30,Desk Lamp,Office,West,4,24.99,99.96
+2050,2024-05-30,Wireless Mouse,Electronics,West,4,19.99,79.96
+2051,2024-05-30,Wireless Mouse,Electronics,East,5,19.99,99.95
+2052,2024-05-30,Office Chair,Office,North,5,149.99,749.95
+2053,2024-05-30,USB-C Hub,Electronics,West,5,29.99,149.95
+2054,2024-05-30,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+2055,2024-05-31,Laptop Stand,Office,East,4,34.99,139.96
+2056,2024-05-31,Backpack,Lifestyle,North,3,45.99,137.97
+2057,2024-05-31,USB-C Hub,Electronics,North,5,29.99,149.95
+2058,2024-05-31,Wireless Mouse,Electronics,West,3,19.99,59.97
+2059,2024-05-31,Desk Lamp,Office,South,3,24.99,74.97
+2060,2024-05-31,Desk Lamp,Office,South,3,24.99,74.97
+2061,2024-05-31,Office Chair,Office,North,2,149.99,299.98
+2062,2024-05-31,Laptop Stand,Office,South,3,34.99,104.97
+2063,2024-05-31,USB-C Hub,Electronics,West,3,29.99,89.97
+2064,2024-05-31,Desk Lamp,Office,North,5,24.99,124.95
+2065,2024-05-31,Backpack,Lifestyle,North,3,45.99,137.97
+2066,2024-06-01,Water Bottle,Lifestyle,West,4,15.99,63.96
+2067,2024-06-01,USB-C Hub,Electronics,South,3,29.99,89.97
+2068,2024-06-01,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2069,2024-06-01,Desk Lamp,Office,North,3,24.99,74.97
+2070,2024-06-02,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+2071,2024-06-02,Office Chair,Office,West,2,149.99,299.98
+2072,2024-06-02,Notebook Set,Stationery,North,3,8.99,26.97
+2073,2024-06-02,Desk Lamp,Office,East,1,24.99,24.99
+2074,2024-06-02,Water Bottle,Lifestyle,South,1,15.99,15.99
+2075,2024-06-02,Backpack,Lifestyle,North,3,45.99,137.97
+2076,2024-06-03,Wireless Mouse,Electronics,East,3,19.99,59.97
+2077,2024-06-03,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+2078,2024-06-03,Office Chair,Office,West,3,149.99,449.97
+2079,2024-06-03,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+2080,2024-06-03,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+2081,2024-06-03,Office Chair,Office,West,2,149.99,299.98
+2082,2024-06-03,Office Chair,Office,East,2,149.99,299.98
+2083,2024-06-03,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+2084,2024-06-04,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+2085,2024-06-04,Notebook Set,Stationery,East,1,8.99,8.99
+2086,2024-06-04,USB-C Hub,Electronics,North,4,29.99,119.96
+2087,2024-06-04,Backpack,Lifestyle,East,1,45.99,45.99
+2088,2024-06-04,Notebook Set,Stationery,West,1,8.99,8.99
+2089,2024-06-04,Desk Lamp,Office,West,4,24.99,99.96
+2090,2024-06-04,Notebook Set,Stationery,East,5,8.99,44.95
+2091,2024-06-04,Wireless Mouse,Electronics,West,1,19.99,19.99
+2092,2024-06-05,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+2093,2024-06-05,Laptop Stand,Office,West,5,34.99,174.95
+2094,2024-06-05,USB-C Hub,Electronics,South,5,29.99,149.95
+2095,2024-06-05,Water Bottle,Lifestyle,West,4,15.99,63.96
+2096,2024-06-05,Notebook Set,Stationery,South,3,8.99,26.97
+2097,2024-06-05,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+2098,2024-06-05,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+2099,2024-06-06,Office Chair,Office,East,2,149.99,299.98
+2100,2024-06-06,Notebook Set,Stationery,West,3,8.99,26.97
+2101,2024-06-06,Desk Lamp,Office,West,2,24.99,49.98
+2102,2024-06-06,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+2103,2024-06-06,Notebook Set,Stationery,North,1,8.99,8.99
+2104,2024-06-06,Notebook Set,Stationery,North,2,8.99,17.98
+2105,2024-06-07,Notebook Set,Stationery,North,5,8.99,44.95
+2106,2024-06-07,Water Bottle,Lifestyle,South,4,15.99,63.96
+2107,2024-06-07,Desk Lamp,Office,North,2,24.99,49.98
+2108,2024-06-07,Water Bottle,Lifestyle,West,4,15.99,63.96
+2109,2024-06-07,Office Chair,Office,West,3,149.99,449.97
+2110,2024-06-07,Notebook Set,Stationery,East,1,8.99,8.99
+2111,2024-06-07,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+2112,2024-06-07,Water Bottle,Lifestyle,North,5,15.99,79.95
+2113,2024-06-08,Notebook Set,Stationery,North,1,8.99,8.99
+2114,2024-06-08,Office Chair,Office,North,4,149.99,599.96
+2115,2024-06-08,USB-C Hub,Electronics,East,4,29.99,119.96
+2116,2024-06-08,Office Chair,Office,West,2,149.99,299.98
+2117,2024-06-08,Office Chair,Office,South,5,149.99,749.95
+2118,2024-06-08,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+2119,2024-06-09,Desk Lamp,Office,North,4,24.99,99.96
+2120,2024-06-09,Water Bottle,Lifestyle,South,5,15.99,79.95
+2121,2024-06-09,Laptop Stand,Office,North,4,34.99,139.96
+2122,2024-06-09,Backpack,Lifestyle,North,2,45.99,91.98
+2123,2024-06-10,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+2124,2024-06-10,Notebook Set,Stationery,North,5,8.99,44.95
+2125,2024-06-10,Water Bottle,Lifestyle,West,5,15.99,79.95
+2126,2024-06-10,Notebook Set,Stationery,South,2,8.99,17.98
+2127,2024-06-10,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+2128,2024-06-10,Notebook Set,Stationery,West,5,8.99,44.95
+2129,2024-06-10,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+2130,2024-06-10,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+2131,2024-06-11,Desk Lamp,Office,South,4,24.99,99.96
+2132,2024-06-11,Wireless Mouse,Electronics,West,1,19.99,19.99
+2133,2024-06-11,Water Bottle,Lifestyle,West,1,15.99,15.99
+2134,2024-06-11,USB-C Hub,Electronics,South,3,29.99,89.97
+2135,2024-06-11,Water Bottle,Lifestyle,North,4,15.99,63.96
+2136,2024-06-11,Water Bottle,Lifestyle,West,1,15.99,15.99
+2137,2024-06-12,Desk Lamp,Office,West,5,24.99,124.95
+2138,2024-06-12,Notebook Set,Stationery,South,2,8.99,17.98
+2139,2024-06-12,Desk Lamp,Office,West,5,24.99,124.95
+2140,2024-06-12,USB-C Hub,Electronics,North,1,29.99,29.99
+2141,2024-06-12,USB-C Hub,Electronics,East,3,29.99,89.97
+2142,2024-06-12,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2143,2024-06-12,USB-C Hub,Electronics,East,2,29.99,59.98
+2144,2024-06-12,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2145,2024-06-13,Wireless Mouse,Electronics,West,1,19.99,19.99
+2146,2024-06-13,Notebook Set,Stationery,South,4,8.99,35.96
+2147,2024-06-13,USB-C Hub,Electronics,West,2,29.99,59.98
+2148,2024-06-13,USB-C Hub,Electronics,West,3,29.99,89.97
+2149,2024-06-13,Wireless Mouse,Electronics,South,2,19.99,39.98
+2150,2024-06-13,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+2151,2024-06-13,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+2152,2024-06-13,Office Chair,Office,East,4,149.99,599.96
+2153,2024-06-13,Water Bottle,Lifestyle,East,4,15.99,63.96
+2154,2024-06-13,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+2155,2024-06-13,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+2156,2024-06-14,Water Bottle,Lifestyle,West,2,15.99,31.98
+2157,2024-06-15,Water Bottle,Lifestyle,West,5,15.99,79.95
+2158,2024-06-15,Backpack,Lifestyle,East,2,45.99,91.98
+2159,2024-06-15,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+2160,2024-06-15,Notebook Set,Stationery,East,4,8.99,35.96
+2161,2024-06-15,Notebook Set,Stationery,South,1,8.99,8.99
+2162,2024-06-15,Water Bottle,Lifestyle,South,2,15.99,31.98
+2163,2024-06-16,Backpack,Lifestyle,South,2,45.99,91.98
+2164,2024-06-16,Laptop Stand,Office,North,1,34.99,34.99
+2165,2024-06-16,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+2166,2024-06-16,Desk Lamp,Office,East,1,24.99,24.99
+2167,2024-06-16,Notebook Set,Stationery,East,4,8.99,35.96
+2168,2024-06-16,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+2169,2024-06-17,Desk Lamp,Office,West,5,24.99,124.95
+2170,2024-06-17,Office Chair,Office,North,5,149.99,749.95
+2171,2024-06-17,Water Bottle,Lifestyle,West,3,15.99,47.97
+2172,2024-06-17,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+2173,2024-06-17,USB-C Hub,Electronics,West,3,29.99,89.97
+2174,2024-06-17,Notebook Set,Stationery,North,2,8.99,17.98
+2175,2024-06-17,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+2176,2024-06-17,Office Chair,Office,South,4,149.99,599.96
+2177,2024-06-17,Water Bottle,Lifestyle,North,2,15.99,31.98
+2178,2024-06-18,Wireless Mouse,Electronics,East,5,19.99,99.95
+2179,2024-06-18,Wireless Mouse,Electronics,North,1,19.99,19.99
+2180,2024-06-18,Backpack,Lifestyle,North,2,45.99,91.98
+2181,2024-06-19,Office Chair,Office,North,2,149.99,299.98
+2182,2024-06-19,Wireless Mouse,Electronics,West,1,19.99,19.99
+2183,2024-06-19,Office Chair,Office,South,3,149.99,449.97
+2184,2024-06-19,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+2185,2024-06-19,Office Chair,Office,East,5,149.99,749.95
+2186,2024-06-20,Notebook Set,Stationery,South,1,8.99,8.99
+2187,2024-06-20,Backpack,Lifestyle,South,5,45.99,229.95
+2188,2024-06-20,Laptop Stand,Office,West,3,34.99,104.97
+2189,2024-06-20,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+2190,2024-06-20,Wireless Mouse,Electronics,South,1,19.99,19.99
+2191,2024-06-21,Laptop Stand,Office,East,4,34.99,139.96
+2192,2024-06-21,Backpack,Lifestyle,West,4,45.99,183.96
+2193,2024-06-21,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+2194,2024-06-21,Wireless Mouse,Electronics,South,3,19.99,59.97
+2195,2024-06-21,Wireless Mouse,Electronics,West,3,19.99,59.97
+2196,2024-06-21,Laptop Stand,Office,South,5,34.99,174.95
+2197,2024-06-21,Backpack,Lifestyle,West,5,45.99,229.95
+2198,2024-06-22,Laptop Stand,Office,South,5,34.99,174.95
+2199,2024-06-22,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+2200,2024-06-22,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2201,2024-06-23,Notebook Set,Stationery,South,4,8.99,35.96
+2202,2024-06-23,Notebook Set,Stationery,South,5,8.99,44.95
+2203,2024-06-23,Office Chair,Office,North,2,149.99,299.98
+2204,2024-06-23,Laptop Stand,Office,East,5,34.99,174.95
+2205,2024-06-23,Office Chair,Office,South,2,149.99,299.98
+2206,2024-06-23,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+2207,2024-06-23,Water Bottle,Lifestyle,South,5,15.99,79.95
+2208,2024-06-23,Laptop Stand,Office,East,3,34.99,104.97
+2209,2024-06-23,USB-C Hub,Electronics,East,2,29.99,59.98
+2210,2024-06-23,Wireless Mouse,Electronics,East,4,19.99,79.96
+2211,2024-06-24,Notebook Set,Stationery,South,1,8.99,8.99
+2212,2024-06-24,Wireless Mouse,Electronics,North,3,19.99,59.97
+2213,2024-06-24,Water Bottle,Lifestyle,East,2,15.99,31.98
+2214,2024-06-24,Desk Lamp,Office,West,4,24.99,99.96
+2215,2024-06-24,Notebook Set,Stationery,West,1,8.99,8.99
+2216,2024-06-24,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+2217,2024-06-24,Water Bottle,Lifestyle,South,2,15.99,31.98
+2218,2024-06-24,Backpack,Lifestyle,South,1,45.99,45.99
+2219,2024-06-24,Backpack,Lifestyle,North,1,45.99,45.99
+2220,2024-06-24,USB-C Hub,Electronics,West,4,29.99,119.96
+2221,2024-06-25,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2222,2024-06-25,Backpack,Lifestyle,South,2,45.99,91.98
+2223,2024-06-25,Wireless Mouse,Electronics,South,3,19.99,59.97
+2224,2024-06-25,USB-C Hub,Electronics,East,5,29.99,149.95
+2225,2024-06-25,Backpack,Lifestyle,West,1,45.99,45.99
+2226,2024-06-26,Backpack,Lifestyle,East,3,45.99,137.97
+2227,2024-06-26,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+2228,2024-06-26,Wireless Mouse,Electronics,North,5,19.99,99.95
+2229,2024-06-26,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+2230,2024-06-26,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+2231,2024-06-27,Backpack,Lifestyle,West,5,45.99,229.95
+2232,2024-06-27,Desk Lamp,Office,East,5,24.99,124.95
+2233,2024-06-27,Laptop Stand,Office,East,4,34.99,139.96
+2234,2024-06-27,Backpack,Lifestyle,West,5,45.99,229.95
+2235,2024-06-27,Desk Lamp,Office,East,3,24.99,74.97
+2236,2024-06-28,Laptop Stand,Office,East,5,34.99,174.95
+2237,2024-06-28,Notebook Set,Stationery,North,2,8.99,17.98
+2238,2024-06-28,Office Chair,Office,West,5,149.99,749.95
+2239,2024-06-28,Office Chair,Office,West,4,149.99,599.96
+2240,2024-06-28,Laptop Stand,Office,East,1,34.99,34.99
+2241,2024-06-28,USB-C Hub,Electronics,South,3,29.99,89.97
+2242,2024-06-29,Desk Lamp,Office,West,2,24.99,49.98
+2243,2024-06-29,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+2244,2024-06-29,Water Bottle,Lifestyle,East,2,15.99,31.98
+2245,2024-06-29,Notebook Set,Stationery,East,4,8.99,35.96
+2246,2024-06-29,Backpack,Lifestyle,North,3,45.99,137.97
+2247,2024-06-29,Desk Lamp,Office,East,5,24.99,124.95
+2248,2024-06-30,Wireless Mouse,Electronics,East,5,19.99,99.95
+2249,2024-06-30,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+2250,2024-06-30,Notebook Set,Stationery,West,5,8.99,44.95
+2251,2024-06-30,Notebook Set,Stationery,East,2,8.99,17.98
+2252,2024-06-30,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+2253,2024-07-01,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+2254,2024-07-01,USB-C Hub,Electronics,East,4,29.99,119.96
+2255,2024-07-01,Backpack,Lifestyle,North,3,45.99,137.97
+2256,2024-07-01,Office Chair,Office,North,2,149.99,299.98
+2257,2024-07-01,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+2258,2024-07-01,Laptop Stand,Office,North,4,34.99,139.96
+2259,2024-07-01,Backpack,Lifestyle,South,4,45.99,183.96
+2260,2024-07-01,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2261,2024-07-02,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2262,2024-07-02,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+2263,2024-07-02,Water Bottle,Lifestyle,South,4,15.99,63.96
+2264,2024-07-02,Water Bottle,Lifestyle,West,2,15.99,31.98
+2265,2024-07-02,Water Bottle,Lifestyle,West,2,15.99,31.98
+2266,2024-07-02,Laptop Stand,Office,South,4,34.99,139.96
+2267,2024-07-02,Wireless Mouse,Electronics,West,3,19.99,59.97
+2268,2024-07-03,Desk Lamp,Office,South,2,24.99,49.98
+2269,2024-07-03,Desk Lamp,Office,West,2,24.99,49.98
+2270,2024-07-03,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+2271,2024-07-03,Office Chair,Office,North,4,149.99,599.96
+2272,2024-07-03,Laptop Stand,Office,West,5,34.99,174.95
+2273,2024-07-03,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+2274,2024-07-03,Wireless Mouse,Electronics,West,5,19.99,99.95
+2275,2024-07-03,Laptop Stand,Office,South,2,34.99,69.98
+2276,2024-07-04,Desk Lamp,Office,North,4,24.99,99.96
+2277,2024-07-05,Wireless Mouse,Electronics,South,1,19.99,19.99
+2278,2024-07-05,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+2279,2024-07-05,Laptop Stand,Office,South,3,34.99,104.97
+2280,2024-07-05,Wireless Mouse,Electronics,East,5,19.99,99.95
+2281,2024-07-05,USB-C Hub,Electronics,West,1,29.99,29.99
+2282,2024-07-05,USB-C Hub,Electronics,East,5,29.99,149.95
+2283,2024-07-05,Laptop Stand,Office,North,3,34.99,104.97
+2284,2024-07-06,Water Bottle,Lifestyle,West,1,15.99,15.99
+2285,2024-07-06,Notebook Set,Stationery,East,3,8.99,26.97
+2286,2024-07-06,Office Chair,Office,North,3,149.99,449.97
+2287,2024-07-06,Office Chair,Office,West,2,149.99,299.98
+2288,2024-07-07,USB-C Hub,Electronics,East,1,29.99,29.99
+2289,2024-07-07,USB-C Hub,Electronics,East,5,29.99,149.95
+2290,2024-07-07,Laptop Stand,Office,West,5,34.99,174.95
+2291,2024-07-07,Water Bottle,Lifestyle,East,4,15.99,63.96
+2292,2024-07-07,Office Chair,Office,South,3,149.99,449.97
+2293,2024-07-07,Water Bottle,Lifestyle,West,4,15.99,63.96
+2294,2024-07-07,Desk Lamp,Office,South,5,24.99,124.95
+2295,2024-07-07,USB-C Hub,Electronics,West,4,29.99,119.96
+2296,2024-07-08,Notebook Set,Stationery,West,3,8.99,26.97
+2297,2024-07-08,Notebook Set,Stationery,South,3,8.99,26.97
+2298,2024-07-08,Backpack,Lifestyle,East,3,45.99,137.97
+2299,2024-07-08,Office Chair,Office,East,2,149.99,299.98
+2300,2024-07-08,USB-C Hub,Electronics,South,4,29.99,119.96
+2301,2024-07-08,Wireless Mouse,Electronics,West,2,19.99,39.98
+2302,2024-07-09,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2303,2024-07-09,Water Bottle,Lifestyle,South,5,15.99,79.95
+2304,2024-07-09,Office Chair,Office,West,1,149.99,149.99
+2305,2024-07-09,Office Chair,Office,East,4,149.99,599.96
+2306,2024-07-09,Wireless Mouse,Electronics,East,2,19.99,39.98
+2307,2024-07-09,Office Chair,Office,East,1,149.99,149.99
+2308,2024-07-09,Notebook Set,Stationery,West,2,8.99,17.98
+2309,2024-07-09,Water Bottle,Lifestyle,North,2,15.99,31.98
+2310,2024-07-09,Office Chair,Office,East,5,149.99,749.95
+2311,2024-07-09,Wireless Mouse,Electronics,South,4,19.99,79.96
+2312,2024-07-09,USB-C Hub,Electronics,North,4,29.99,119.96
+2313,2024-07-09,USB-C Hub,Electronics,North,4,29.99,119.96
+2314,2024-07-10,Desk Lamp,Office,South,4,24.99,99.96
+2315,2024-07-10,Office Chair,Office,South,1,149.99,149.99
+2316,2024-07-10,Notebook Set,Stationery,South,1,8.99,8.99
+2317,2024-07-11,Desk Lamp,Office,South,4,24.99,99.96
+2318,2024-07-11,Laptop Stand,Office,West,1,34.99,34.99
+2319,2024-07-11,Office Chair,Office,West,2,149.99,299.98
+2320,2024-07-11,Wireless Mouse,Electronics,North,2,19.99,39.98
+2321,2024-07-11,USB-C Hub,Electronics,West,5,29.99,149.95
+2322,2024-07-11,USB-C Hub,Electronics,South,4,29.99,119.96
+2323,2024-07-12,Backpack,Lifestyle,West,1,45.99,45.99
+2324,2024-07-12,Office Chair,Office,South,3,149.99,449.97
+2325,2024-07-12,Laptop Stand,Office,South,2,34.99,69.98
+2326,2024-07-12,Desk Lamp,Office,North,5,24.99,124.95
+2327,2024-07-12,Backpack,Lifestyle,East,2,45.99,91.98
+2328,2024-07-12,Backpack,Lifestyle,South,5,45.99,229.95
+2329,2024-07-12,Office Chair,Office,West,4,149.99,599.96
+2330,2024-07-12,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+2331,2024-07-12,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+2332,2024-07-12,Water Bottle,Lifestyle,North,2,15.99,31.98
+2333,2024-07-13,Wireless Mouse,Electronics,South,3,19.99,59.97
+2334,2024-07-13,Desk Lamp,Office,West,2,24.99,49.98
+2335,2024-07-13,Notebook Set,Stationery,West,5,8.99,44.95
+2336,2024-07-13,Office Chair,Office,East,2,149.99,299.98
+2337,2024-07-13,Notebook Set,Stationery,South,3,8.99,26.97
+2338,2024-07-14,Backpack,Lifestyle,West,3,45.99,137.97
+2339,2024-07-14,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2340,2024-07-14,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+2341,2024-07-15,Desk Lamp,Office,South,5,24.99,124.95
+2342,2024-07-15,Desk Lamp,Office,South,3,24.99,74.97
+2343,2024-07-15,Notebook Set,Stationery,East,2,8.99,17.98
+2344,2024-07-15,Notebook Set,Stationery,East,5,8.99,44.95
+2345,2024-07-15,USB-C Hub,Electronics,South,3,29.99,89.97
+2346,2024-07-15,USB-C Hub,Electronics,East,4,29.99,119.96
+2347,2024-07-15,Office Chair,Office,North,5,149.99,749.95
+2348,2024-07-15,USB-C Hub,Electronics,West,3,29.99,89.97
+2349,2024-07-15,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+2350,2024-07-15,Laptop Stand,Office,North,3,34.99,104.97
+2351,2024-07-15,USB-C Hub,Electronics,West,5,29.99,149.95
+2352,2024-07-15,Notebook Set,Stationery,East,5,8.99,44.95
+2353,2024-07-16,Water Bottle,Lifestyle,North,1,15.99,15.99
+2354,2024-07-16,Wireless Mouse,Electronics,East,2,19.99,39.98
+2355,2024-07-16,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2356,2024-07-16,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2357,2024-07-16,Wireless Mouse,Electronics,South,4,19.99,79.96
+2358,2024-07-17,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+2359,2024-07-17,Water Bottle,Lifestyle,East,4,15.99,63.96
+2360,2024-07-17,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+2361,2024-07-17,Water Bottle,Lifestyle,West,4,15.99,63.96
+2362,2024-07-17,Wireless Mouse,Electronics,South,4,19.99,79.96
+2363,2024-07-17,Water Bottle,Lifestyle,West,2,15.99,31.98
+2364,2024-07-18,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+2365,2024-07-18,Notebook Set,Stationery,South,5,8.99,44.95
+2366,2024-07-18,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+2367,2024-07-18,USB-C Hub,Electronics,East,3,29.99,89.97
+2368,2024-07-18,Desk Lamp,Office,South,2,24.99,49.98
+2369,2024-07-18,Office Chair,Office,West,5,149.99,749.95
+2370,2024-07-18,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2371,2024-07-19,Backpack,Lifestyle,South,3,45.99,137.97
+2372,2024-07-19,USB-C Hub,Electronics,South,5,29.99,149.95
+2373,2024-07-19,Notebook Set,Stationery,South,4,8.99,35.96
+2374,2024-07-19,Office Chair,Office,West,4,149.99,599.96
+2375,2024-07-19,USB-C Hub,Electronics,North,4,29.99,119.96
+2376,2024-07-19,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+2377,2024-07-19,Notebook Set,Stationery,South,5,8.99,44.95
+2378,2024-07-19,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+2379,2024-07-19,Water Bottle,Lifestyle,South,1,15.99,15.99
+2380,2024-07-19,Notebook Set,Stationery,West,3,8.99,26.97
+2381,2024-07-19,Notebook Set,Stationery,East,3,8.99,26.97
+2382,2024-07-20,Notebook Set,Stationery,North,3,8.99,26.97
+2383,2024-07-20,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+2384,2024-07-20,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+2385,2024-07-20,Notebook Set,Stationery,West,2,8.99,17.98
+2386,2024-07-20,Laptop Stand,Office,South,3,34.99,104.97
+2387,2024-07-21,Wireless Mouse,Electronics,North,4,19.99,79.96
+2388,2024-07-21,Office Chair,Office,West,5,149.99,749.95
+2389,2024-07-21,Wireless Mouse,Electronics,North,4,19.99,79.96
+2390,2024-07-21,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+2391,2024-07-21,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+2392,2024-07-22,Desk Lamp,Office,North,3,24.99,74.97
+2393,2024-07-22,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+2394,2024-07-22,Wireless Mouse,Electronics,North,4,19.99,79.96
+2395,2024-07-22,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+2396,2024-07-22,Wireless Mouse,Electronics,North,4,19.99,79.96
+2397,2024-07-23,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+2398,2024-07-23,Notebook Set,Stationery,South,2,8.99,17.98
+2399,2024-07-23,Water Bottle,Lifestyle,North,5,15.99,79.95
+2400,2024-07-23,Office Chair,Office,South,5,149.99,749.95
+2401,2024-07-23,Office Chair,Office,West,1,149.99,149.99
+2402,2024-07-23,Notebook Set,Stationery,South,2,8.99,17.98
+2403,2024-07-23,Water Bottle,Lifestyle,South,4,15.99,63.96
+2404,2024-07-23,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+2405,2024-07-23,Water Bottle,Lifestyle,East,4,15.99,63.96
+2406,2024-07-23,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2407,2024-07-24,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+2408,2024-07-24,Laptop Stand,Office,North,2,34.99,69.98
+2409,2024-07-24,Backpack,Lifestyle,East,5,45.99,229.95
+2410,2024-07-24,Water Bottle,Lifestyle,West,3,15.99,47.97
+2411,2024-07-24,Water Bottle,Lifestyle,East,5,15.99,79.95
+2412,2024-07-24,USB-C Hub,Electronics,North,5,29.99,149.95
+2413,2024-07-24,Backpack,Lifestyle,West,5,45.99,229.95
+2414,2024-07-25,USB-C Hub,Electronics,East,5,29.99,149.95
+2415,2024-07-25,Water Bottle,Lifestyle,West,2,15.99,31.98
+2416,2024-07-25,Notebook Set,Stationery,North,1,8.99,8.99
+2417,2024-07-25,Mechanical Keyboard,Electronics,North,1,59.99,59.99
+2418,2024-07-25,Backpack,Lifestyle,South,4,45.99,183.96
+2419,2024-07-25,Notebook Set,Stationery,South,3,8.99,26.97
+2420,2024-07-25,USB-C Hub,Electronics,East,2,29.99,59.98
+2421,2024-07-25,Office Chair,Office,West,4,149.99,599.96
+2422,2024-07-25,Desk Lamp,Office,South,3,24.99,74.97
+2423,2024-07-25,USB-C Hub,Electronics,West,1,29.99,29.99
+2424,2024-07-25,Water Bottle,Lifestyle,East,4,15.99,63.96
+2425,2024-07-26,USB-C Hub,Electronics,West,2,29.99,59.98
+2426,2024-07-26,Laptop Stand,Office,South,3,34.99,104.97
+2427,2024-07-26,Wireless Mouse,Electronics,North,5,19.99,99.95
+2428,2024-07-26,Notebook Set,Stationery,South,3,8.99,26.97
+2429,2024-07-26,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2430,2024-07-26,Office Chair,Office,East,2,149.99,299.98
+2431,2024-07-26,Office Chair,Office,South,5,149.99,749.95
+2432,2024-07-27,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+2433,2024-07-27,Office Chair,Office,South,5,149.99,749.95
+2434,2024-07-27,USB-C Hub,Electronics,West,2,29.99,59.98
+2435,2024-07-27,Desk Lamp,Office,West,3,24.99,74.97
+2436,2024-07-28,Office Chair,Office,East,4,149.99,599.96
+2437,2024-07-28,USB-C Hub,Electronics,West,5,29.99,149.95
+2438,2024-07-28,Notebook Set,Stationery,North,3,8.99,26.97
+2439,2024-07-28,Office Chair,Office,East,4,149.99,599.96
+2440,2024-07-28,Water Bottle,Lifestyle,East,3,15.99,47.97
+2441,2024-07-28,Backpack,Lifestyle,North,5,45.99,229.95
+2442,2024-07-29,Wireless Mouse,Electronics,West,4,19.99,79.96
+2443,2024-07-29,Laptop Stand,Office,South,2,34.99,69.98
+2444,2024-07-29,Office Chair,Office,East,2,149.99,299.98
+2445,2024-07-29,Office Chair,Office,East,3,149.99,449.97
+2446,2024-07-29,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+2447,2024-07-29,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+2448,2024-07-29,Water Bottle,Lifestyle,West,2,15.99,31.98
+2449,2024-07-29,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+2450,2024-07-29,Laptop Stand,Office,North,1,34.99,34.99
+2451,2024-07-29,Wireless Mouse,Electronics,South,2,19.99,39.98
+2452,2024-07-29,Water Bottle,Lifestyle,South,5,15.99,79.95
+2453,2024-07-30,Water Bottle,Lifestyle,South,3,15.99,47.97
+2454,2024-07-30,Mechanical Keyboard,Electronics,North,1,59.99,59.99
+2455,2024-07-30,Water Bottle,Lifestyle,West,5,15.99,79.95
+2456,2024-07-31,Office Chair,Office,East,1,149.99,149.99
+2457,2024-07-31,Water Bottle,Lifestyle,North,5,15.99,79.95
+2458,2024-07-31,Laptop Stand,Office,North,3,34.99,104.97
+2459,2024-07-31,Desk Lamp,Office,North,1,24.99,24.99
+2460,2024-07-31,Backpack,Lifestyle,South,1,45.99,45.99
+2461,2024-07-31,Water Bottle,Lifestyle,West,3,15.99,47.97
+2462,2024-07-31,Office Chair,Office,East,2,149.99,299.98
+2463,2024-07-31,Office Chair,Office,South,3,149.99,449.97
+2464,2024-07-31,Wireless Mouse,Electronics,East,2,19.99,39.98
+2465,2024-07-31,Wireless Mouse,Electronics,North,1,19.99,19.99
+2466,2024-08-01,Laptop Stand,Office,South,4,34.99,139.96
+2467,2024-08-01,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+2468,2024-08-01,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2469,2024-08-01,Gel Pens (Pack),Stationery,South,2,6.49,12.98
+2470,2024-08-01,Wireless Mouse,Electronics,East,5,19.99,99.95
+2471,2024-08-01,Notebook Set,Stationery,South,5,8.99,44.95
+2472,2024-08-02,Notebook Set,Stationery,South,2,8.99,17.98
+2473,2024-08-02,Notebook Set,Stationery,North,2,8.99,17.98
+2474,2024-08-02,Laptop Stand,Office,West,1,34.99,34.99
+2475,2024-08-02,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+2476,2024-08-02,Desk Lamp,Office,South,2,24.99,49.98
+2477,2024-08-03,Laptop Stand,Office,South,3,34.99,104.97
+2478,2024-08-03,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+2479,2024-08-03,Wireless Mouse,Electronics,West,1,19.99,19.99
+2480,2024-08-03,Notebook Set,Stationery,South,3,8.99,26.97
+2481,2024-08-04,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+2482,2024-08-04,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2483,2024-08-04,Office Chair,Office,East,1,149.99,149.99
+2484,2024-08-04,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+2485,2024-08-04,Notebook Set,Stationery,North,3,8.99,26.97
+2486,2024-08-04,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+2487,2024-08-04,Wireless Mouse,Electronics,North,4,19.99,79.96
+2488,2024-08-05,Wireless Mouse,Electronics,South,4,19.99,79.96
+2489,2024-08-05,Wireless Mouse,Electronics,East,1,19.99,19.99
+2490,2024-08-05,Notebook Set,Stationery,North,4,8.99,35.96
+2491,2024-08-05,Notebook Set,Stationery,East,4,8.99,35.96
+2492,2024-08-05,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+2493,2024-08-05,Notebook Set,Stationery,South,3,8.99,26.97
+2494,2024-08-05,Backpack,Lifestyle,North,2,45.99,91.98
+2495,2024-08-06,Notebook Set,Stationery,North,2,8.99,17.98
+2496,2024-08-06,Notebook Set,Stationery,East,4,8.99,35.96
+2497,2024-08-06,Backpack,Lifestyle,East,1,45.99,45.99
+2498,2024-08-06,Laptop Stand,Office,East,5,34.99,174.95
+2499,2024-08-06,Water Bottle,Lifestyle,North,5,15.99,79.95
+2500,2024-08-06,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2501,2024-08-06,Notebook Set,Stationery,South,5,8.99,44.95
+2502,2024-08-06,USB-C Hub,Electronics,East,3,29.99,89.97
+2503,2024-08-06,Mechanical Keyboard,Electronics,North,1,59.99,59.99
+2504,2024-08-07,Water Bottle,Lifestyle,West,3,15.99,47.97
+2505,2024-08-07,Wireless Mouse,Electronics,South,3,19.99,59.97
+2506,2024-08-07,Backpack,Lifestyle,East,2,45.99,91.98
+2507,2024-08-07,Laptop Stand,Office,East,2,34.99,69.98
+2508,2024-08-07,Water Bottle,Lifestyle,South,4,15.99,63.96
+2509,2024-08-07,Backpack,Lifestyle,East,1,45.99,45.99
+2510,2024-08-07,Backpack,Lifestyle,North,1,45.99,45.99
+2511,2024-08-07,Desk Lamp,Office,North,1,24.99,24.99
+2512,2024-08-07,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2513,2024-08-07,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+2514,2024-08-07,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+2515,2024-08-07,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+2516,2024-08-07,Wireless Mouse,Electronics,North,1,19.99,19.99
+2517,2024-08-07,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+2518,2024-08-07,Desk Lamp,Office,South,5,24.99,124.95
+2519,2024-08-07,Notebook Set,Stationery,West,5,8.99,44.95
+2520,2024-08-07,Backpack,Lifestyle,North,5,45.99,229.95
+2521,2024-08-07,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+2522,2024-08-08,Laptop Stand,Office,West,3,34.99,104.97
+2523,2024-08-08,Water Bottle,Lifestyle,East,5,15.99,79.95
+2524,2024-08-08,Desk Lamp,Office,South,3,24.99,74.97
+2525,2024-08-08,Laptop Stand,Office,North,2,34.99,69.98
+2526,2024-08-08,Backpack,Lifestyle,South,2,45.99,91.98
+2527,2024-08-09,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+2528,2024-08-09,Wireless Mouse,Electronics,North,1,19.99,19.99
+2529,2024-08-09,Backpack,Lifestyle,West,2,45.99,91.98
+2530,2024-08-09,Notebook Set,Stationery,South,4,8.99,35.96
+2531,2024-08-09,Laptop Stand,Office,South,1,34.99,34.99
+2532,2024-08-09,Backpack,Lifestyle,South,2,45.99,91.98
+2533,2024-08-09,Notebook Set,Stationery,South,1,8.99,8.99
+2534,2024-08-09,Water Bottle,Lifestyle,West,5,15.99,79.95
+2535,2024-08-09,USB-C Hub,Electronics,West,4,29.99,119.96
+2536,2024-08-09,Backpack,Lifestyle,South,3,45.99,137.97
+2537,2024-08-09,Wireless Mouse,Electronics,South,4,19.99,79.96
+2538,2024-08-09,Wireless Mouse,Electronics,South,5,19.99,99.95
+2539,2024-08-09,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+2540,2024-08-09,Backpack,Lifestyle,West,5,45.99,229.95
+2541,2024-08-09,Laptop Stand,Office,South,2,34.99,69.98
+2542,2024-08-10,USB-C Hub,Electronics,West,4,29.99,119.96
+2543,2024-08-10,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+2544,2024-08-10,USB-C Hub,Electronics,West,2,29.99,59.98
+2545,2024-08-10,Office Chair,Office,West,5,149.99,749.95
+2546,2024-08-10,Laptop Stand,Office,West,2,34.99,69.98
+2547,2024-08-10,Laptop Stand,Office,South,3,34.99,104.97
+2548,2024-08-11,Notebook Set,Stationery,North,3,8.99,26.97
+2549,2024-08-11,USB-C Hub,Electronics,North,2,29.99,59.98
+2550,2024-08-11,Notebook Set,Stationery,North,5,8.99,44.95
+2551,2024-08-11,Water Bottle,Lifestyle,North,3,15.99,47.97
+2552,2024-08-11,Office Chair,Office,South,1,149.99,149.99
+2553,2024-08-11,Desk Lamp,Office,North,5,24.99,124.95
+2554,2024-08-12,USB-C Hub,Electronics,West,1,29.99,29.99
+2555,2024-08-12,Notebook Set,Stationery,South,4,8.99,35.96
+2556,2024-08-12,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2557,2024-08-12,Office Chair,Office,West,1,149.99,149.99
+2558,2024-08-12,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+2559,2024-08-12,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2560,2024-08-12,Backpack,Lifestyle,South,2,45.99,91.98
+2561,2024-08-12,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+2562,2024-08-12,Water Bottle,Lifestyle,North,4,15.99,63.96
+2563,2024-08-12,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+2564,2024-08-12,Desk Lamp,Office,South,4,24.99,99.96
+2565,2024-08-13,Laptop Stand,Office,North,1,34.99,34.99
+2566,2024-08-13,Backpack,Lifestyle,West,5,45.99,229.95
+2567,2024-08-13,Office Chair,Office,South,4,149.99,599.96
+2568,2024-08-13,Notebook Set,Stationery,South,2,8.99,17.98
+2569,2024-08-13,Wireless Mouse,Electronics,South,3,19.99,59.97
+2570,2024-08-13,Office Chair,Office,South,3,149.99,449.97
+2571,2024-08-13,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+2572,2024-08-13,Office Chair,Office,North,5,149.99,749.95
+2573,2024-08-13,Notebook Set,Stationery,East,1,8.99,8.99
+2574,2024-08-14,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+2575,2024-08-14,Notebook Set,Stationery,North,1,8.99,8.99
+2576,2024-08-14,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+2577,2024-08-14,Wireless Mouse,Electronics,South,5,19.99,99.95
+2578,2024-08-14,Laptop Stand,Office,East,3,34.99,104.97
+2579,2024-08-14,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+2580,2024-08-14,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+2581,2024-08-14,Desk Lamp,Office,East,2,24.99,49.98
+2582,2024-08-14,Laptop Stand,Office,East,1,34.99,34.99
+2583,2024-08-14,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+2584,2024-08-14,Laptop Stand,Office,East,1,34.99,34.99
+2585,2024-08-15,Gel Pens (Pack),Stationery,North,2,6.49,12.98
+2586,2024-08-15,Water Bottle,Lifestyle,North,2,15.99,31.98
+2587,2024-08-15,Desk Lamp,Office,South,2,24.99,49.98
+2588,2024-08-15,Office Chair,Office,East,5,149.99,749.95
+2589,2024-08-15,USB-C Hub,Electronics,West,2,29.99,59.98
+2590,2024-08-15,Backpack,Lifestyle,East,2,45.99,91.98
+2591,2024-08-15,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+2592,2024-08-16,Desk Lamp,Office,North,5,24.99,124.95
+2593,2024-08-16,Backpack,Lifestyle,North,4,45.99,183.96
+2594,2024-08-16,Water Bottle,Lifestyle,South,5,15.99,79.95
+2595,2024-08-16,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+2596,2024-08-16,Notebook Set,Stationery,West,4,8.99,35.96
+2597,2024-08-16,USB-C Hub,Electronics,North,4,29.99,119.96
+2598,2024-08-16,Office Chair,Office,West,1,149.99,149.99
+2599,2024-08-16,Backpack,Lifestyle,North,5,45.99,229.95
+2600,2024-08-16,Notebook Set,Stationery,North,5,8.99,44.95
+2601,2024-08-17,Laptop Stand,Office,South,5,34.99,174.95
+2602,2024-08-17,Water Bottle,Lifestyle,West,4,15.99,63.96
+2603,2024-08-17,Backpack,Lifestyle,West,5,45.99,229.95
+2604,2024-08-17,Wireless Mouse,Electronics,North,4,19.99,79.96
+2605,2024-08-18,Backpack,Lifestyle,North,4,45.99,183.96
+2606,2024-08-18,Wireless Mouse,Electronics,West,1,19.99,19.99
+2607,2024-08-18,Desk Lamp,Office,South,3,24.99,74.97
+2608,2024-08-18,Water Bottle,Lifestyle,North,5,15.99,79.95
+2609,2024-08-18,USB-C Hub,Electronics,South,3,29.99,89.97
+2610,2024-08-18,Office Chair,Office,East,4,149.99,599.96
+2611,2024-08-18,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2612,2024-08-18,Notebook Set,Stationery,South,4,8.99,35.96
+2613,2024-08-18,Laptop Stand,Office,East,5,34.99,174.95
+2614,2024-08-19,Backpack,Lifestyle,West,4,45.99,183.96
+2615,2024-08-19,Desk Lamp,Office,South,2,24.99,49.98
+2616,2024-08-19,Wireless Mouse,Electronics,North,2,19.99,39.98
+2617,2024-08-19,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+2618,2024-08-19,Backpack,Lifestyle,North,2,45.99,91.98
+2619,2024-08-19,Office Chair,Office,North,4,149.99,599.96
+2620,2024-08-19,Water Bottle,Lifestyle,East,4,15.99,63.96
+2621,2024-08-19,Notebook Set,Stationery,North,2,8.99,17.98
+2622,2024-08-19,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2623,2024-08-20,Wireless Mouse,Electronics,East,4,19.99,79.96
+2624,2024-08-20,Desk Lamp,Office,East,4,24.99,99.96
+2625,2024-08-20,Backpack,Lifestyle,West,5,45.99,229.95
+2626,2024-08-20,Notebook Set,Stationery,West,4,8.99,35.96
+2627,2024-08-20,Desk Lamp,Office,East,5,24.99,124.95
+2628,2024-08-20,Wireless Mouse,Electronics,North,2,19.99,39.98
+2629,2024-08-20,USB-C Hub,Electronics,South,5,29.99,149.95
+2630,2024-08-20,Laptop Stand,Office,West,4,34.99,139.96
+2631,2024-08-20,Laptop Stand,Office,North,3,34.99,104.97
+2632,2024-08-20,Notebook Set,Stationery,West,1,8.99,8.99
+2633,2024-08-20,Desk Lamp,Office,East,4,24.99,99.96
+2634,2024-08-20,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2635,2024-08-20,Notebook Set,Stationery,West,2,8.99,17.98
+2636,2024-08-21,Wireless Mouse,Electronics,South,5,19.99,99.95
+2637,2024-08-21,Desk Lamp,Office,North,1,24.99,24.99
+2638,2024-08-21,Wireless Mouse,Electronics,South,5,19.99,99.95
+2639,2024-08-21,Water Bottle,Lifestyle,North,4,15.99,63.96
+2640,2024-08-21,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2641,2024-08-21,USB-C Hub,Electronics,South,4,29.99,119.96
+2642,2024-08-21,Wireless Mouse,Electronics,South,5,19.99,99.95
+2643,2024-08-22,Office Chair,Office,West,1,149.99,149.99
+2644,2024-08-22,Desk Lamp,Office,South,5,24.99,124.95
+2645,2024-08-22,Office Chair,Office,North,1,149.99,149.99
+2646,2024-08-22,USB-C Hub,Electronics,North,1,29.99,29.99
+2647,2024-08-22,USB-C Hub,Electronics,North,2,29.99,59.98
+2648,2024-08-22,USB-C Hub,Electronics,West,1,29.99,29.99
+2649,2024-08-22,USB-C Hub,Electronics,East,1,29.99,29.99
+2650,2024-08-22,Office Chair,Office,East,5,149.99,749.95
+2651,2024-08-22,Laptop Stand,Office,West,4,34.99,139.96
+2652,2024-08-22,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+2653,2024-08-22,Notebook Set,Stationery,North,3,8.99,26.97
+2654,2024-08-22,Wireless Mouse,Electronics,North,1,19.99,19.99
+2655,2024-08-23,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+2656,2024-08-23,Notebook Set,Stationery,East,1,8.99,8.99
+2657,2024-08-23,Laptop Stand,Office,West,5,34.99,174.95
+2658,2024-08-23,Office Chair,Office,North,1,149.99,149.99
+2659,2024-08-23,Laptop Stand,Office,North,5,34.99,174.95
+2660,2024-08-23,Laptop Stand,Office,West,3,34.99,104.97
+2661,2024-08-23,Desk Lamp,Office,South,2,24.99,49.98
+2662,2024-08-23,Water Bottle,Lifestyle,West,3,15.99,47.97
+2663,2024-08-23,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+2664,2024-08-23,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2665,2024-08-23,Notebook Set,Stationery,North,1,8.99,8.99
+2666,2024-08-24,Wireless Mouse,Electronics,North,5,19.99,99.95
+2667,2024-08-24,Wireless Mouse,Electronics,East,2,19.99,39.98
+2668,2024-08-24,Notebook Set,Stationery,South,4,8.99,35.96
+2669,2024-08-24,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+2670,2024-08-24,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+2671,2024-08-24,Wireless Mouse,Electronics,South,5,19.99,99.95
+2672,2024-08-24,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+2673,2024-08-25,Water Bottle,Lifestyle,East,3,15.99,47.97
+2674,2024-08-25,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+2675,2024-08-25,Laptop Stand,Office,West,4,34.99,139.96
+2676,2024-08-26,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2677,2024-08-26,Notebook Set,Stationery,East,1,8.99,8.99
+2678,2024-08-26,Backpack,Lifestyle,West,5,45.99,229.95
+2679,2024-08-26,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+2680,2024-08-26,Notebook Set,Stationery,South,2,8.99,17.98
+2681,2024-08-26,Backpack,Lifestyle,South,4,45.99,183.96
+2682,2024-08-26,Wireless Mouse,Electronics,East,4,19.99,79.96
+2683,2024-08-27,Office Chair,Office,North,2,149.99,299.98
+2684,2024-08-27,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+2685,2024-08-27,Office Chair,Office,East,2,149.99,299.98
+2686,2024-08-27,USB-C Hub,Electronics,West,5,29.99,149.95
+2687,2024-08-27,Wireless Mouse,Electronics,West,5,19.99,99.95
+2688,2024-08-27,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+2689,2024-08-27,Notebook Set,Stationery,West,1,8.99,8.99
+2690,2024-08-27,Office Chair,Office,North,3,149.99,449.97
+2691,2024-08-28,Office Chair,Office,West,4,149.99,599.96
+2692,2024-08-28,USB-C Hub,Electronics,West,3,29.99,89.97
+2693,2024-08-28,Water Bottle,Lifestyle,West,5,15.99,79.95
+2694,2024-08-29,Office Chair,Office,West,1,149.99,149.99
+2695,2024-08-29,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+2696,2024-08-29,Wireless Mouse,Electronics,South,1,19.99,19.99
+2697,2024-08-29,Water Bottle,Lifestyle,West,5,15.99,79.95
+2698,2024-08-29,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+2699,2024-08-29,Backpack,Lifestyle,East,3,45.99,137.97
+2700,2024-08-30,Water Bottle,Lifestyle,East,5,15.99,79.95
+2701,2024-08-30,USB-C Hub,Electronics,South,5,29.99,149.95
+2702,2024-08-30,Notebook Set,Stationery,West,5,8.99,44.95
+2703,2024-08-30,Backpack,Lifestyle,West,2,45.99,91.98
+2704,2024-08-30,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+2705,2024-08-30,Notebook Set,Stationery,South,5,8.99,44.95
+2706,2024-08-30,Office Chair,Office,East,1,149.99,149.99
+2707,2024-08-30,Laptop Stand,Office,South,1,34.99,34.99
+2708,2024-08-30,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+2709,2024-08-31,Office Chair,Office,West,2,149.99,299.98
+2710,2024-08-31,Office Chair,Office,North,4,149.99,599.96
+2711,2024-08-31,Wireless Mouse,Electronics,West,5,19.99,99.95
+2712,2024-08-31,Desk Lamp,Office,West,1,24.99,24.99
+2713,2024-09-01,Desk Lamp,Office,East,3,24.99,74.97
+2714,2024-09-01,Backpack,Lifestyle,East,2,45.99,91.98
+2715,2024-09-01,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+2716,2024-09-01,Office Chair,Office,South,3,149.99,449.97
+2717,2024-09-02,Backpack,Lifestyle,East,2,45.99,91.98
+2718,2024-09-02,Desk Lamp,Office,South,3,24.99,74.97
+2719,2024-09-02,Desk Lamp,Office,South,4,24.99,99.96
+2720,2024-09-02,Desk Lamp,Office,West,2,24.99,49.98
+2721,2024-09-02,USB-C Hub,Electronics,West,1,29.99,29.99
+2722,2024-09-02,Office Chair,Office,South,5,149.99,749.95
+2723,2024-09-02,USB-C Hub,Electronics,South,4,29.99,119.96
+2724,2024-09-02,USB-C Hub,Electronics,West,5,29.99,149.95
+2725,2024-09-02,Wireless Mouse,Electronics,East,2,19.99,39.98
+2726,2024-09-03,USB-C Hub,Electronics,South,2,29.99,59.98
+2727,2024-09-03,Backpack,Lifestyle,North,5,45.99,229.95
+2728,2024-09-03,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+2729,2024-09-03,Office Chair,Office,East,5,149.99,749.95
+2730,2024-09-03,Backpack,Lifestyle,West,2,45.99,91.98
+2731,2024-09-03,Laptop Stand,Office,North,5,34.99,174.95
+2732,2024-09-03,Office Chair,Office,East,1,149.99,149.99
+2733,2024-09-03,Backpack,Lifestyle,South,5,45.99,229.95
+2734,2024-09-03,Backpack,Lifestyle,North,5,45.99,229.95
+2735,2024-09-03,Backpack,Lifestyle,South,4,45.99,183.96
+2736,2024-09-03,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+2737,2024-09-03,Wireless Mouse,Electronics,East,5,19.99,99.95
+2738,2024-09-03,Laptop Stand,Office,West,5,34.99,174.95
+2739,2024-09-04,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+2740,2024-09-04,Desk Lamp,Office,West,4,24.99,99.96
+2741,2024-09-04,Backpack,Lifestyle,North,2,45.99,91.98
+2742,2024-09-04,Water Bottle,Lifestyle,South,2,15.99,31.98
+2743,2024-09-04,Office Chair,Office,West,4,149.99,599.96
+2744,2024-09-04,Office Chair,Office,South,5,149.99,749.95
+2745,2024-09-04,Notebook Set,Stationery,West,1,8.99,8.99
+2746,2024-09-04,Office Chair,Office,West,4,149.99,599.96
+2747,2024-09-04,Office Chair,Office,North,5,149.99,749.95
+2748,2024-09-04,Water Bottle,Lifestyle,North,1,15.99,15.99
+2749,2024-09-04,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+2750,2024-09-05,Backpack,Lifestyle,North,4,45.99,183.96
+2751,2024-09-05,Office Chair,Office,East,5,149.99,749.95
+2752,2024-09-05,Office Chair,Office,South,5,149.99,749.95
+2753,2024-09-05,Office Chair,Office,South,5,149.99,749.95
+2754,2024-09-05,Backpack,Lifestyle,South,2,45.99,91.98
+2755,2024-09-05,Notebook Set,Stationery,West,2,8.99,17.98
+2756,2024-09-05,Office Chair,Office,West,5,149.99,749.95
+2757,2024-09-05,Notebook Set,Stationery,North,4,8.99,35.96
+2758,2024-09-05,Wireless Mouse,Electronics,East,1,19.99,19.99
+2759,2024-09-05,Wireless Mouse,Electronics,West,5,19.99,99.95
+2760,2024-09-05,Water Bottle,Lifestyle,South,3,15.99,47.97
+2761,2024-09-05,Notebook Set,Stationery,West,3,8.99,26.97
+2762,2024-09-06,Wireless Mouse,Electronics,South,3,19.99,59.97
+2763,2024-09-06,Water Bottle,Lifestyle,East,2,15.99,31.98
+2764,2024-09-06,Wireless Mouse,Electronics,East,2,19.99,39.98
+2765,2024-09-06,Laptop Stand,Office,North,3,34.99,104.97
+2766,2024-09-06,USB-C Hub,Electronics,South,5,29.99,149.95
+2767,2024-09-06,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+2768,2024-09-06,Water Bottle,Lifestyle,South,2,15.99,31.98
+2769,2024-09-06,Notebook Set,Stationery,East,3,8.99,26.97
+2770,2024-09-07,Laptop Stand,Office,South,4,34.99,139.96
+2771,2024-09-07,Desk Lamp,Office,West,4,24.99,99.96
+2772,2024-09-07,Wireless Mouse,Electronics,West,4,19.99,79.96
+2773,2024-09-07,USB-C Hub,Electronics,North,4,29.99,119.96
+2774,2024-09-07,Notebook Set,Stationery,West,1,8.99,8.99
+2775,2024-09-07,Backpack,Lifestyle,North,3,45.99,137.97
+2776,2024-09-08,Laptop Stand,Office,West,4,34.99,139.96
+2777,2024-09-08,Desk Lamp,Office,South,2,24.99,49.98
+2778,2024-09-08,Water Bottle,Lifestyle,South,2,15.99,31.98
+2779,2024-09-08,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+2780,2024-09-08,Notebook Set,Stationery,South,5,8.99,44.95
+2781,2024-09-09,Wireless Mouse,Electronics,South,3,19.99,59.97
+2782,2024-09-09,Notebook Set,Stationery,East,2,8.99,17.98
+2783,2024-09-09,USB-C Hub,Electronics,South,4,29.99,119.96
+2784,2024-09-09,USB-C Hub,Electronics,East,1,29.99,29.99
+2785,2024-09-09,Desk Lamp,Office,West,2,24.99,49.98
+2786,2024-09-09,Laptop Stand,Office,North,4,34.99,139.96
+2787,2024-09-10,Water Bottle,Lifestyle,North,1,15.99,15.99
+2788,2024-09-10,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+2789,2024-09-10,Office Chair,Office,North,2,149.99,299.98
+2790,2024-09-10,Laptop Stand,Office,South,2,34.99,69.98
+2791,2024-09-10,Water Bottle,Lifestyle,West,1,15.99,15.99
+2792,2024-09-10,Notebook Set,Stationery,South,3,8.99,26.97
+2793,2024-09-10,USB-C Hub,Electronics,South,3,29.99,89.97
+2794,2024-09-10,Backpack,Lifestyle,South,5,45.99,229.95
+2795,2024-09-10,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+2796,2024-09-10,Laptop Stand,Office,West,2,34.99,69.98
+2797,2024-09-11,USB-C Hub,Electronics,West,2,29.99,59.98
+2798,2024-09-11,USB-C Hub,Electronics,North,2,29.99,59.98
+2799,2024-09-11,Water Bottle,Lifestyle,South,2,15.99,31.98
+2800,2024-09-11,USB-C Hub,Electronics,North,4,29.99,119.96
+2801,2024-09-11,USB-C Hub,Electronics,East,5,29.99,149.95
+2802,2024-09-11,USB-C Hub,Electronics,South,1,29.99,29.99
+2803,2024-09-11,Office Chair,Office,West,1,149.99,149.99
+2804,2024-09-11,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2805,2024-09-11,Desk Lamp,Office,South,2,24.99,49.98
+2806,2024-09-11,Backpack,Lifestyle,East,3,45.99,137.97
+2807,2024-09-11,Water Bottle,Lifestyle,North,2,15.99,31.98
+2808,2024-09-12,Water Bottle,Lifestyle,South,5,15.99,79.95
+2809,2024-09-12,Backpack,Lifestyle,South,1,45.99,45.99
+2810,2024-09-12,Wireless Mouse,Electronics,South,4,19.99,79.96
+2811,2024-09-12,Notebook Set,Stationery,South,2,8.99,17.98
+2812,2024-09-13,Gel Pens (Pack),Stationery,North,2,6.49,12.98
+2813,2024-09-13,Water Bottle,Lifestyle,West,3,15.99,47.97
+2814,2024-09-13,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+2815,2024-09-13,Desk Lamp,Office,East,3,24.99,74.97
+2816,2024-09-13,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2817,2024-09-14,Desk Lamp,Office,North,3,24.99,74.97
+2818,2024-09-14,Notebook Set,Stationery,West,2,8.99,17.98
+2819,2024-09-14,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+2820,2024-09-14,Desk Lamp,Office,North,5,24.99,124.95
+2821,2024-09-14,Backpack,Lifestyle,South,5,45.99,229.95
+2822,2024-09-14,Wireless Mouse,Electronics,East,3,19.99,59.97
+2823,2024-09-14,Wireless Mouse,Electronics,South,3,19.99,59.97
+2824,2024-09-15,Wireless Mouse,Electronics,South,2,19.99,39.98
+2825,2024-09-15,Backpack,Lifestyle,East,2,45.99,91.98
+2826,2024-09-15,Water Bottle,Lifestyle,South,4,15.99,63.96
+2827,2024-09-15,Wireless Mouse,Electronics,South,5,19.99,99.95
+2828,2024-09-15,Office Chair,Office,East,2,149.99,299.98
+2829,2024-09-15,USB-C Hub,Electronics,East,3,29.99,89.97
+2830,2024-09-16,Laptop Stand,Office,North,2,34.99,69.98
+2831,2024-09-16,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+2832,2024-09-16,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+2833,2024-09-16,USB-C Hub,Electronics,West,2,29.99,59.98
+2834,2024-09-16,Office Chair,Office,East,1,149.99,149.99
+2835,2024-09-16,USB-C Hub,Electronics,East,2,29.99,59.98
+2836,2024-09-17,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2837,2024-09-17,Water Bottle,Lifestyle,North,2,15.99,31.98
+2838,2024-09-17,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+2839,2024-09-17,Laptop Stand,Office,East,3,34.99,104.97
+2840,2024-09-17,Backpack,Lifestyle,East,5,45.99,229.95
+2841,2024-09-17,Office Chair,Office,East,4,149.99,599.96
+2842,2024-09-18,Office Chair,Office,West,3,149.99,449.97
+2843,2024-09-18,Backpack,Lifestyle,East,5,45.99,229.95
+2844,2024-09-18,Backpack,Lifestyle,West,1,45.99,45.99
+2845,2024-09-18,Wireless Mouse,Electronics,East,5,19.99,99.95
+2846,2024-09-18,Office Chair,Office,South,2,149.99,299.98
+2847,2024-09-18,Water Bottle,Lifestyle,North,5,15.99,79.95
+2848,2024-09-19,Wireless Mouse,Electronics,West,3,19.99,59.97
+2849,2024-09-19,Backpack,Lifestyle,East,4,45.99,183.96
+2850,2024-09-19,Notebook Set,Stationery,South,4,8.99,35.96
+2851,2024-09-19,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+2852,2024-09-20,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+2853,2024-09-20,USB-C Hub,Electronics,East,2,29.99,59.98
+2854,2024-09-20,Desk Lamp,Office,South,5,24.99,124.95
+2855,2024-09-20,Desk Lamp,Office,North,4,24.99,99.96
+2856,2024-09-20,Desk Lamp,Office,West,5,24.99,124.95
+2857,2024-09-20,Office Chair,Office,South,4,149.99,599.96
+2858,2024-09-20,Water Bottle,Lifestyle,North,2,15.99,31.98
+2859,2024-09-20,Backpack,Lifestyle,North,1,45.99,45.99
+2860,2024-09-20,USB-C Hub,Electronics,North,1,29.99,29.99
+2861,2024-09-20,USB-C Hub,Electronics,North,5,29.99,149.95
+2862,2024-09-21,Desk Lamp,Office,South,2,24.99,49.98
+2863,2024-09-21,Notebook Set,Stationery,North,5,8.99,44.95
+2864,2024-09-21,Office Chair,Office,West,3,149.99,449.97
+2865,2024-09-22,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+2866,2024-09-22,Backpack,Lifestyle,South,1,45.99,45.99
+2867,2024-09-22,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+2868,2024-09-22,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+2869,2024-09-22,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+2870,2024-09-22,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+2871,2024-09-23,Backpack,Lifestyle,North,2,45.99,91.98
+2872,2024-09-23,Notebook Set,Stationery,South,5,8.99,44.95
+2873,2024-09-23,Wireless Mouse,Electronics,North,1,19.99,19.99
+2874,2024-09-23,Desk Lamp,Office,East,1,24.99,24.99
+2875,2024-09-23,Water Bottle,Lifestyle,North,3,15.99,47.97
+2876,2024-09-23,Backpack,Lifestyle,West,5,45.99,229.95
+2877,2024-09-23,USB-C Hub,Electronics,East,5,29.99,149.95
+2878,2024-09-23,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+2879,2024-09-24,Laptop Stand,Office,South,2,34.99,69.98
+2880,2024-09-24,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+2881,2024-09-24,Backpack,Lifestyle,North,5,45.99,229.95
+2882,2024-09-24,Wireless Mouse,Electronics,South,3,19.99,59.97
+2883,2024-09-24,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+2884,2024-09-24,Wireless Mouse,Electronics,South,5,19.99,99.95
+2885,2024-09-24,Laptop Stand,Office,West,1,34.99,34.99
+2886,2024-09-24,Water Bottle,Lifestyle,West,3,15.99,47.97
+2887,2024-09-24,Water Bottle,Lifestyle,North,2,15.99,31.98
+2888,2024-09-24,Desk Lamp,Office,South,5,24.99,124.95
+2889,2024-09-25,Office Chair,Office,East,2,149.99,299.98
+2890,2024-09-25,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2891,2024-09-25,Backpack,Lifestyle,South,1,45.99,45.99
+2892,2024-09-25,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+2893,2024-09-25,Backpack,Lifestyle,East,5,45.99,229.95
+2894,2024-09-25,Office Chair,Office,North,3,149.99,449.97
+2895,2024-09-25,Laptop Stand,Office,South,2,34.99,69.98
+2896,2024-09-25,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+2897,2024-09-26,Wireless Mouse,Electronics,South,4,19.99,79.96
+2898,2024-09-26,Notebook Set,Stationery,West,3,8.99,26.97
+2899,2024-09-26,Desk Lamp,Office,East,5,24.99,124.95
+2900,2024-09-26,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+2901,2024-09-26,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+2902,2024-09-26,Laptop Stand,Office,South,4,34.99,139.96
+2903,2024-09-27,USB-C Hub,Electronics,East,1,29.99,29.99
+2904,2024-09-27,USB-C Hub,Electronics,East,5,29.99,149.95
+2905,2024-09-27,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+2906,2024-09-27,Notebook Set,Stationery,North,1,8.99,8.99
+2907,2024-09-27,Backpack,Lifestyle,East,3,45.99,137.97
+2908,2024-09-27,USB-C Hub,Electronics,West,5,29.99,149.95
+2909,2024-09-27,Laptop Stand,Office,West,4,34.99,139.96
+2910,2024-09-27,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+2911,2024-09-27,Laptop Stand,Office,South,4,34.99,139.96
+2912,2024-09-27,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+2913,2024-09-28,Wireless Mouse,Electronics,North,3,19.99,59.97
+2914,2024-09-28,Wireless Mouse,Electronics,East,3,19.99,59.97
+2915,2024-09-29,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+2916,2024-09-29,Notebook Set,Stationery,South,4,8.99,35.96
+2917,2024-09-29,Wireless Mouse,Electronics,West,3,19.99,59.97
+2918,2024-09-29,Office Chair,Office,South,3,149.99,449.97
+2919,2024-09-30,Office Chair,Office,South,1,149.99,149.99
+2920,2024-09-30,Water Bottle,Lifestyle,West,3,15.99,47.97
+2921,2024-09-30,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+2922,2024-09-30,Notebook Set,Stationery,South,5,8.99,44.95
+2923,2024-10-01,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2924,2024-10-01,Desk Lamp,Office,East,2,24.99,49.98
+2925,2024-10-01,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+2926,2024-10-01,Notebook Set,Stationery,East,4,8.99,35.96
+2927,2024-10-01,Desk Lamp,Office,South,2,24.99,49.98
+2928,2024-10-01,Laptop Stand,Office,South,2,34.99,69.98
+2929,2024-10-01,Water Bottle,Lifestyle,North,4,15.99,63.96
+2930,2024-10-01,USB-C Hub,Electronics,East,4,29.99,119.96
+2931,2024-10-01,Backpack,Lifestyle,West,2,45.99,91.98
+2932,2024-10-01,USB-C Hub,Electronics,East,4,29.99,119.96
+2933,2024-10-01,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+2934,2024-10-01,Notebook Set,Stationery,East,5,8.99,44.95
+2935,2024-10-02,USB-C Hub,Electronics,West,3,29.99,89.97
+2936,2024-10-02,Backpack,Lifestyle,East,4,45.99,183.96
+2937,2024-10-02,USB-C Hub,Electronics,North,4,29.99,119.96
+2938,2024-10-02,Wireless Mouse,Electronics,East,2,19.99,39.98
+2939,2024-10-02,Office Chair,Office,North,3,149.99,449.97
+2940,2024-10-02,Water Bottle,Lifestyle,East,2,15.99,31.98
+2941,2024-10-02,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+2942,2024-10-02,Office Chair,Office,East,3,149.99,449.97
+2943,2024-10-03,Wireless Mouse,Electronics,East,4,19.99,79.96
+2944,2024-10-03,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+2945,2024-10-03,Wireless Mouse,Electronics,West,3,19.99,59.97
+2946,2024-10-03,Wireless Mouse,Electronics,North,5,19.99,99.95
+2947,2024-10-03,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+2948,2024-10-03,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+2949,2024-10-03,Notebook Set,Stationery,South,3,8.99,26.97
+2950,2024-10-03,Notebook Set,Stationery,South,5,8.99,44.95
+2951,2024-10-04,Office Chair,Office,East,5,149.99,749.95
+2952,2024-10-04,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+2953,2024-10-04,Wireless Mouse,Electronics,East,1,19.99,19.99
+2954,2024-10-04,Laptop Stand,Office,North,5,34.99,174.95
+2955,2024-10-04,Wireless Mouse,Electronics,North,4,19.99,79.96
+2956,2024-10-04,Desk Lamp,Office,North,2,24.99,49.98
+2957,2024-10-04,Desk Lamp,Office,South,2,24.99,49.98
+2958,2024-10-04,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+2959,2024-10-04,Wireless Mouse,Electronics,North,4,19.99,79.96
+2960,2024-10-04,Gel Pens (Pack),Stationery,North,2,6.49,12.98
+2961,2024-10-05,Office Chair,Office,East,4,149.99,599.96
+2962,2024-10-05,Desk Lamp,Office,South,2,24.99,49.98
+2963,2024-10-05,Notebook Set,Stationery,West,1,8.99,8.99
+2964,2024-10-05,Office Chair,Office,North,4,149.99,599.96
+2965,2024-10-06,Office Chair,Office,East,5,149.99,749.95
+2966,2024-10-06,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+2967,2024-10-06,Notebook Set,Stationery,East,4,8.99,35.96
+2968,2024-10-06,Notebook Set,Stationery,South,2,8.99,17.98
+2969,2024-10-06,Backpack,Lifestyle,North,1,45.99,45.99
+2970,2024-10-06,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+2971,2024-10-07,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+2972,2024-10-07,Backpack,Lifestyle,North,4,45.99,183.96
+2973,2024-10-07,Water Bottle,Lifestyle,North,3,15.99,47.97
+2974,2024-10-07,Notebook Set,Stationery,North,5,8.99,44.95
+2975,2024-10-07,Desk Lamp,Office,East,2,24.99,49.98
+2976,2024-10-07,Office Chair,Office,North,5,149.99,749.95
+2977,2024-10-07,Water Bottle,Lifestyle,East,3,15.99,47.97
+2978,2024-10-08,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+2979,2024-10-08,Wireless Mouse,Electronics,South,3,19.99,59.97
+2980,2024-10-08,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+2981,2024-10-08,Wireless Mouse,Electronics,West,3,19.99,59.97
+2982,2024-10-08,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+2983,2024-10-08,Water Bottle,Lifestyle,South,4,15.99,63.96
+2984,2024-10-08,Notebook Set,Stationery,East,1,8.99,8.99
+2985,2024-10-08,Water Bottle,Lifestyle,West,2,15.99,31.98
+2986,2024-10-08,Water Bottle,Lifestyle,East,2,15.99,31.98
+2987,2024-10-08,Office Chair,Office,West,2,149.99,299.98
+2988,2024-10-08,Laptop Stand,Office,South,3,34.99,104.97
+2989,2024-10-08,Office Chair,Office,South,1,149.99,149.99
+2990,2024-10-09,Office Chair,Office,West,3,149.99,449.97
+2991,2024-10-09,Desk Lamp,Office,South,1,24.99,24.99
+2992,2024-10-09,Office Chair,Office,West,3,149.99,449.97
+2993,2024-10-09,USB-C Hub,Electronics,South,5,29.99,149.95
+2994,2024-10-09,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+2995,2024-10-09,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+2996,2024-10-09,Office Chair,Office,South,4,149.99,599.96
+2997,2024-10-09,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+2998,2024-10-10,Laptop Stand,Office,North,2,34.99,69.98
+2999,2024-10-10,Wireless Mouse,Electronics,South,3,19.99,59.97
+3000,2024-10-10,USB-C Hub,Electronics,West,4,29.99,119.96
+3001,2024-10-10,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+3002,2024-10-10,Wireless Mouse,Electronics,East,4,19.99,79.96
+3003,2024-10-11,USB-C Hub,Electronics,East,3,29.99,89.97
+3004,2024-10-11,Office Chair,Office,West,2,149.99,299.98
+3005,2024-10-11,Notebook Set,Stationery,North,1,8.99,8.99
+3006,2024-10-11,Backpack,Lifestyle,North,1,45.99,45.99
+3007,2024-10-11,Laptop Stand,Office,North,5,34.99,174.95
+3008,2024-10-11,Laptop Stand,Office,East,1,34.99,34.99
+3009,2024-10-11,Backpack,Lifestyle,North,1,45.99,45.99
+3010,2024-10-11,Notebook Set,Stationery,East,1,8.99,8.99
+3011,2024-10-11,Backpack,Lifestyle,North,3,45.99,137.97
+3012,2024-10-11,USB-C Hub,Electronics,West,4,29.99,119.96
+3013,2024-10-11,Water Bottle,Lifestyle,East,5,15.99,79.95
+3014,2024-10-12,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+3015,2024-10-12,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+3016,2024-10-12,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+3017,2024-10-12,Notebook Set,Stationery,North,5,8.99,44.95
+3018,2024-10-13,Desk Lamp,Office,North,2,24.99,49.98
+3019,2024-10-13,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+3020,2024-10-13,Notebook Set,Stationery,East,1,8.99,8.99
+3021,2024-10-14,Backpack,Lifestyle,East,4,45.99,183.96
+3022,2024-10-14,Wireless Mouse,Electronics,North,1,19.99,19.99
+3023,2024-10-14,Desk Lamp,Office,North,4,24.99,99.96
+3024,2024-10-14,Laptop Stand,Office,South,3,34.99,104.97
+3025,2024-10-14,Water Bottle,Lifestyle,North,3,15.99,47.97
+3026,2024-10-14,Notebook Set,Stationery,West,5,8.99,44.95
+3027,2024-10-14,Desk Lamp,Office,North,2,24.99,49.98
+3028,2024-10-14,Wireless Mouse,Electronics,North,5,19.99,99.95
+3029,2024-10-14,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+3030,2024-10-14,Laptop Stand,Office,North,4,34.99,139.96
+3031,2024-10-14,Office Chair,Office,East,5,149.99,749.95
+3032,2024-10-14,Water Bottle,Lifestyle,East,2,15.99,31.98
+3033,2024-10-15,USB-C Hub,Electronics,South,1,29.99,29.99
+3034,2024-10-15,Office Chair,Office,South,4,149.99,599.96
+3035,2024-10-15,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+3036,2024-10-15,Wireless Mouse,Electronics,South,5,19.99,99.95
+3037,2024-10-15,Water Bottle,Lifestyle,East,3,15.99,47.97
+3038,2024-10-15,USB-C Hub,Electronics,South,1,29.99,29.99
+3039,2024-10-15,USB-C Hub,Electronics,West,4,29.99,119.96
+3040,2024-10-15,Wireless Mouse,Electronics,North,1,19.99,19.99
+3041,2024-10-15,Water Bottle,Lifestyle,West,4,15.99,63.96
+3042,2024-10-16,Office Chair,Office,South,1,149.99,149.99
+3043,2024-10-16,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+3044,2024-10-16,Water Bottle,Lifestyle,East,5,15.99,79.95
+3045,2024-10-16,Backpack,Lifestyle,West,3,45.99,137.97
+3046,2024-10-16,Office Chair,Office,South,5,149.99,749.95
+3047,2024-10-16,Office Chair,Office,South,3,149.99,449.97
+3048,2024-10-16,Wireless Mouse,Electronics,South,4,19.99,79.96
+3049,2024-10-16,Laptop Stand,Office,West,2,34.99,69.98
+3050,2024-10-16,Office Chair,Office,West,3,149.99,449.97
+3051,2024-10-17,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+3052,2024-10-17,Office Chair,Office,West,3,149.99,449.97
+3053,2024-10-17,Laptop Stand,Office,South,4,34.99,139.96
+3054,2024-10-17,Office Chair,Office,South,1,149.99,149.99
+3055,2024-10-17,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+3056,2024-10-17,Laptop Stand,Office,West,1,34.99,34.99
+3057,2024-10-17,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+3058,2024-10-17,Backpack,Lifestyle,North,2,45.99,91.98
+3059,2024-10-17,Wireless Mouse,Electronics,West,2,19.99,39.98
+3060,2024-10-17,Wireless Mouse,Electronics,South,3,19.99,59.97
+3061,2024-10-18,Laptop Stand,Office,East,5,34.99,174.95
+3062,2024-10-18,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+3063,2024-10-18,Notebook Set,Stationery,West,5,8.99,44.95
+3064,2024-10-18,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+3065,2024-10-18,Office Chair,Office,South,2,149.99,299.98
+3066,2024-10-18,Office Chair,Office,North,1,149.99,149.99
+3067,2024-10-18,USB-C Hub,Electronics,East,3,29.99,89.97
+3068,2024-10-18,Desk Lamp,Office,South,1,24.99,24.99
+3069,2024-10-19,Backpack,Lifestyle,West,2,45.99,91.98
+3070,2024-10-19,Backpack,Lifestyle,North,3,45.99,137.97
+3071,2024-10-19,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+3072,2024-10-19,Backpack,Lifestyle,North,2,45.99,91.98
+3073,2024-10-19,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+3074,2024-10-19,Water Bottle,Lifestyle,South,2,15.99,31.98
+3075,2024-10-20,Office Chair,Office,West,2,149.99,299.98
+3076,2024-10-20,Backpack,Lifestyle,East,3,45.99,137.97
+3077,2024-10-20,Water Bottle,Lifestyle,West,3,15.99,47.97
+3078,2024-10-20,Notebook Set,Stationery,West,5,8.99,44.95
+3079,2024-10-20,Wireless Mouse,Electronics,North,3,19.99,59.97
+3080,2024-10-20,Notebook Set,Stationery,South,3,8.99,26.97
+3081,2024-10-21,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+3082,2024-10-21,Backpack,Lifestyle,North,4,45.99,183.96
+3083,2024-10-21,Laptop Stand,Office,North,5,34.99,174.95
+3084,2024-10-21,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+3085,2024-10-21,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+3086,2024-10-21,Wireless Mouse,Electronics,East,2,19.99,39.98
+3087,2024-10-21,Water Bottle,Lifestyle,East,4,15.99,63.96
+3088,2024-10-22,Notebook Set,Stationery,North,4,8.99,35.96
+3089,2024-10-22,Water Bottle,Lifestyle,East,2,15.99,31.98
+3090,2024-10-22,Water Bottle,Lifestyle,North,4,15.99,63.96
+3091,2024-10-22,Wireless Mouse,Electronics,East,1,19.99,19.99
+3092,2024-10-22,Office Chair,Office,East,5,149.99,749.95
+3093,2024-10-22,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+3094,2024-10-22,Backpack,Lifestyle,West,4,45.99,183.96
+3095,2024-10-22,Desk Lamp,Office,West,2,24.99,49.98
+3096,2024-10-22,Desk Lamp,Office,West,4,24.99,99.96
+3097,2024-10-23,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+3098,2024-10-23,Desk Lamp,Office,East,1,24.99,24.99
+3099,2024-10-23,Laptop Stand,Office,North,4,34.99,139.96
+3100,2024-10-23,Laptop Stand,Office,East,2,34.99,69.98
+3101,2024-10-23,Water Bottle,Lifestyle,West,2,15.99,31.98
+3102,2024-10-23,Wireless Mouse,Electronics,East,2,19.99,39.98
+3103,2024-10-23,Backpack,Lifestyle,North,4,45.99,183.96
+3104,2024-10-24,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+3105,2024-10-24,Backpack,Lifestyle,North,3,45.99,137.97
+3106,2024-10-24,Wireless Mouse,Electronics,South,1,19.99,19.99
+3107,2024-10-24,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+3108,2024-10-24,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+3109,2024-10-24,Wireless Mouse,Electronics,West,3,19.99,59.97
+3110,2024-10-25,Backpack,Lifestyle,North,4,45.99,183.96
+3111,2024-10-25,Desk Lamp,Office,North,2,24.99,49.98
+3112,2024-10-25,Desk Lamp,Office,West,4,24.99,99.96
+3113,2024-10-25,Backpack,Lifestyle,South,5,45.99,229.95
+3114,2024-10-25,USB-C Hub,Electronics,East,3,29.99,89.97
+3115,2024-10-25,Desk Lamp,Office,West,3,24.99,74.97
+3116,2024-10-25,Laptop Stand,Office,South,5,34.99,174.95
+3117,2024-10-25,Water Bottle,Lifestyle,South,2,15.99,31.98
+3118,2024-10-25,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+3119,2024-10-25,Water Bottle,Lifestyle,East,3,15.99,47.97
+3120,2024-10-25,Backpack,Lifestyle,North,4,45.99,183.96
+3121,2024-10-25,Office Chair,Office,South,4,149.99,599.96
+3122,2024-10-26,Water Bottle,Lifestyle,West,3,15.99,47.97
+3123,2024-10-26,Notebook Set,Stationery,West,2,8.99,17.98
+3124,2024-10-26,Office Chair,Office,East,1,149.99,149.99
+3125,2024-10-26,Backpack,Lifestyle,North,2,45.99,91.98
+3126,2024-10-27,USB-C Hub,Electronics,North,1,29.99,29.99
+3127,2024-10-27,Desk Lamp,Office,West,2,24.99,49.98
+3128,2024-10-27,Water Bottle,Lifestyle,South,2,15.99,31.98
+3129,2024-10-27,Office Chair,Office,West,2,149.99,299.98
+3130,2024-10-28,Backpack,Lifestyle,East,4,45.99,183.96
+3131,2024-10-29,USB-C Hub,Electronics,East,2,29.99,59.98
+3132,2024-10-29,Water Bottle,Lifestyle,North,3,15.99,47.97
+3133,2024-10-29,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+3134,2024-10-29,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+3135,2024-10-30,Laptop Stand,Office,South,1,34.99,34.99
+3136,2024-10-30,USB-C Hub,Electronics,South,1,29.99,29.99
+3137,2024-10-30,Desk Lamp,Office,North,4,24.99,99.96
+3138,2024-10-30,Laptop Stand,Office,North,3,34.99,104.97
+3139,2024-10-30,Laptop Stand,Office,East,4,34.99,139.96
+3140,2024-10-30,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+3141,2024-10-30,Desk Lamp,Office,West,4,24.99,99.96
+3142,2024-10-30,Laptop Stand,Office,North,3,34.99,104.97
+3143,2024-10-30,Water Bottle,Lifestyle,West,4,15.99,63.96
+3144,2024-10-30,Water Bottle,Lifestyle,West,5,15.99,79.95
+3145,2024-10-31,Desk Lamp,Office,South,2,24.99,49.98
+3146,2024-10-31,Office Chair,Office,South,5,149.99,749.95
+3147,2024-10-31,Water Bottle,Lifestyle,South,1,15.99,15.99
+3148,2024-10-31,Laptop Stand,Office,North,1,34.99,34.99
+3149,2024-10-31,Gel Pens (Pack),Stationery,South,5,6.49,32.45
+3150,2024-10-31,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+3151,2024-10-31,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+3152,2024-11-01,Desk Lamp,Office,East,1,24.99,24.99
+3153,2024-11-01,Wireless Mouse,Electronics,South,3,19.99,59.97
+3154,2024-11-01,Wireless Mouse,Electronics,West,3,19.99,59.97
+3155,2024-11-01,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+3156,2024-11-01,Notebook Set,Stationery,North,1,8.99,8.99
+3157,2024-11-01,Notebook Set,Stationery,South,4,8.99,35.96
+3158,2024-11-01,Office Chair,Office,South,1,149.99,149.99
+3159,2024-11-01,Water Bottle,Lifestyle,South,4,15.99,63.96
+3160,2024-11-01,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+3161,2024-11-01,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+3162,2024-11-01,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+3163,2024-11-01,Water Bottle,Lifestyle,North,2,15.99,31.98
+3164,2024-11-01,Notebook Set,Stationery,East,5,8.99,44.95
+3165,2024-11-01,Water Bottle,Lifestyle,West,5,15.99,79.95
+3166,2024-11-02,USB-C Hub,Electronics,West,1,29.99,29.99
+3167,2024-11-02,USB-C Hub,Electronics,East,5,29.99,149.95
+3168,2024-11-02,Laptop Stand,Office,East,5,34.99,174.95
+3169,2024-11-02,Water Bottle,Lifestyle,North,2,15.99,31.98
+3170,2024-11-02,Notebook Set,Stationery,South,2,8.99,17.98
+3171,2024-11-02,Notebook Set,Stationery,North,3,8.99,26.97
+3172,2024-11-02,Water Bottle,Lifestyle,West,5,15.99,79.95
+3173,2024-11-02,USB-C Hub,Electronics,North,4,29.99,119.96
+3174,2024-11-02,Office Chair,Office,North,4,149.99,599.96
+3175,2024-11-02,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+3176,2024-11-02,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+3177,2024-11-02,Laptop Stand,Office,West,1,34.99,34.99
+3178,2024-11-03,Desk Lamp,Office,East,1,24.99,24.99
+3179,2024-11-03,Water Bottle,Lifestyle,South,2,15.99,31.98
+3180,2024-11-03,Water Bottle,Lifestyle,West,3,15.99,47.97
+3181,2024-11-03,Wireless Mouse,Electronics,North,1,19.99,19.99
+3182,2024-11-03,Water Bottle,Lifestyle,West,3,15.99,47.97
+3183,2024-11-03,Desk Lamp,Office,North,5,24.99,124.95
+3184,2024-11-03,USB-C Hub,Electronics,East,3,29.99,89.97
+3185,2024-11-03,Water Bottle,Lifestyle,West,2,15.99,31.98
+3186,2024-11-03,Wireless Mouse,Electronics,South,2,19.99,39.98
+3187,2024-11-03,Wireless Mouse,Electronics,South,2,19.99,39.98
+3188,2024-11-04,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+3189,2024-11-04,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+3190,2024-11-04,Backpack,Lifestyle,East,3,45.99,137.97
+3191,2024-11-04,Wireless Mouse,Electronics,East,4,19.99,79.96
+3192,2024-11-04,Laptop Stand,Office,South,5,34.99,174.95
+3193,2024-11-04,Wireless Mouse,Electronics,West,4,19.99,79.96
+3194,2024-11-04,Wireless Mouse,Electronics,South,1,19.99,19.99
+3195,2024-11-04,Wireless Mouse,Electronics,East,4,19.99,79.96
+3196,2024-11-04,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+3197,2024-11-04,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+3198,2024-11-04,Office Chair,Office,North,2,149.99,299.98
+3199,2024-11-04,Water Bottle,Lifestyle,West,4,15.99,63.96
+3200,2024-11-04,Wireless Mouse,Electronics,East,1,19.99,19.99
+3201,2024-11-04,Backpack,Lifestyle,South,5,45.99,229.95
+3202,2024-11-05,Notebook Set,Stationery,South,1,8.99,8.99
+3203,2024-11-05,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+3204,2024-11-05,Notebook Set,Stationery,South,2,8.99,17.98
+3205,2024-11-05,Laptop Stand,Office,North,2,34.99,69.98
+3206,2024-11-05,Backpack,Lifestyle,West,2,45.99,91.98
+3207,2024-11-05,Notebook Set,Stationery,South,4,8.99,35.96
+3208,2024-11-05,Desk Lamp,Office,South,3,24.99,74.97
+3209,2024-11-05,Desk Lamp,Office,North,4,24.99,99.96
+3210,2024-11-05,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+3211,2024-11-05,Water Bottle,Lifestyle,North,2,15.99,31.98
+3212,2024-11-05,Notebook Set,Stationery,North,5,8.99,44.95
+3213,2024-11-05,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+3214,2024-11-05,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+3215,2024-11-05,Backpack,Lifestyle,West,1,45.99,45.99
+3216,2024-11-05,Office Chair,Office,North,1,149.99,149.99
+3217,2024-11-05,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+3218,2024-11-05,Notebook Set,Stationery,South,2,8.99,17.98
+3219,2024-11-05,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+3220,2024-11-06,Notebook Set,Stationery,North,1,8.99,8.99
+3221,2024-11-06,Backpack,Lifestyle,East,3,45.99,137.97
+3222,2024-11-06,Wireless Mouse,Electronics,West,5,19.99,99.95
+3223,2024-11-06,Laptop Stand,Office,West,2,34.99,69.98
+3224,2024-11-06,Water Bottle,Lifestyle,East,3,15.99,47.97
+3225,2024-11-06,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+3226,2024-11-06,Wireless Mouse,Electronics,East,4,19.99,79.96
+3227,2024-11-06,Wireless Mouse,Electronics,East,4,19.99,79.96
+3228,2024-11-06,Desk Lamp,Office,West,2,24.99,49.98
+3229,2024-11-06,USB-C Hub,Electronics,South,3,29.99,89.97
+3230,2024-11-06,Office Chair,Office,North,4,149.99,599.96
+3231,2024-11-06,Desk Lamp,Office,South,4,24.99,99.96
+3232,2024-11-06,Office Chair,Office,South,2,149.99,299.98
+3233,2024-11-06,Notebook Set,Stationery,North,3,8.99,26.97
+3234,2024-11-06,Desk Lamp,Office,South,3,24.99,74.97
+3235,2024-11-06,Backpack,Lifestyle,North,5,45.99,229.95
+3236,2024-11-06,USB-C Hub,Electronics,North,3,29.99,89.97
+3237,2024-11-06,Backpack,Lifestyle,West,3,45.99,137.97
+3238,2024-11-06,Backpack,Lifestyle,West,5,45.99,229.95
+3239,2024-11-07,Laptop Stand,Office,North,2,34.99,69.98
+3240,2024-11-07,Wireless Mouse,Electronics,West,4,19.99,79.96
+3241,2024-11-07,Laptop Stand,Office,North,2,34.99,69.98
+3242,2024-11-07,USB-C Hub,Electronics,North,2,29.99,59.98
+3243,2024-11-07,Water Bottle,Lifestyle,South,1,15.99,15.99
+3244,2024-11-07,Backpack,Lifestyle,East,3,45.99,137.97
+3245,2024-11-07,Water Bottle,Lifestyle,South,2,15.99,31.98
+3246,2024-11-07,Wireless Mouse,Electronics,West,5,19.99,99.95
+3247,2024-11-07,Notebook Set,Stationery,East,3,8.99,26.97
+3248,2024-11-07,Laptop Stand,Office,North,1,34.99,34.99
+3249,2024-11-07,USB-C Hub,Electronics,East,2,29.99,59.98
+3250,2024-11-07,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+3251,2024-11-07,Backpack,Lifestyle,North,1,45.99,45.99
+3252,2024-11-07,USB-C Hub,Electronics,East,5,29.99,149.95
+3253,2024-11-07,Notebook Set,Stationery,East,3,8.99,26.97
+3254,2024-11-07,Laptop Stand,Office,East,2,34.99,69.98
+3255,2024-11-08,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+3256,2024-11-08,Desk Lamp,Office,North,1,24.99,24.99
+3257,2024-11-08,Laptop Stand,Office,East,3,34.99,104.97
+3258,2024-11-08,Water Bottle,Lifestyle,East,5,15.99,79.95
+3259,2024-11-08,Backpack,Lifestyle,West,4,45.99,183.96
+3260,2024-11-08,Water Bottle,Lifestyle,West,2,15.99,31.98
+3261,2024-11-08,Wireless Mouse,Electronics,East,2,19.99,39.98
+3262,2024-11-08,Wireless Mouse,Electronics,East,5,19.99,99.95
+3263,2024-11-08,Backpack,Lifestyle,East,1,45.99,45.99
+3264,2024-11-08,Water Bottle,Lifestyle,South,3,15.99,47.97
+3265,2024-11-08,Notebook Set,Stationery,North,2,8.99,17.98
+3266,2024-11-08,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+3267,2024-11-08,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+3268,2024-11-09,Laptop Stand,Office,West,2,34.99,69.98
+3269,2024-11-09,Desk Lamp,Office,North,5,24.99,124.95
+3270,2024-11-09,Office Chair,Office,South,1,149.99,149.99
+3271,2024-11-09,Office Chair,Office,South,5,149.99,749.95
+3272,2024-11-09,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+3273,2024-11-09,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+3274,2024-11-09,Backpack,Lifestyle,South,5,45.99,229.95
+3275,2024-11-09,Laptop Stand,Office,West,2,34.99,69.98
+3276,2024-11-09,Notebook Set,Stationery,West,2,8.99,17.98
+3277,2024-11-09,Backpack,Lifestyle,North,2,45.99,91.98
+3278,2024-11-10,Wireless Mouse,Electronics,East,5,19.99,99.95
+3279,2024-11-10,Water Bottle,Lifestyle,North,1,15.99,15.99
+3280,2024-11-10,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+3281,2024-11-10,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+3282,2024-11-10,Desk Lamp,Office,North,1,24.99,24.99
+3283,2024-11-10,Water Bottle,Lifestyle,West,1,15.99,15.99
+3284,2024-11-11,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+3285,2024-11-11,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+3286,2024-11-11,Laptop Stand,Office,North,5,34.99,174.95
+3287,2024-11-11,Wireless Mouse,Electronics,West,4,19.99,79.96
+3288,2024-11-11,Laptop Stand,Office,East,2,34.99,69.98
+3289,2024-11-11,Water Bottle,Lifestyle,West,2,15.99,31.98
+3290,2024-11-11,Wireless Mouse,Electronics,North,2,19.99,39.98
+3291,2024-11-11,Backpack,Lifestyle,West,1,45.99,45.99
+3292,2024-11-11,Notebook Set,Stationery,South,4,8.99,35.96
+3293,2024-11-11,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+3294,2024-11-11,Office Chair,Office,North,2,149.99,299.98
+3295,2024-11-11,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+3296,2024-11-11,Wireless Mouse,Electronics,West,1,19.99,19.99
+3297,2024-11-11,USB-C Hub,Electronics,South,3,29.99,89.97
+3298,2024-11-11,Backpack,Lifestyle,South,5,45.99,229.95
+3299,2024-11-11,Water Bottle,Lifestyle,North,3,15.99,47.97
+3300,2024-11-12,Desk Lamp,Office,West,2,24.99,49.98
+3301,2024-11-12,Notebook Set,Stationery,East,4,8.99,35.96
+3302,2024-11-12,Laptop Stand,Office,East,1,34.99,34.99
+3303,2024-11-12,Laptop Stand,Office,South,4,34.99,139.96
+3304,2024-11-12,Office Chair,Office,North,1,149.99,149.99
+3305,2024-11-12,USB-C Hub,Electronics,South,1,29.99,29.99
+3306,2024-11-13,USB-C Hub,Electronics,North,3,29.99,89.97
+3307,2024-11-13,Wireless Mouse,Electronics,West,3,19.99,59.97
+3308,2024-11-13,Desk Lamp,Office,North,2,24.99,49.98
+3309,2024-11-13,Laptop Stand,Office,South,3,34.99,104.97
+3310,2024-11-13,Wireless Mouse,Electronics,South,5,19.99,99.95
+3311,2024-11-13,Office Chair,Office,East,2,149.99,299.98
+3312,2024-11-13,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+3313,2024-11-13,Laptop Stand,Office,North,3,34.99,104.97
+3314,2024-11-13,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+3315,2024-11-13,Office Chair,Office,North,5,149.99,749.95
+3316,2024-11-13,Water Bottle,Lifestyle,East,5,15.99,79.95
+3317,2024-11-13,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+3318,2024-11-13,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+3319,2024-11-13,Backpack,Lifestyle,North,5,45.99,229.95
+3320,2024-11-14,Laptop Stand,Office,East,5,34.99,174.95
+3321,2024-11-14,Notebook Set,Stationery,East,1,8.99,8.99
+3322,2024-11-14,Office Chair,Office,North,2,149.99,299.98
+3323,2024-11-14,Notebook Set,Stationery,South,2,8.99,17.98
+3324,2024-11-14,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+3325,2024-11-14,Wireless Mouse,Electronics,North,3,19.99,59.97
+3326,2024-11-14,Notebook Set,Stationery,West,5,8.99,44.95
+3327,2024-11-14,Desk Lamp,Office,West,3,24.99,74.97
+3328,2024-11-14,USB-C Hub,Electronics,East,1,29.99,29.99
+3329,2024-11-14,Backpack,Lifestyle,North,3,45.99,137.97
+3330,2024-11-14,Water Bottle,Lifestyle,North,2,15.99,31.98
+3331,2024-11-15,Office Chair,Office,East,5,149.99,749.95
+3332,2024-11-15,Laptop Stand,Office,West,3,34.99,104.97
+3333,2024-11-15,USB-C Hub,Electronics,West,2,29.99,59.98
+3334,2024-11-15,Notebook Set,Stationery,North,1,8.99,8.99
+3335,2024-11-15,Notebook Set,Stationery,West,2,8.99,17.98
+3336,2024-11-15,Notebook Set,Stationery,West,5,8.99,44.95
+3337,2024-11-15,Wireless Mouse,Electronics,East,5,19.99,99.95
+3338,2024-11-15,Desk Lamp,Office,South,4,24.99,99.96
+3339,2024-11-15,Laptop Stand,Office,North,3,34.99,104.97
+3340,2024-11-15,Wireless Mouse,Electronics,West,4,19.99,79.96
+3341,2024-11-15,Backpack,Lifestyle,West,5,45.99,229.95
+3342,2024-11-15,Backpack,Lifestyle,North,4,45.99,183.96
+3343,2024-11-15,Laptop Stand,Office,North,3,34.99,104.97
+3344,2024-11-15,Laptop Stand,Office,West,1,34.99,34.99
+3345,2024-11-15,USB-C Hub,Electronics,East,2,29.99,59.98
+3346,2024-11-15,Backpack,Lifestyle,North,2,45.99,91.98
+3347,2024-11-16,Water Bottle,Lifestyle,West,1,15.99,15.99
+3348,2024-11-16,Backpack,Lifestyle,West,2,45.99,91.98
+3349,2024-11-16,Wireless Mouse,Electronics,East,2,19.99,39.98
+3350,2024-11-16,Wireless Mouse,Electronics,East,3,19.99,59.97
+3351,2024-11-16,Desk Lamp,Office,East,1,24.99,24.99
+3352,2024-11-17,USB-C Hub,Electronics,West,1,29.99,29.99
+3353,2024-11-17,Office Chair,Office,South,3,149.99,449.97
+3354,2024-11-17,Wireless Mouse,Electronics,North,1,19.99,19.99
+3355,2024-11-17,Wireless Mouse,Electronics,South,5,19.99,99.95
+3356,2024-11-17,Wireless Mouse,Electronics,East,4,19.99,79.96
+3357,2024-11-17,USB-C Hub,Electronics,North,1,29.99,29.99
+3358,2024-11-17,Desk Lamp,Office,West,1,24.99,24.99
+3359,2024-11-17,Wireless Mouse,Electronics,West,5,19.99,99.95
+3360,2024-11-18,USB-C Hub,Electronics,South,3,29.99,89.97
+3361,2024-11-18,Laptop Stand,Office,North,2,34.99,69.98
+3362,2024-11-18,USB-C Hub,Electronics,West,5,29.99,149.95
+3363,2024-11-18,Wireless Mouse,Electronics,North,2,19.99,39.98
+3364,2024-11-18,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+3365,2024-11-18,USB-C Hub,Electronics,West,5,29.99,149.95
+3366,2024-11-18,Notebook Set,Stationery,North,5,8.99,44.95
+3367,2024-11-18,Notebook Set,Stationery,South,4,8.99,35.96
+3368,2024-11-18,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+3369,2024-11-18,Wireless Mouse,Electronics,North,5,19.99,99.95
+3370,2024-11-18,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+3371,2024-11-18,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+3372,2024-11-18,Water Bottle,Lifestyle,South,5,15.99,79.95
+3373,2024-11-18,Mechanical Keyboard,Electronics,South,2,59.99,119.98
+3374,2024-11-18,Wireless Mouse,Electronics,East,4,19.99,79.96
+3375,2024-11-18,Office Chair,Office,North,2,149.99,299.98
+3376,2024-11-19,Laptop Stand,Office,West,2,34.99,69.98
+3377,2024-11-19,Wireless Mouse,Electronics,North,2,19.99,39.98
+3378,2024-11-19,USB-C Hub,Electronics,East,4,29.99,119.96
+3379,2024-11-19,Backpack,Lifestyle,South,1,45.99,45.99
+3380,2024-11-19,USB-C Hub,Electronics,South,2,29.99,59.98
+3381,2024-11-19,USB-C Hub,Electronics,North,2,29.99,59.98
+3382,2024-11-19,Mechanical Keyboard,Electronics,North,1,59.99,59.99
+3383,2024-11-19,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+3384,2024-11-19,Water Bottle,Lifestyle,North,3,15.99,47.97
+3385,2024-11-20,Notebook Set,Stationery,West,4,8.99,35.96
+3386,2024-11-20,Backpack,Lifestyle,North,5,45.99,229.95
+3387,2024-11-20,Water Bottle,Lifestyle,North,1,15.99,15.99
+3388,2024-11-20,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+3389,2024-11-20,Laptop Stand,Office,North,2,34.99,69.98
+3390,2024-11-20,Backpack,Lifestyle,South,5,45.99,229.95
+3391,2024-11-20,Wireless Mouse,Electronics,North,4,19.99,79.96
+3392,2024-11-20,Office Chair,Office,South,4,149.99,599.96
+3393,2024-11-20,Laptop Stand,Office,East,3,34.99,104.97
+3394,2024-11-20,USB-C Hub,Electronics,South,2,29.99,59.98
+3395,2024-11-20,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+3396,2024-11-20,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+3397,2024-11-20,Desk Lamp,Office,North,5,24.99,124.95
+3398,2024-11-20,Wireless Mouse,Electronics,North,3,19.99,59.97
+3399,2024-11-20,Laptop Stand,Office,West,2,34.99,69.98
+3400,2024-11-20,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+3401,2024-11-20,Notebook Set,Stationery,East,1,8.99,8.99
+3402,2024-11-20,Notebook Set,Stationery,West,5,8.99,44.95
+3403,2024-11-21,Water Bottle,Lifestyle,South,4,15.99,63.96
+3404,2024-11-21,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+3405,2024-11-21,Laptop Stand,Office,South,1,34.99,34.99
+3406,2024-11-21,Laptop Stand,Office,West,3,34.99,104.97
+3407,2024-11-21,Laptop Stand,Office,West,1,34.99,34.99
+3408,2024-11-21,USB-C Hub,Electronics,South,5,29.99,149.95
+3409,2024-11-21,Water Bottle,Lifestyle,North,1,15.99,15.99
+3410,2024-11-21,Wireless Mouse,Electronics,North,4,19.99,79.96
+3411,2024-11-21,Gel Pens (Pack),Stationery,North,2,6.49,12.98
+3412,2024-11-21,Wireless Mouse,Electronics,West,1,19.99,19.99
+3413,2024-11-21,Office Chair,Office,East,1,149.99,149.99
+3414,2024-11-21,Desk Lamp,Office,West,3,24.99,74.97
+3415,2024-11-22,USB-C Hub,Electronics,West,5,29.99,149.95
+3416,2024-11-22,USB-C Hub,Electronics,North,2,29.99,59.98
+3417,2024-11-22,Backpack,Lifestyle,East,5,45.99,229.95
+3418,2024-11-22,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+3419,2024-11-22,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+3420,2024-11-22,Wireless Mouse,Electronics,North,2,19.99,39.98
+3421,2024-11-22,Water Bottle,Lifestyle,East,1,15.99,15.99
+3422,2024-11-22,Desk Lamp,Office,West,1,24.99,24.99
+3423,2024-11-22,Office Chair,Office,West,3,149.99,449.97
+3424,2024-11-22,Laptop Stand,Office,West,5,34.99,174.95
+3425,2024-11-22,Wireless Mouse,Electronics,West,5,19.99,99.95
+3426,2024-11-22,Water Bottle,Lifestyle,West,5,15.99,79.95
+3427,2024-11-22,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+3428,2024-11-22,Water Bottle,Lifestyle,East,3,15.99,47.97
+3429,2024-11-22,Wireless Mouse,Electronics,South,1,19.99,19.99
+3430,2024-11-22,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+3431,2024-11-22,Water Bottle,Lifestyle,South,2,15.99,31.98
+3432,2024-11-22,Notebook Set,Stationery,West,3,8.99,26.97
+3433,2024-11-22,Wireless Mouse,Electronics,South,2,19.99,39.98
+3434,2024-11-22,USB-C Hub,Electronics,South,5,29.99,149.95
+3435,2024-11-23,Desk Lamp,Office,South,5,24.99,124.95
+3436,2024-11-23,Wireless Mouse,Electronics,North,4,19.99,79.96
+3437,2024-11-23,Water Bottle,Lifestyle,South,4,15.99,63.96
+3438,2024-11-23,Gel Pens (Pack),Stationery,North,2,6.49,12.98
+3439,2024-11-23,Office Chair,Office,North,3,149.99,449.97
+3440,2024-11-23,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+3441,2024-11-23,Wireless Mouse,Electronics,West,4,19.99,79.96
+3442,2024-11-23,Desk Lamp,Office,East,5,24.99,124.95
+3443,2024-11-24,Desk Lamp,Office,North,5,24.99,124.95
+3444,2024-11-24,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+3445,2024-11-24,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+3446,2024-11-24,Backpack,Lifestyle,North,1,45.99,45.99
+3447,2024-11-24,Desk Lamp,Office,North,5,24.99,124.95
+3448,2024-11-24,Notebook Set,Stationery,East,3,8.99,26.97
+3449,2024-11-24,Notebook Set,Stationery,East,4,8.99,35.96
+3450,2024-11-24,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+3451,2024-11-24,Notebook Set,Stationery,East,2,8.99,17.98
+3452,2024-11-25,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+3453,2024-11-25,Backpack,Lifestyle,North,4,45.99,183.96
+3454,2024-11-25,USB-C Hub,Electronics,West,3,29.99,89.97
+3455,2024-11-25,Wireless Mouse,Electronics,East,1,19.99,19.99
+3456,2024-11-25,USB-C Hub,Electronics,South,5,29.99,149.95
+3457,2024-11-25,Laptop Stand,Office,West,1,34.99,34.99
+3458,2024-11-25,Wireless Mouse,Electronics,North,5,19.99,99.95
+3459,2024-11-25,Notebook Set,Stationery,East,4,8.99,35.96
+3460,2024-11-25,Laptop Stand,Office,East,3,34.99,104.97
+3461,2024-11-25,Office Chair,Office,South,4,149.99,599.96
+3462,2024-11-26,Desk Lamp,Office,South,5,24.99,124.95
+3463,2024-11-26,Notebook Set,Stationery,South,4,8.99,35.96
+3464,2024-11-26,Office Chair,Office,West,2,149.99,299.98
+3465,2024-11-26,Desk Lamp,Office,South,3,24.99,74.97
+3466,2024-11-26,Backpack,Lifestyle,North,2,45.99,91.98
+3467,2024-11-26,USB-C Hub,Electronics,West,2,29.99,59.98
+3468,2024-11-26,USB-C Hub,Electronics,West,1,29.99,29.99
+3469,2024-11-26,Office Chair,Office,South,5,149.99,749.95
+3470,2024-11-26,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+3471,2024-11-26,Notebook Set,Stationery,East,3,8.99,26.97
+3472,2024-11-26,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+3473,2024-11-26,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+3474,2024-11-26,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+3475,2024-11-26,Backpack,Lifestyle,East,3,45.99,137.97
+3476,2024-11-27,Desk Lamp,Office,East,2,24.99,49.98
+3477,2024-11-27,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+3478,2024-11-27,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+3479,2024-11-27,Water Bottle,Lifestyle,West,4,15.99,63.96
+3480,2024-11-27,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+3481,2024-11-27,Laptop Stand,Office,West,1,34.99,34.99
+3482,2024-11-27,Water Bottle,Lifestyle,North,4,15.99,63.96
+3483,2024-11-27,Office Chair,Office,South,1,149.99,149.99
+3484,2024-11-27,Office Chair,Office,North,1,149.99,149.99
+3485,2024-11-27,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+3486,2024-11-27,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+3487,2024-11-27,Water Bottle,Lifestyle,South,1,15.99,15.99
+3488,2024-11-27,Office Chair,Office,North,3,149.99,449.97
+3489,2024-11-27,Notebook Set,Stationery,South,5,8.99,44.95
+3490,2024-11-27,Wireless Mouse,Electronics,West,5,19.99,99.95
+3491,2024-11-27,Desk Lamp,Office,East,2,24.99,49.98
+3492,2024-11-28,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+3493,2024-11-28,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+3494,2024-11-28,Office Chair,Office,North,5,149.99,749.95
+3495,2024-11-28,Desk Lamp,Office,East,1,24.99,24.99
+3496,2024-11-28,USB-C Hub,Electronics,West,5,29.99,149.95
+3497,2024-11-28,Wireless Mouse,Electronics,South,4,19.99,79.96
+3498,2024-11-28,USB-C Hub,Electronics,West,3,29.99,89.97
+3499,2024-11-28,Water Bottle,Lifestyle,West,3,15.99,47.97
+3500,2024-11-28,Office Chair,Office,West,1,149.99,149.99
+3501,2024-11-28,Notebook Set,Stationery,West,1,8.99,8.99
+3502,2024-11-28,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+3503,2024-11-28,Backpack,Lifestyle,East,5,45.99,229.95
+3504,2024-11-28,Desk Lamp,Office,East,5,24.99,124.95
+3505,2024-11-28,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+3506,2024-11-29,Wireless Mouse,Electronics,West,1,19.99,19.99
+3507,2024-11-29,Desk Lamp,Office,West,3,24.99,74.97
+3508,2024-11-29,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+3509,2024-11-29,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+3510,2024-11-29,Notebook Set,Stationery,South,2,8.99,17.98
+3511,2024-11-29,Desk Lamp,Office,South,3,24.99,74.97
+3512,2024-11-30,Desk Lamp,Office,East,1,24.99,24.99
+3513,2024-11-30,Desk Lamp,Office,South,1,24.99,24.99
+3514,2024-11-30,Water Bottle,Lifestyle,South,3,15.99,47.97
+3515,2024-11-30,USB-C Hub,Electronics,South,3,29.99,89.97
+3516,2024-11-30,Gel Pens (Pack),Stationery,West,5,6.49,32.45
+3517,2024-11-30,USB-C Hub,Electronics,East,2,29.99,59.98
+3518,2024-11-30,Laptop Stand,Office,South,1,34.99,34.99
+3519,2024-12-01,Backpack,Lifestyle,West,5,45.99,229.95
+3520,2024-12-01,Water Bottle,Lifestyle,West,4,15.99,63.96
+3521,2024-12-01,Backpack,Lifestyle,South,2,45.99,91.98
+3522,2024-12-01,Laptop Stand,Office,East,1,34.99,34.99
+3523,2024-12-01,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+3524,2024-12-01,Water Bottle,Lifestyle,North,3,15.99,47.97
+3525,2024-12-01,Mechanical Keyboard,Electronics,South,5,59.99,299.95
+3526,2024-12-01,Laptop Stand,Office,North,4,34.99,139.96
+3527,2024-12-01,Laptop Stand,Office,East,2,34.99,69.98
+3528,2024-12-01,Backpack,Lifestyle,West,1,45.99,45.99
+3529,2024-12-02,Office Chair,Office,West,3,149.99,449.97
+3530,2024-12-02,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+3531,2024-12-02,Wireless Mouse,Electronics,East,1,19.99,19.99
+3532,2024-12-02,Notebook Set,Stationery,West,3,8.99,26.97
+3533,2024-12-02,Office Chair,Office,West,3,149.99,449.97
+3534,2024-12-02,Notebook Set,Stationery,South,5,8.99,44.95
+3535,2024-12-02,Water Bottle,Lifestyle,East,4,15.99,63.96
+3536,2024-12-02,Desk Lamp,Office,East,4,24.99,99.96
+3537,2024-12-02,Backpack,Lifestyle,East,1,45.99,45.99
+3538,2024-12-02,USB-C Hub,Electronics,East,5,29.99,149.95
+3539,2024-12-02,Wireless Mouse,Electronics,North,3,19.99,59.97
+3540,2024-12-02,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+3541,2024-12-02,Notebook Set,Stationery,East,4,8.99,35.96
+3542,2024-12-02,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+3543,2024-12-02,Wireless Mouse,Electronics,North,1,19.99,19.99
+3544,2024-12-02,Water Bottle,Lifestyle,South,5,15.99,79.95
+3545,2024-12-02,Notebook Set,Stationery,East,5,8.99,44.95
+3546,2024-12-02,Laptop Stand,Office,East,1,34.99,34.99
+3547,2024-12-02,Office Chair,Office,East,4,149.99,599.96
+3548,2024-12-03,Wireless Mouse,Electronics,East,2,19.99,39.98
+3549,2024-12-03,Desk Lamp,Office,West,1,24.99,24.99
+3550,2024-12-03,Laptop Stand,Office,East,5,34.99,174.95
+3551,2024-12-03,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+3552,2024-12-03,USB-C Hub,Electronics,North,5,29.99,149.95
+3553,2024-12-03,Office Chair,Office,South,2,149.99,299.98
+3554,2024-12-03,Water Bottle,Lifestyle,North,1,15.99,15.99
+3555,2024-12-03,Wireless Mouse,Electronics,West,1,19.99,19.99
+3556,2024-12-03,Backpack,Lifestyle,North,3,45.99,137.97
+3557,2024-12-03,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+3558,2024-12-03,Notebook Set,Stationery,East,2,8.99,17.98
+3559,2024-12-03,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+3560,2024-12-03,Mechanical Keyboard,Electronics,East,4,59.99,239.96
+3561,2024-12-03,Backpack,Lifestyle,North,4,45.99,183.96
+3562,2024-12-03,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+3563,2024-12-03,Laptop Stand,Office,West,5,34.99,174.95
+3564,2024-12-03,Desk Lamp,Office,South,5,24.99,124.95
+3565,2024-12-03,Backpack,Lifestyle,South,3,45.99,137.97
+3566,2024-12-03,Desk Lamp,Office,South,3,24.99,74.97
+3567,2024-12-03,USB-C Hub,Electronics,South,5,29.99,149.95
+3568,2024-12-03,USB-C Hub,Electronics,South,3,29.99,89.97
+3569,2024-12-03,Notebook Set,Stationery,North,5,8.99,44.95
+3570,2024-12-04,Desk Lamp,Office,East,5,24.99,124.95
+3571,2024-12-04,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+3572,2024-12-04,Backpack,Lifestyle,East,5,45.99,229.95
+3573,2024-12-04,USB-C Hub,Electronics,South,5,29.99,149.95
+3574,2024-12-04,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+3575,2024-12-04,Water Bottle,Lifestyle,West,5,15.99,79.95
+3576,2024-12-04,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+3577,2024-12-04,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+3578,2024-12-04,USB-C Hub,Electronics,East,4,29.99,119.96
+3579,2024-12-04,Water Bottle,Lifestyle,West,2,15.99,31.98
+3580,2024-12-04,Water Bottle,Lifestyle,South,2,15.99,31.98
+3581,2024-12-04,Wireless Mouse,Electronics,West,2,19.99,39.98
+3582,2024-12-04,Water Bottle,Lifestyle,West,4,15.99,63.96
+3583,2024-12-04,Laptop Stand,Office,South,5,34.99,174.95
+3584,2024-12-04,Gel Pens (Pack),Stationery,South,3,6.49,19.47
+3585,2024-12-04,Water Bottle,Lifestyle,North,4,15.99,63.96
+3586,2024-12-04,Laptop Stand,Office,West,3,34.99,104.97
+3587,2024-12-05,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+3588,2024-12-05,Desk Lamp,Office,South,2,24.99,49.98
+3589,2024-12-05,Notebook Set,Stationery,West,3,8.99,26.97
+3590,2024-12-05,Laptop Stand,Office,North,2,34.99,69.98
+3591,2024-12-05,Water Bottle,Lifestyle,East,4,15.99,63.96
+3592,2024-12-05,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+3593,2024-12-05,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+3594,2024-12-05,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+3595,2024-12-05,Water Bottle,Lifestyle,North,5,15.99,79.95
+3596,2024-12-05,Desk Lamp,Office,South,3,24.99,74.97
+3597,2024-12-05,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+3598,2024-12-05,Notebook Set,Stationery,North,1,8.99,8.99
+3599,2024-12-05,Backpack,Lifestyle,South,2,45.99,91.98
+3600,2024-12-05,USB-C Hub,Electronics,North,4,29.99,119.96
+3601,2024-12-05,Desk Lamp,Office,North,3,24.99,74.97
+3602,2024-12-05,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+3603,2024-12-06,Water Bottle,Lifestyle,East,4,15.99,63.96
+3604,2024-12-06,Wireless Mouse,Electronics,South,3,19.99,59.97
+3605,2024-12-06,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+3606,2024-12-06,Water Bottle,Lifestyle,East,4,15.99,63.96
+3607,2024-12-06,Notebook Set,Stationery,West,4,8.99,35.96
+3608,2024-12-06,Laptop Stand,Office,North,3,34.99,104.97
+3609,2024-12-06,Desk Lamp,Office,South,1,24.99,24.99
+3610,2024-12-06,Notebook Set,Stationery,West,1,8.99,8.99
+3611,2024-12-06,Wireless Mouse,Electronics,South,4,19.99,79.96
+3612,2024-12-06,Notebook Set,Stationery,East,2,8.99,17.98
+3613,2024-12-06,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+3614,2024-12-06,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+3615,2024-12-06,Notebook Set,Stationery,South,1,8.99,8.99
+3616,2024-12-07,Laptop Stand,Office,South,5,34.99,174.95
+3617,2024-12-07,Backpack,Lifestyle,West,3,45.99,137.97
+3618,2024-12-07,USB-C Hub,Electronics,South,4,29.99,119.96
+3619,2024-12-07,Wireless Mouse,Electronics,East,4,19.99,79.96
+3620,2024-12-07,Backpack,Lifestyle,West,2,45.99,91.98
+3621,2024-12-07,Water Bottle,Lifestyle,West,3,15.99,47.97
+3622,2024-12-07,Notebook Set,Stationery,East,2,8.99,17.98
+3623,2024-12-07,Water Bottle,Lifestyle,West,2,15.99,31.98
+3624,2024-12-07,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+3625,2024-12-07,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+3626,2024-12-07,Office Chair,Office,South,3,149.99,449.97
+3627,2024-12-07,Wireless Mouse,Electronics,East,4,19.99,79.96
+3628,2024-12-07,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+3629,2024-12-07,USB-C Hub,Electronics,West,1,29.99,29.99
+3630,2024-12-08,Backpack,Lifestyle,North,1,45.99,45.99
+3631,2024-12-08,Laptop Stand,Office,South,3,34.99,104.97
+3632,2024-12-08,Water Bottle,Lifestyle,South,4,15.99,63.96
+3633,2024-12-08,Office Chair,Office,South,5,149.99,749.95
+3634,2024-12-08,Desk Lamp,Office,West,4,24.99,99.96
+3635,2024-12-09,Water Bottle,Lifestyle,South,5,15.99,79.95
+3636,2024-12-09,Backpack,Lifestyle,North,2,45.99,91.98
+3637,2024-12-09,Backpack,Lifestyle,East,5,45.99,229.95
+3638,2024-12-09,Backpack,Lifestyle,North,1,45.99,45.99
+3639,2024-12-09,Backpack,Lifestyle,West,3,45.99,137.97
+3640,2024-12-09,Water Bottle,Lifestyle,East,3,15.99,47.97
+3641,2024-12-09,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+3642,2024-12-09,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+3643,2024-12-09,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+3644,2024-12-10,Office Chair,Office,South,3,149.99,449.97
+3645,2024-12-10,Desk Lamp,Office,South,3,24.99,74.97
+3646,2024-12-10,Water Bottle,Lifestyle,North,1,15.99,15.99
+3647,2024-12-10,Wireless Mouse,Electronics,South,3,19.99,59.97
+3648,2024-12-10,USB-C Hub,Electronics,East,5,29.99,149.95
+3649,2024-12-10,Wireless Mouse,Electronics,West,4,19.99,79.96
+3650,2024-12-10,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+3651,2024-12-10,USB-C Hub,Electronics,North,4,29.99,119.96
+3652,2024-12-10,Office Chair,Office,West,1,149.99,149.99
+3653,2024-12-10,Wireless Mouse,Electronics,East,3,19.99,59.97
+3654,2024-12-10,Desk Lamp,Office,East,1,24.99,24.99
+3655,2024-12-10,Notebook Set,Stationery,East,1,8.99,8.99
+3656,2024-12-10,USB-C Hub,Electronics,North,5,29.99,149.95
+3657,2024-12-10,Backpack,Lifestyle,North,4,45.99,183.96
+3658,2024-12-11,Backpack,Lifestyle,South,4,45.99,183.96
+3659,2024-12-11,Office Chair,Office,South,1,149.99,149.99
+3660,2024-12-11,Desk Lamp,Office,South,2,24.99,49.98
+3661,2024-12-11,Backpack,Lifestyle,South,1,45.99,45.99
+3662,2024-12-11,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+3663,2024-12-11,Gel Pens (Pack),Stationery,West,3,6.49,19.47
+3664,2024-12-11,Office Chair,Office,East,3,149.99,449.97
+3665,2024-12-11,Wireless Mouse,Electronics,North,2,19.99,39.98
+3666,2024-12-11,Backpack,Lifestyle,South,5,45.99,229.95
+3667,2024-12-11,Wireless Mouse,Electronics,East,1,19.99,19.99
+3668,2024-12-11,Water Bottle,Lifestyle,East,2,15.99,31.98
+3669,2024-12-11,Backpack,Lifestyle,East,4,45.99,183.96
+3670,2024-12-11,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+3671,2024-12-11,Wireless Mouse,Electronics,South,4,19.99,79.96
+3672,2024-12-12,Desk Lamp,Office,North,2,24.99,49.98
+3673,2024-12-12,Backpack,Lifestyle,South,5,45.99,229.95
+3674,2024-12-12,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+3675,2024-12-12,Wireless Mouse,Electronics,East,2,19.99,39.98
+3676,2024-12-12,Water Bottle,Lifestyle,East,2,15.99,31.98
+3677,2024-12-12,Office Chair,Office,South,3,149.99,449.97
+3678,2024-12-12,Laptop Stand,Office,East,5,34.99,174.95
+3679,2024-12-12,Water Bottle,Lifestyle,North,5,15.99,79.95
+3680,2024-12-12,Desk Lamp,Office,South,3,24.99,74.97
+3681,2024-12-12,Desk Lamp,Office,South,4,24.99,99.96
+3682,2024-12-12,Mechanical Keyboard,Electronics,North,3,59.99,179.97
+3683,2024-12-12,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+3684,2024-12-12,Gel Pens (Pack),Stationery,North,2,6.49,12.98
+3685,2024-12-12,Office Chair,Office,East,5,149.99,749.95
+3686,2024-12-12,Desk Lamp,Office,North,5,24.99,124.95
+3687,2024-12-13,Laptop Stand,Office,West,1,34.99,34.99
+3688,2024-12-13,Backpack,Lifestyle,West,1,45.99,45.99
+3689,2024-12-13,Notebook Set,Stationery,West,1,8.99,8.99
+3690,2024-12-13,Desk Lamp,Office,South,3,24.99,74.97
+3691,2024-12-13,USB-C Hub,Electronics,East,2,29.99,59.98
+3692,2024-12-13,Laptop Stand,Office,West,5,34.99,174.95
+3693,2024-12-13,Water Bottle,Lifestyle,South,4,15.99,63.96
+3694,2024-12-13,Backpack,Lifestyle,East,3,45.99,137.97
+3695,2024-12-13,Backpack,Lifestyle,North,5,45.99,229.95
+3696,2024-12-13,Laptop Stand,Office,East,2,34.99,69.98
+3697,2024-12-13,Gel Pens (Pack),Stationery,North,1,6.49,6.49
+3698,2024-12-13,Wireless Mouse,Electronics,North,2,19.99,39.98
+3699,2024-12-13,Gel Pens (Pack),Stationery,East,1,6.49,6.49
+3700,2024-12-13,USB-C Hub,Electronics,East,2,29.99,59.98
+3701,2024-12-13,Backpack,Lifestyle,North,2,45.99,91.98
+3702,2024-12-13,Desk Lamp,Office,West,2,24.99,49.98
+3703,2024-12-13,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+3704,2024-12-14,Backpack,Lifestyle,South,1,45.99,45.99
+3705,2024-12-14,Office Chair,Office,West,5,149.99,749.95
+3706,2024-12-14,Wireless Mouse,Electronics,South,4,19.99,79.96
+3707,2024-12-14,Office Chair,Office,East,3,149.99,449.97
+3708,2024-12-14,USB-C Hub,Electronics,East,3,29.99,89.97
+3709,2024-12-14,Backpack,Lifestyle,South,3,45.99,137.97
+3710,2024-12-14,Backpack,Lifestyle,South,5,45.99,229.95
+3711,2024-12-15,Desk Lamp,Office,North,3,24.99,74.97
+3712,2024-12-15,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+3713,2024-12-15,Laptop Stand,Office,South,5,34.99,174.95
+3714,2024-12-15,Desk Lamp,Office,South,5,24.99,124.95
+3715,2024-12-15,Mechanical Keyboard,Electronics,East,5,59.99,299.95
+3716,2024-12-15,Laptop Stand,Office,North,3,34.99,104.97
+3717,2024-12-15,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+3718,2024-12-15,Backpack,Lifestyle,West,3,45.99,137.97
+3719,2024-12-15,Notebook Set,Stationery,North,2,8.99,17.98
+3720,2024-12-15,Wireless Mouse,Electronics,West,4,19.99,79.96
+3721,2024-12-16,Laptop Stand,Office,South,1,34.99,34.99
+3722,2024-12-16,Wireless Mouse,Electronics,West,4,19.99,79.96
+3723,2024-12-16,Office Chair,Office,East,3,149.99,449.97
+3724,2024-12-16,Water Bottle,Lifestyle,North,5,15.99,79.95
+3725,2024-12-16,Office Chair,Office,North,3,149.99,449.97
+3726,2024-12-16,Water Bottle,Lifestyle,West,1,15.99,15.99
+3727,2024-12-16,Laptop Stand,Office,North,5,34.99,174.95
+3728,2024-12-16,Laptop Stand,Office,West,2,34.99,69.98
+3729,2024-12-16,Office Chair,Office,West,1,149.99,149.99
+3730,2024-12-16,Wireless Mouse,Electronics,North,3,19.99,59.97
+3731,2024-12-16,Laptop Stand,Office,East,1,34.99,34.99
+3732,2024-12-16,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+3733,2024-12-16,Mechanical Keyboard,Electronics,East,2,59.99,119.98
+3734,2024-12-16,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+3735,2024-12-17,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+3736,2024-12-17,Wireless Mouse,Electronics,South,4,19.99,79.96
+3737,2024-12-17,Water Bottle,Lifestyle,East,4,15.99,63.96
+3738,2024-12-17,Notebook Set,Stationery,South,5,8.99,44.95
+3739,2024-12-17,Gel Pens (Pack),Stationery,East,3,6.49,19.47
+3740,2024-12-17,Laptop Stand,Office,North,3,34.99,104.97
+3741,2024-12-17,Laptop Stand,Office,North,3,34.99,104.97
+3742,2024-12-17,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+3743,2024-12-17,Office Chair,Office,East,2,149.99,299.98
+3744,2024-12-17,Backpack,Lifestyle,West,5,45.99,229.95
+3745,2024-12-17,Office Chair,Office,North,5,149.99,749.95
+3746,2024-12-17,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+3747,2024-12-17,Wireless Mouse,Electronics,East,4,19.99,79.96
+3748,2024-12-18,Water Bottle,Lifestyle,West,3,15.99,47.97
+3749,2024-12-18,Desk Lamp,Office,South,4,24.99,99.96
+3750,2024-12-18,Backpack,Lifestyle,South,3,45.99,137.97
+3751,2024-12-18,Laptop Stand,Office,East,3,34.99,104.97
+3752,2024-12-18,Desk Lamp,Office,West,5,24.99,124.95
+3753,2024-12-18,Wireless Mouse,Electronics,East,5,19.99,99.95
+3754,2024-12-18,Office Chair,Office,North,3,149.99,449.97
+3755,2024-12-18,Gel Pens (Pack),Stationery,West,1,6.49,6.49
+3756,2024-12-18,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+3757,2024-12-18,USB-C Hub,Electronics,West,4,29.99,119.96
+3758,2024-12-18,Laptop Stand,Office,North,3,34.99,104.97
+3759,2024-12-18,Water Bottle,Lifestyle,North,4,15.99,63.96
+3760,2024-12-18,Backpack,Lifestyle,West,5,45.99,229.95
+3761,2024-12-18,Wireless Mouse,Electronics,West,1,19.99,19.99
+3762,2024-12-18,Mechanical Keyboard,Electronics,East,1,59.99,59.99
+3763,2024-12-18,USB-C Hub,Electronics,North,5,29.99,149.95
+3764,2024-12-18,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+3765,2024-12-18,USB-C Hub,Electronics,West,1,29.99,29.99
+3766,2024-12-18,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+3767,2024-12-19,Office Chair,Office,North,3,149.99,449.97
+3768,2024-12-19,Desk Lamp,Office,East,3,24.99,74.97
+3769,2024-12-19,USB-C Hub,Electronics,West,1,29.99,29.99
+3770,2024-12-19,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+3771,2024-12-19,Gel Pens (Pack),Stationery,North,3,6.49,19.47
+3772,2024-12-19,Backpack,Lifestyle,South,1,45.99,45.99
+3773,2024-12-19,Desk Lamp,Office,South,5,24.99,124.95
+3774,2024-12-19,Water Bottle,Lifestyle,North,4,15.99,63.96
+3775,2024-12-19,Desk Lamp,Office,North,5,24.99,124.95
+3776,2024-12-19,Backpack,Lifestyle,West,4,45.99,183.96
+3777,2024-12-19,Laptop Stand,Office,West,5,34.99,174.95
+3778,2024-12-19,Wireless Mouse,Electronics,North,5,19.99,99.95
+3779,2024-12-19,Wireless Mouse,Electronics,South,4,19.99,79.96
+3780,2024-12-19,Laptop Stand,Office,North,5,34.99,174.95
+3781,2024-12-19,Notebook Set,Stationery,North,1,8.99,8.99
+3782,2024-12-19,USB-C Hub,Electronics,East,4,29.99,119.96
+3783,2024-12-20,Backpack,Lifestyle,East,5,45.99,229.95
+3784,2024-12-20,Office Chair,Office,North,5,149.99,749.95
+3785,2024-12-20,Desk Lamp,Office,South,4,24.99,99.96
+3786,2024-12-20,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+3787,2024-12-20,Desk Lamp,Office,South,3,24.99,74.97
+3788,2024-12-20,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+3789,2024-12-20,Desk Lamp,Office,West,4,24.99,99.96
+3790,2024-12-20,Water Bottle,Lifestyle,South,5,15.99,79.95
+3791,2024-12-20,USB-C Hub,Electronics,East,4,29.99,119.96
+3792,2024-12-20,Desk Lamp,Office,East,5,24.99,124.95
+3793,2024-12-20,Notebook Set,Stationery,North,5,8.99,44.95
+3794,2024-12-20,Office Chair,Office,South,2,149.99,299.98
+3795,2024-12-21,Wireless Mouse,Electronics,North,3,19.99,59.97
+3796,2024-12-21,Desk Lamp,Office,South,1,24.99,24.99
+3797,2024-12-21,Laptop Stand,Office,West,5,34.99,174.95
+3798,2024-12-21,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+3799,2024-12-21,Gel Pens (Pack),Stationery,North,4,6.49,25.96
+3800,2024-12-21,Office Chair,Office,West,3,149.99,449.97
+3801,2024-12-22,Desk Lamp,Office,West,2,24.99,49.98
+3802,2024-12-22,Backpack,Lifestyle,East,4,45.99,183.96
+3803,2024-12-22,Notebook Set,Stationery,North,5,8.99,44.95
+3804,2024-12-22,Desk Lamp,Office,East,4,24.99,99.96
+3805,2024-12-22,Water Bottle,Lifestyle,North,5,15.99,79.95
+3806,2024-12-22,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+3807,2024-12-22,Notebook Set,Stationery,South,5,8.99,44.95
+3808,2024-12-22,Laptop Stand,Office,North,5,34.99,174.95
+3809,2024-12-23,Water Bottle,Lifestyle,East,4,15.99,63.96
+3810,2024-12-23,Mechanical Keyboard,Electronics,South,3,59.99,179.97
+3811,2024-12-23,Desk Lamp,Office,North,3,24.99,74.97
+3812,2024-12-23,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+3813,2024-12-23,Water Bottle,Lifestyle,West,4,15.99,63.96
+3814,2024-12-23,Backpack,Lifestyle,East,2,45.99,91.98
+3815,2024-12-23,USB-C Hub,Electronics,West,1,29.99,29.99
+3816,2024-12-23,Wireless Mouse,Electronics,East,1,19.99,19.99
+3817,2024-12-23,Notebook Set,Stationery,North,2,8.99,17.98
+3818,2024-12-23,Water Bottle,Lifestyle,East,5,15.99,79.95
+3819,2024-12-23,USB-C Hub,Electronics,West,3,29.99,89.97
+3820,2024-12-23,USB-C Hub,Electronics,West,4,29.99,119.96
+3821,2024-12-23,Desk Lamp,Office,North,1,24.99,24.99
+3822,2024-12-24,Backpack,Lifestyle,East,5,45.99,229.95
+3823,2024-12-24,Backpack,Lifestyle,West,2,45.99,91.98
+3824,2024-12-24,Water Bottle,Lifestyle,North,3,15.99,47.97
+3825,2024-12-24,Gel Pens (Pack),Stationery,South,1,6.49,6.49
+3826,2024-12-24,Laptop Stand,Office,East,1,34.99,34.99
+3827,2024-12-24,Notebook Set,Stationery,North,5,8.99,44.95
+3828,2024-12-24,Wireless Mouse,Electronics,South,2,19.99,39.98
+3829,2024-12-24,USB-C Hub,Electronics,South,4,29.99,119.96
+3830,2024-12-24,Desk Lamp,Office,North,5,24.99,124.95
+3831,2024-12-24,Water Bottle,Lifestyle,East,3,15.99,47.97
+3832,2024-12-24,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+3833,2024-12-24,Mechanical Keyboard,Electronics,North,5,59.99,299.95
+3834,2024-12-25,USB-C Hub,Electronics,South,2,29.99,59.98
+3835,2024-12-25,Wireless Mouse,Electronics,South,5,19.99,99.95
+3836,2024-12-25,USB-C Hub,Electronics,West,3,29.99,89.97
+3837,2024-12-25,USB-C Hub,Electronics,South,3,29.99,89.97
+3838,2024-12-25,Backpack,Lifestyle,West,3,45.99,137.97
+3839,2024-12-25,Desk Lamp,Office,North,4,24.99,99.96
+3840,2024-12-25,Water Bottle,Lifestyle,North,1,15.99,15.99
+3841,2024-12-25,Mechanical Keyboard,Electronics,West,5,59.99,299.95
+3842,2024-12-25,Notebook Set,Stationery,West,1,8.99,8.99
+3843,2024-12-25,Backpack,Lifestyle,North,4,45.99,183.96
+3844,2024-12-25,USB-C Hub,Electronics,West,2,29.99,59.98
+3845,2024-12-25,Mechanical Keyboard,Electronics,North,2,59.99,119.98
+3846,2024-12-25,Laptop Stand,Office,East,4,34.99,139.96
+3847,2024-12-25,Backpack,Lifestyle,North,2,45.99,91.98
+3848,2024-12-25,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+3849,2024-12-25,Office Chair,Office,East,3,149.99,449.97
+3850,2024-12-25,Desk Lamp,Office,East,4,24.99,99.96
+3851,2024-12-25,Gel Pens (Pack),Stationery,East,2,6.49,12.98
+3852,2024-12-25,Office Chair,Office,East,5,149.99,749.95
+3853,2024-12-26,USB-C Hub,Electronics,South,4,29.99,119.96
+3854,2024-12-26,Backpack,Lifestyle,East,4,45.99,183.96
+3855,2024-12-26,Mechanical Keyboard,Electronics,East,3,59.99,179.97
+3856,2024-12-26,Notebook Set,Stationery,East,2,8.99,17.98
+3857,2024-12-26,Wireless Mouse,Electronics,East,4,19.99,79.96
+3858,2024-12-26,Desk Lamp,Office,North,4,24.99,99.96
+3859,2024-12-26,Wireless Mouse,Electronics,West,2,19.99,39.98
+3860,2024-12-26,USB-C Hub,Electronics,South,4,29.99,119.96
+3861,2024-12-26,Office Chair,Office,East,5,149.99,749.95
+3862,2024-12-26,Mechanical Keyboard,Electronics,West,1,59.99,59.99
+3863,2024-12-26,Backpack,Lifestyle,West,1,45.99,45.99
+3864,2024-12-26,Mechanical Keyboard,Electronics,West,3,59.99,179.97
+3865,2024-12-26,Backpack,Lifestyle,South,1,45.99,45.99
+3866,2024-12-26,USB-C Hub,Electronics,West,4,29.99,119.96
+3867,2024-12-26,Laptop Stand,Office,East,4,34.99,139.96
+3868,2024-12-26,Wireless Mouse,Electronics,North,4,19.99,79.96
+3869,2024-12-27,Water Bottle,Lifestyle,South,1,15.99,15.99
+3870,2024-12-27,Desk Lamp,Office,East,5,24.99,124.95
+3871,2024-12-27,Office Chair,Office,West,3,149.99,449.97
+3872,2024-12-27,Desk Lamp,Office,West,2,24.99,49.98
+3873,2024-12-27,Mechanical Keyboard,Electronics,West,2,59.99,119.98
+3874,2024-12-27,Desk Lamp,Office,South,3,24.99,74.97
+3875,2024-12-27,USB-C Hub,Electronics,West,1,29.99,29.99
+3876,2024-12-27,Desk Lamp,Office,West,1,24.99,24.99
+3877,2024-12-27,Wireless Mouse,Electronics,South,5,19.99,99.95
+3878,2024-12-27,Wireless Mouse,Electronics,West,4,19.99,79.96
+3879,2024-12-27,USB-C Hub,Electronics,North,1,29.99,29.99
+3880,2024-12-27,Laptop Stand,Office,West,2,34.99,69.98
+3881,2024-12-27,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+3882,2024-12-27,Gel Pens (Pack),Stationery,West,4,6.49,25.96
+3883,2024-12-27,Water Bottle,Lifestyle,South,4,15.99,63.96
+3884,2024-12-27,Water Bottle,Lifestyle,West,3,15.99,47.97
+3885,2024-12-27,Desk Lamp,Office,East,4,24.99,99.96
+3886,2024-12-27,Notebook Set,Stationery,North,2,8.99,17.98
+3887,2024-12-28,Mechanical Keyboard,Electronics,North,4,59.99,239.96
+3888,2024-12-28,Office Chair,Office,South,1,149.99,149.99
+3889,2024-12-28,Office Chair,Office,East,2,149.99,299.98
+3890,2024-12-28,Laptop Stand,Office,South,1,34.99,34.99
+3891,2024-12-28,Notebook Set,Stationery,South,5,8.99,44.95
+3892,2024-12-29,Notebook Set,Stationery,South,3,8.99,26.97
+3893,2024-12-29,Office Chair,Office,West,4,149.99,599.96
+3894,2024-12-29,Notebook Set,Stationery,West,5,8.99,44.95
+3895,2024-12-29,Backpack,Lifestyle,North,5,45.99,229.95
+3896,2024-12-29,Gel Pens (Pack),Stationery,East,4,6.49,25.96
+3897,2024-12-29,Backpack,Lifestyle,West,4,45.99,183.96
+3898,2024-12-29,Backpack,Lifestyle,North,5,45.99,229.95
+3899,2024-12-29,USB-C Hub,Electronics,South,5,29.99,149.95
+3900,2024-12-30,Backpack,Lifestyle,West,5,45.99,229.95
+3901,2024-12-30,Wireless Mouse,Electronics,West,2,19.99,39.98
+3902,2024-12-30,Laptop Stand,Office,West,4,34.99,139.96
+3903,2024-12-30,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+3904,2024-12-30,Mechanical Keyboard,Electronics,South,1,59.99,59.99
+3905,2024-12-30,USB-C Hub,Electronics,West,4,29.99,119.96
+3906,2024-12-30,Office Chair,Office,East,4,149.99,599.96
+3907,2024-12-30,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+3908,2024-12-30,Desk Lamp,Office,West,1,24.99,24.99
+3909,2024-12-30,Mechanical Keyboard,Electronics,West,4,59.99,239.96
+3910,2024-12-30,Notebook Set,Stationery,South,3,8.99,26.97
+3911,2024-12-30,Wireless Mouse,Electronics,West,1,19.99,19.99
+3912,2024-12-30,Laptop Stand,Office,East,5,34.99,174.95
+3913,2024-12-30,Laptop Stand,Office,East,3,34.99,104.97
+3914,2024-12-30,Gel Pens (Pack),Stationery,West,2,6.49,12.98
+3915,2024-12-30,Office Chair,Office,North,1,149.99,149.99
+3916,2024-12-30,USB-C Hub,Electronics,West,4,29.99,119.96
+3917,2024-12-31,Notebook Set,Stationery,North,5,8.99,44.95
+3918,2024-12-31,Gel Pens (Pack),Stationery,North,5,6.49,32.45
+3919,2024-12-31,Water Bottle,Lifestyle,North,4,15.99,63.96
+3920,2024-12-31,Mechanical Keyboard,Electronics,South,4,59.99,239.96
+3921,2024-12-31,Water Bottle,Lifestyle,West,2,15.99,31.98
+3922,2024-12-31,Laptop Stand,Office,North,2,34.99,69.98
+3923,2024-12-31,USB-C Hub,Electronics,South,2,29.99,59.98
+3924,2024-12-31,Water Bottle,Lifestyle,South,5,15.99,79.95
+3925,2024-12-31,Desk Lamp,Office,South,1,24.99,24.99
+3926,2024-12-31,Notebook Set,Stationery,North,1,8.99,8.99
+3927,2024-12-31,Gel Pens (Pack),Stationery,South,4,6.49,25.96
+3928,2024-12-31,Gel Pens (Pack),Stationery,East,5,6.49,32.45
+3929,2024-12-31,Water Bottle,Lifestyle,South,3,15.99,47.97
+3930,2024-12-31,Backpack,Lifestyle,South,4,45.99,183.96
+3931,2024-12-31,Desk Lamp,Office,West,3,24.99,74.97
+3932,2024-12-31,Notebook Set,Stationery,East,2,8.99,17.98
+3933,2024-12-31,Mechanical Keyboard,Electronics,East,5,59.99,299.95
